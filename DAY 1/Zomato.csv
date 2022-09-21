@@ -1,0 +1,9552 @@
+CountryCode,City,Rating
+162,Makati City,4.8
+162,Makati City,4.5
+162,Mandaluyong City,4.4
+162,Mandaluyong City,4.9
+162,Mandaluyong City,4.8
+162,Mandaluyong City,4.4
+162,Pasay City,4
+162,Pasay City,4.2
+162,Pasay City,4.9
+162,Pasig City,4.8
+162,Pasig City,4.9
+162,Pasig City,4.2
+162,Quezon City,4.8
+162,San Juan City,4.2
+162,San Juan City,4.3
+162,Santa Rosa,3.6
+162,Santa Rosa,4
+162,Tagaytay City,4.5
+162,Taguig City,4.5
+162,Taguig City,4.4
+162,Taguig City,4.7
+162,Taguig City,4.5
+30,Brasalia,3
+30,Brasalia,3.8
+30,Brasalia,3.7
+30,Brasalia,3.8
+30,Brasalia,3.2
+30,Brasalia,3.1
+30,Brasalia,3.7
+30,Brasalia,3.7
+30,Brasalia,1
+30,Brasalia,4.1
+30,Brasalia,3.1
+30,Brasalia,3.6
+30,Brasalia,4.3
+30,Brasalia,4.2
+30,Brasalia,3.6
+30,Brasalia,4
+30,Brasalia,3.2
+30,Brasalia,4.9
+30,Brasalia,3.3
+30,Brasalia,3.6
+30,Rio de Janeiro,4
+30,Rio de Janeiro,4.8
+30,Rio de Janeiro,4.7
+30,Rio de Janeiro,4.5
+30,Rio de Janeiro,4.2
+30,Rio de Janeiro,4.8
+30,Rio de Janeiro,4.9
+30,Rio de Janeiro,4.6
+30,Rio de Janeiro,4.9
+30,Rio de Janeiro,4.6
+30,Rio de Janeiro,4.3
+30,Rio de Janeiro,4
+30,Rio de Janeiro,4.6
+30,Rio de Janeiro,4.4
+30,Rio de Janeiro,4.2
+30,Rio de Janeiro,4.2
+30,Rio de Janeiro,1
+30,Rio de Janeiro,4.7
+30,Rio de Janeiro,4.6
+30,Rio de Janeiro,4.3
+30,San Paulo,4.5
+30,San Paulo,4.4
+30,San Paulo,3.1
+30,San Paulo,4.1
+30,San Paulo,4.8
+30,San Paulo,4.6
+30,San Paulo,3.9
+30,San Paulo,1
+30,San Paulo,3.4
+30,San Paulo,3.5
+30,San Paulo,4.3
+30,San Paulo,3.9
+30,San Paulo,4.3
+30,San Paulo,4.3
+30,San Paulo,4.4
+30,San Paulo,1
+30,San Paulo,1
+30,San Paulo,4.4
+30,San Paulo,4.6
+30,San Paulo,4.1
+216,Albany,3.3
+216,Albany,3.3
+216,Albany,3.4
+216,Albany,3.4
+216,Albany,3.4
+216,Albany,3.4
+216,Albany,3.5
+216,Albany,3.9
+216,Albany,3.7
+216,Albany,3.5
+216,Albany,3.6
+216,Albany,3.8
+216,Albany,3.9
+216,Albany,3.5
+216,Albany,3.5
+216,Albany,3.6
+216,Albany,3.5
+216,Albany,3.8
+216,Albany,3.7
+216,Albany,3.4
+14,Armidale,3.5
+216,Athens,4.5
+216,Athens,4.5
+216,Athens,4.6
+216,Athens,3.9
+216,Athens,3.7
+216,Athens,4.3
+216,Athens,4.2
+216,Athens,4
+216,Athens,4.1
+216,Athens,4.3
+216,Athens,4.2
+216,Athens,4.1
+216,Athens,4.1
+216,Athens,4.2
+216,Athens,4.1
+216,Athens,4.1
+216,Athens,4.4
+216,Athens,4.4
+216,Athens,4.2
+216,Athens,4.1
+216,Augusta,4.6
+216,Augusta,4.9
+216,Augusta,4.5
+216,Augusta,3.9
+216,Augusta,3.9
+216,Augusta,3.8
+216,Augusta,3.5
+216,Augusta,4.3
+216,Augusta,4.1
+216,Augusta,4.4
+216,Augusta,4
+216,Augusta,4
+216,Augusta,4.2
+216,Augusta,4
+216,Augusta,4
+216,Augusta,3.9
+216,Augusta,4.1
+216,Augusta,4
+216,Augusta,4.3
+216,Augusta,4.2
+14,Balingup,3.2
+14,Beechworth,4.6
+216,Boise,4.5
+216,Boise,4.6
+216,Boise,4.5
+216,Boise,3.9
+216,Boise,4.3
+216,Boise,4.1
+216,Boise,4.2
+216,Boise,4.3
+216,Boise,4.4
+216,Boise,4.1
+216,Boise,4.4
+216,Boise,4.3
+216,Boise,4.4
+216,Boise,4.4
+216,Boise,4
+216,Boise,4.1
+216,Boise,4.3
+216,Boise,4
+216,Boise,4
+216,Boise,4.4
+216,Iowa City,3.7
+216,Iowa City,4.1
+216,Iowa City,4.1
+216,Iowa City,4.1
+216,Iowa City,4.4
+216,Iowa City,4.2
+216,Iowa City,4.2
+216,Iowa City,4.2
+216,Iowa City,3.8
+216,Iowa City,4.1
+216,Iowa City,4.9
+216,Iowa City,4.5
+216,Iowa City,3.6
+216,Iowa City,3.8
+216,Iowa City,4.3
+216,Iowa City,4.3
+216,Iowa City,4.1
+216,Iowa City,4
+216,Iowa City,4.2
+216,Iowa City,4.7
+37,Kent,3.7
+216,Clatskanie,4.3
+216,Cochrane,3.1
+216,Columbus,3.3
+216,Columbus,4.6
+216,Columbus,4.5
+216,Columbus,3.8
+216,Columbus,3.9
+216,Columbus,3.9
+216,Columbus,3.7
+216,Columbus,3.6
+216,Columbus,3.7
+216,Columbus,4.2
+216,Columbus,4.3
+216,Columbus,4
+216,Columbus,4
+216,Columbus,4
+216,Columbus,4.1
+216,Columbus,4.1
+216,Columbus,4.2
+216,Columbus,4.3
+216,Columbus,4
+216,Columbus,4.4
+37,Consort,3
+216,Dalton,3.7
+216,Dalton,4.4
+216,Dalton,4.4
+216,Dalton,3.9
+216,Dalton,4.9
+216,Dalton,3.8
+216,Dalton,3.8
+216,Dalton,3.8
+216,Dalton,3.7
+216,Dalton,4.1
+216,Dalton,4.1
+216,Dalton,4.1
+216,Dalton,4.6
+216,Dalton,4.3
+216,Dalton,4.2
+216,Dalton,3.7
+216,Dalton,4.1
+216,Dalton,4.3
+216,Dalton,4.2
+216,Dalton,4.1
+216,Davenport,4.6
+216,Davenport,4.5
+216,Davenport,3.9
+216,Davenport,4
+216,Davenport,4.1
+216,Davenport,3.4
+216,Davenport,4.9
+216,Davenport,3.9
+216,Davenport,3.7
+216,Davenport,1
+216,Davenport,1
+216,Davenport,4.3
+216,Davenport,4
+216,Davenport,4.1
+216,Davenport,4.3
+216,Davenport,4
+216,Davenport,4.1
+216,Davenport,4.1
+216,Davenport,4.2
+216,Davenport,4.2
+216,Des Moines,4.5
+216,Des Moines,4.9
+216,Des Moines,4.5
+216,Des Moines,4.1
+216,Des Moines,4
+216,Des Moines,3.2
+216,Des Moines,4.5
+216,Des Moines,4.6
+216,Des Moines,4.4
+216,Des Moines,4.2
+216,Des Moines,4.3
+216,Des Moines,4.8
+216,Des Moines,4.2
+216,Des Moines,4.1
+216,Des Moines,4.1
+216,Des Moines,4
+216,Des Moines,4.3
+216,Des Moines,3.8
+216,Des Moines,4
+216,Des Moines,4.2
+14,Dicky Beach,3.6
+216,Dubuque,3.4
+216,Dubuque,3.3
+216,Dubuque,3.4
+216,Dubuque,3.3
+216,Dubuque,3.4
+216,Dubuque,3.5
+216,Dubuque,3.6
+216,Dubuque,3.5
+216,Dubuque,3.6
+216,Dubuque,3.7
+216,Dubuque,3.6
+216,Dubuque,3.8
+216,Dubuque,3.5
+216,Dubuque,3.5
+216,Dubuque,3.6
+216,Dubuque,3.6
+216,Dubuque,3.6
+216,Dubuque,3.5
+216,Dubuque,3.7
+216,Dubuque,3.6
+14,East Ballina,4.1
+216,Fernley,3.7
+14,Flaxton,3.5
+14,Forrest,3.7
+216,Gainesville,4.4
+216,Gainesville,4.1
+216,Gainesville,3.8
+216,Gainesville,3.9
+216,Gainesville,3.9
+216,Gainesville,4.4
+216,Gainesville,4.1
+216,Gainesville,3.8
+216,Gainesville,4.3
+216,Gainesville,4.1
+216,Gainesville,4.9
+216,Gainesville,4.6
+216,Gainesville,3.8
+216,Gainesville,4.2
+216,Gainesville,4.3
+216,Gainesville,4.2
+216,Gainesville,3.8
+216,Gainesville,3.9
+216,Gainesville,2.2
+216,Gainesville,4
+14,Hepburn Springs,3.8
+14,Hepburn Springs,3.8
+14,Huskisson,4.1
+14,Inverloch,3.7
+14,Lakes Entrance,3.8
+216,Lakeview,3.6
+216,Lincoln,4.5
+14,Lorn,3.6
+14,Macedon,3.5
+216,Macon,3.9
+216,Macon,4.9
+216,Macon,4.6
+216,Macon,4.5
+216,Macon,4.5
+216,Macon,3.8
+216,Macon,4.1
+216,Macon,4
+216,Macon,4.3
+216,Macon,4.2
+216,Macon,4.2
+216,Macon,3.7
+216,Macon,3.7
+216,Macon,3.7
+216,Macon,3.8
+216,Macon,4.1
+216,Macon,4
+216,Macon,4.2
+216,Macon,4
+216,Macon,4.1
+14,Mayfield,2.9
+216,Mc Millan,2.4
+14,Middleton Beach,3.8
+216,Miller,3.4
+216,Monroe,3.6
+14,Montville,2.4
+216,Ojo Caliente,3.6
+216,Orlando,4.4
+216,Orlando,4.5
+216,Orlando,4.7
+216,Orlando,4.3
+216,Orlando,4.6
+216,Orlando,4.6
+216,Orlando,4.3
+216,Orlando,4.4
+216,Orlando,4.6
+216,Orlando,4.4
+216,Orlando,4.4
+216,Orlando,4.8
+216,Orlando,4.9
+216,Orlando,4.9
+216,Orlando,4.7
+216,Orlando,3.6
+216,Orlando,4.2
+216,Orlando,4.4
+216,Orlando,4.4
+216,Orlando,4.4
+14,Palm Cove,4.4
+14,Paynesville,2.6
+14,Penola,3.4
+216,Pensacola,4.2
+216,Pensacola,4.9
+216,Pensacola,4.6
+216,Pensacola,4.5
+216,Pensacola,3.7
+216,Pensacola,3.9
+216,Pensacola,3.7
+216,Pensacola,4.2
+216,Pensacola,4.1
+216,Pensacola,4.4
+216,Pensacola,4.3
+216,Pensacola,4
+216,Pensacola,4.1
+216,Pensacola,3.9
+216,Pensacola,3.5
+216,Pensacola,4.2
+216,Pensacola,4.4
+216,Pensacola,4.3
+216,Pensacola,4.7
+216,Pensacola,4.4
+14,Phillip Island,3.7
+216,Pocatello,3.7
+216,Pocatello,3.5
+216,Pocatello,3.6
+216,Pocatello,3.6
+216,Pocatello,3.7
+216,Pocatello,3.6
+216,Pocatello,3.5
+216,Pocatello,3.8
+216,Pocatello,3.8
+216,Pocatello,3.7
+216,Pocatello,3.5
+216,Pocatello,3.7
+216,Pocatello,3.6
+216,Pocatello,3.6
+216,Pocatello,3.6
+216,Pocatello,3.8
+216,Pocatello,3.7
+216,Pocatello,3.6
+216,Pocatello,1
+216,Pocatello,4.1
+216,Potrero,3.3
+216,Princeton,4
+216,Rest of Hawaii,4.5
+216,Rest of Hawaii,4.7
+216,Rest of Hawaii,4.7
+216,Rest of Hawaii,4.5
+216,Rest of Hawaii,4.5
+216,Rest of Hawaii,4.2
+216,Rest of Hawaii,4.2
+216,Rest of Hawaii,4.6
+216,Rest of Hawaii,4.2
+216,Rest of Hawaii,4.4
+216,Rest of Hawaii,4.3
+216,Rest of Hawaii,4.3
+216,Rest of Hawaii,4.9
+216,Rest of Hawaii,4.9
+216,Rest of Hawaii,4.6
+216,Rest of Hawaii,3.9
+216,Rest of Hawaii,4.4
+216,Rest of Hawaii,4
+216,Rest of Hawaii,4.2
+216,Rest of Hawaii,4.2
+216,Savannah,3.3
+216,Savannah,4.7
+216,Savannah,4.6
+216,Savannah,4.5
+216,Savannah,4.5
+216,Savannah,3.7
+216,Savannah,3.8
+216,Savannah,4.1
+216,Savannah,4.4
+216,Savannah,4.2
+216,Savannah,4.1
+216,Savannah,4.1
+216,Savannah,4.3
+216,Savannah,4.3
+216,Savannah,4
+216,Savannah,4.3
+216,Savannah,4.4
+216,Savannah,4.1
+216,Savannah,3.8
+216,Savannah,3.9
+184,Singapore,3.4
+184,Singapore,4
+184,Singapore,3.8
+184,Singapore,3.1
+184,Singapore,3.8
+184,Singapore,3.9
+184,Singapore,4.2
+184,Singapore,4.1
+184,Singapore,3.2
+184,Singapore,3.2
+184,Singapore,3.7
+184,Singapore,3
+184,Singapore,3.8
+184,Singapore,3.9
+184,Singapore,3.1
+184,Singapore,3.2
+184,Singapore,3.2
+184,Singapore,3.8
+184,Singapore,3.9
+184,Singapore,3.2
+216,Sioux City,3.7
+216,Sioux City,3.6
+216,Sioux City,3.8
+216,Sioux City,3.6
+216,Sioux City,3.7
+216,Sioux City,3.6
+216,Sioux City,3.8
+216,Sioux City,3.8
+216,Sioux City,3.7
+216,Sioux City,3.9
+216,Sioux City,3.7
+216,Sioux City,3.8
+216,Sioux City,3.7
+216,Sioux City,3.7
+216,Sioux City,3.8
+216,Sioux City,3.9
+216,Sioux City,4
+216,Sioux City,4
+216,Sioux City,4
+216,Sioux City,3.5
+216,Tampa Bay,4.6
+216,Tampa Bay,4.6
+216,Tampa Bay,4.1
+216,Tampa Bay,4.1
+216,Tampa Bay,4.1
+216,Tampa Bay,4.7
+216,Tampa Bay,3.9
+216,Tampa Bay,3.9
+216,Tampa Bay,4.4
+216,Tampa Bay,4.4
+216,Tampa Bay,4.2
+216,Tampa Bay,4.9
+216,Tampa Bay,4.5
+216,Tampa Bay,4.9
+216,Tampa Bay,4.5
+216,Tampa Bay,4.7
+216,Tampa Bay,4.8
+216,Tampa Bay,4.5
+216,Tampa Bay,4
+216,Tampa Bay,4.4
+14,Tanunda,4.4
+14,Trentham East,4.1
+216,Valdosta,3.4
+216,Valdosta,3.1
+216,Valdosta,3.9
+216,Valdosta,3.7
+216,Valdosta,3.8
+216,Valdosta,3.7
+216,Valdosta,3.8
+216,Valdosta,3.7
+216,Valdosta,3.7
+216,Valdosta,3.7
+216,Valdosta,3.9
+216,Valdosta,3.8
+216,Valdosta,3.5
+216,Valdosta,3.9
+216,Valdosta,3.7
+216,Valdosta,3.5
+216,Valdosta,3.8
+216,Valdosta,3.8
+216,Valdosta,3.8
+216,Valdosta,4.1
+216,Vernonia,4.3
+14,Victor Harbor,3.6
+37,Vineland Station,4.3
+216,Waterloo,3.2
+216,Waterloo,3.7
+216,Waterloo,3.9
+216,Waterloo,3.8
+216,Waterloo,3.7
+216,Waterloo,3.6
+216,Waterloo,3.6
+216,Waterloo,3.6
+216,Waterloo,3.8
+216,Waterloo,3.7
+216,Waterloo,3.6
+216,Waterloo,3.6
+216,Waterloo,3.6
+216,Waterloo,3.6
+216,Waterloo,3.6
+216,Waterloo,3.7
+216,Waterloo,3.6
+216,Waterloo,3.7
+216,Waterloo,3.5
+216,Waterloo,3.9
+216,Weirton,3.9
+216,Winchester Bay,3.2
+37,Yorkton,3.3
+214,Abu Dhabi,4.6
+214,Abu Dhabi,4.6
+214,Abu Dhabi,4.4
+214,Abu Dhabi,4.3
+214,Abu Dhabi,4.2
+214,Abu Dhabi,4.6
+214,Abu Dhabi,4.1
+214,Abu Dhabi,4.4
+214,Abu Dhabi,4
+214,Abu Dhabi,3.6
+214,Abu Dhabi,4.5
+214,Abu Dhabi,4
+214,Abu Dhabi,4
+214,Abu Dhabi,4
+214,Abu Dhabi,4.3
+214,Abu Dhabi,4
+214,Abu Dhabi,4.9
+214,Abu Dhabi,4.7
+214,Abu Dhabi,4.2
+214,Abu Dhabi,4.6
+214,Dubai,3.9
+214,Dubai,4.1
+214,Dubai,4.3
+214,Dubai,4.5
+214,Dubai,4.5
+214,Dubai,4.9
+214,Dubai,4.9
+214,Dubai,4.8
+214,Dubai,4.5
+214,Dubai,4.5
+214,Dubai,4.3
+214,Dubai,4.3
+214,Dubai,4.4
+214,Dubai,4.9
+214,Dubai,4.4
+214,Dubai,3.2
+214,Dubai,4.7
+214,Dubai,4.3
+214,Dubai,3.7
+214,Dubai,4.3
+214,Sharjah,3.9
+214,Sharjah,3.8
+214,Sharjah,4.1
+214,Sharjah,4.3
+214,Sharjah,3.9
+214,Sharjah,4.1
+214,Sharjah,4.1
+214,Sharjah,4.2
+214,Sharjah,4.1
+214,Sharjah,2.4
+214,Sharjah,4.2
+214,Sharjah,4.2
+214,Sharjah,4.2
+214,Sharjah,3.8
+214,Sharjah,3.9
+214,Sharjah,4.8
+214,Sharjah,4.1
+214,Sharjah,4.5
+214,Sharjah,3.8
+214,Sharjah,4.2
+1,Agra,3.9
+1,Agra,3.5
+1,Agra,3.6
+1,Agra,4
+1,Agra,4.2
+1,Agra,4
+1,Agra,4.3
+1,Agra,4
+1,Agra,3.6
+1,Agra,3.8
+1,Agra,3.9
+1,Agra,4.1
+1,Agra,3.4
+1,Agra,4.9
+1,Agra,3.8
+1,Agra,3.9
+1,Agra,3.7
+1,Agra,4.4
+1,Agra,4.2
+1,Agra,4.1
+1,Ahmedabad,4.2
+1,Ahmedabad,3.7
+1,Ahmedabad,4.5
+1,Ahmedabad,4.1
+1,Ahmedabad,4.3
+1,Ahmedabad,4.4
+1,Ahmedabad,4.4
+1,Ahmedabad,3.8
+1,Ahmedabad,3.6
+1,Ahmedabad,4.6
+1,Ahmedabad,4.4
+1,Ahmedabad,4.3
+1,Ahmedabad,3.8
+1,Ahmedabad,4.3
+1,Ahmedabad,4
+1,Ahmedabad,4.4
+1,Ahmedabad,4.5
+1,Ahmedabad,4.1
+1,Ahmedabad,4.1
+1,Ahmedabad,3.9
+1,Ahmedabad,4
+1,Allahabad,3.4
+1,Allahabad,3.3
+1,Allahabad,3.2
+1,Allahabad,3.4
+1,Allahabad,3.4
+1,Allahabad,3.4
+1,Allahabad,3.4
+1,Allahabad,3.3
+1,Allahabad,3.2
+1,Allahabad,3.4
+1,Allahabad,3.4
+1,Allahabad,3.2
+1,Allahabad,3.3
+1,Allahabad,3.4
+1,Allahabad,3.6
+1,Allahabad,3.7
+1,Allahabad,3.5
+1,Allahabad,3.6
+1,Allahabad,3.5
+1,Allahabad,3.3
+1,Amritsar,3.4
+1,Amritsar,3.9
+1,Amritsar,4
+1,Amritsar,3.4
+1,Amritsar,3.6
+1,Amritsar,3.5
+1,Amritsar,3.4
+1,Amritsar,3.4
+1,Amritsar,3.5
+1,Amritsar,3.6
+1,Amritsar,3.9
+1,Amritsar,3.4
+1,Amritsar,3.7
+1,Amritsar,3.5
+1,Amritsar,3.8
+1,Amritsar,3.8
+1,Amritsar,4.1
+1,Amritsar,4.1
+1,Amritsar,3.8
+1,Amritsar,3.5
+1,Amritsar,4.1
+1,Aurangabad,3.6
+1,Aurangabad,3.3
+1,Aurangabad,3.3
+1,Aurangabad,3.1
+1,Aurangabad,3.4
+1,Aurangabad,3.4
+1,Aurangabad,3.4
+1,Aurangabad,3.3
+1,Aurangabad,3.4
+1,Aurangabad,3.6
+1,Aurangabad,3.5
+1,Aurangabad,3.3
+1,Aurangabad,3.3
+1,Aurangabad,3.4
+1,Aurangabad,3.7
+1,Aurangabad,3.2
+1,Aurangabad,3.4
+1,Aurangabad,3.3
+1,Aurangabad,3.3
+1,Aurangabad,3.3
+1,Bangalore,4.1
+1,Bangalore,4.7
+1,Bangalore,4.8
+1,Bangalore,3.9
+1,Bangalore,4.2
+1,Bangalore,4
+1,Bangalore,4.3
+1,Bangalore,4.6
+1,Bangalore,4.7
+1,Bangalore,4.7
+1,Bangalore,4.1
+1,Bangalore,4.3
+1,Bangalore,4.5
+1,Bangalore,4.6
+1,Bangalore,4.4
+1,Bangalore,4.6
+1,Bangalore,4.2
+1,Bangalore,4.5
+1,Bangalore,3.9
+1,Bangalore,4.4
+1,Bhopal,3.3
+1,Bhopal,3.4
+1,Bhopal,4.9
+1,Bhopal,3.9
+1,Bhopal,4.2
+1,Bhopal,4
+1,Bhopal,4
+1,Bhopal,4.1
+1,Bhopal,3.8
+1,Bhopal,3.8
+1,Bhopal,3.5
+1,Bhopal,3.6
+1,Bhopal,3.6
+1,Bhopal,4.1
+1,Bhopal,4.4
+1,Bhopal,4.1
+1,Bhopal,4.3
+1,Bhopal,3.9
+1,Bhopal,3.8
+1,Bhopal,4.3
+1,Bhubaneshwar,3.9
+1,Bhubaneshwar,4.1
+1,Bhubaneshwar,4.6
+1,Bhubaneshwar,4.5
+1,Bhubaneshwar,3.9
+1,Bhubaneshwar,4
+1,Bhubaneshwar,3.7
+1,Bhubaneshwar,4.1
+1,Bhubaneshwar,3.6
+1,Bhubaneshwar,3.8
+1,Bhubaneshwar,3.7
+1,Bhubaneshwar,3.7
+1,Bhubaneshwar,3.8
+1,Bhubaneshwar,4
+1,Bhubaneshwar,4
+1,Bhubaneshwar,4.3
+1,Bhubaneshwar,4.1
+1,Bhubaneshwar,3.8
+1,Bhubaneshwar,4.2
+1,Bhubaneshwar,4.3
+1,Bhubaneshwar,3.5
+1,Chandigarh,3.7
+1,Chandigarh,4.2
+1,Chandigarh,4.3
+1,Chandigarh,4.1
+1,Chandigarh,4
+1,Chandigarh,4
+1,Chandigarh,4.5
+1,Chandigarh,4.3
+1,Chandigarh,3.8
+1,Chandigarh,3.4
+1,Chandigarh,4.1
+1,Chandigarh,4.1
+1,Chandigarh,4
+1,Chandigarh,4.2
+1,Chandigarh,3.3
+1,Chandigarh,4.4
+1,Chandigarh,4.5
+1,Chandigarh,4
+1,Chennai,4.2
+1,Chennai,3.8
+1,Chennai,4.4
+1,Chennai,4.2
+1,Chennai,4.8
+1,Chennai,4.2
+1,Chennai,4.6
+1,Chennai,4.1
+1,Chennai,4
+1,Chennai,4.6
+1,Chennai,4.2
+1,Chennai,3.8
+1,Chennai,4.3
+1,Chennai,4.4
+1,Chennai,4.3
+1,Chennai,4.5
+1,Chennai,4.4
+1,Chennai,4.9
+1,Chennai,4.6
+1,Chennai,4
+1,Coimbatore,4.6
+1,Coimbatore,3.9
+1,Coimbatore,3.8
+1,Coimbatore,3.5
+1,Coimbatore,4.3
+1,Coimbatore,4.1
+1,Coimbatore,3.8
+1,Coimbatore,4.5
+1,Coimbatore,3.8
+1,Coimbatore,3.9
+1,Coimbatore,4.2
+1,Coimbatore,4
+1,Coimbatore,4
+1,Coimbatore,4
+1,Coimbatore,4.3
+1,Coimbatore,4.2
+1,Coimbatore,4.9
+1,Coimbatore,4.2
+1,Coimbatore,4.3
+1,Coimbatore,4.4
+1,Dehradun,3.6
+1,Dehradun,3.8
+1,Dehradun,3.9
+1,Dehradun,3.9
+1,Dehradun,4.2
+1,Dehradun,4.9
+1,Dehradun,4.3
+1,Dehradun,4
+1,Dehradun,3.8
+1,Dehradun,4
+1,Dehradun,4.1
+1,Dehradun,3.9
+1,Dehradun,3.9
+1,Dehradun,3.9
+1,Dehradun,3.9
+1,Dehradun,4.4
+1,Dehradun,4
+1,Dehradun,4.1
+1,Dehradun,4.2
+1,Dehradun,4.2
+1,Faridabad,2.9
+1,Faridabad,2.8
+1,Faridabad,2.8
+1,Faridabad,2.9
+1,Faridabad,2.8
+1,Faridabad,3
+1,Faridabad,1
+1,Faridabad,1
+1,Faridabad,1
+1,Faridabad,1
+1,Faridabad,2.9
+1,Faridabad,3
+1,Faridabad,2.9
+1,Faridabad,1
+1,Faridabad,1
+1,Faridabad,1
+1,Faridabad,2.8
+1,Faridabad,3.4
+1,Faridabad,3.4
+1,Faridabad,3.8
+1,Faridabad,3.6
+1,Faridabad,3.6
+1,Faridabad,1
+1,Faridabad,1
+1,Faridabad,1
+1,Faridabad,2.1
+1,Faridabad,4
+1,Faridabad,4.1
+1,Faridabad,3.2
+1,Faridabad,2.7
+1,Faridabad,3.4
+1,Faridabad,2.4
+1,Faridabad,1
+1,Faridabad,2.8
+1,Faridabad,1
+1,Faridabad,1
+1,Faridabad,1
+1,Faridabad,1
+1,Faridabad,1
+1,Faridabad,1
+1,Faridabad,1
+1,Faridabad,1
+1,Faridabad,1
+1,Faridabad,1
+1,Faridabad,3
+1,Faridabad,3.2
+1,Faridabad,2.8
+1,Faridabad,1
+1,Faridabad,2.8
+1,Faridabad,3.1
+1,Faridabad,3
+1,Faridabad,3.1
+1,Faridabad,2.9
+1,Faridabad,1
+1,Faridabad,1
+1,Faridabad,1
+1,Faridabad,3.3
+1,Faridabad,3
+1,Faridabad,2.6
+1,Faridabad,2.9
+1,Faridabad,2.9
+1,Faridabad,3.1
+1,Faridabad,1
+1,Faridabad,1
+1,Faridabad,1
+1,Faridabad,3.2
+1,Faridabad,3.4
+1,Faridabad,3.3
+1,Faridabad,2.7
+1,Faridabad,3.4
+1,Faridabad,3.3
+1,Faridabad,2.6
+1,Faridabad,3.3
+1,Faridabad,3.4
+1,Faridabad,2.7
+1,Faridabad,2.6
+1,Faridabad,2.7
+1,Faridabad,3.4
+1,Faridabad,4.5
+1,Faridabad,3.6
+1,Faridabad,3.5
+1,Faridabad,3.8
+1,Faridabad,3.5
+1,Faridabad,3.6
+1,Faridabad,3.7
+1,Faridabad,3.6
+1,Faridabad,3.5
+1,Faridabad,3.6
+1,Faridabad,3.5
+1,Faridabad,3.6
+1,Faridabad,3.8
+1,Faridabad,3.5
+1,Faridabad,3.6
+1,Faridabad,3.8
+1,Faridabad,3.5
+1,Faridabad,4.1
+1,Faridabad,2.9
+1,Faridabad,2.9
+1,Faridabad,2.5
+1,Faridabad,3.1
+1,Faridabad,3
+1,Faridabad,3.4
+1,Faridabad,3.3
+1,Faridabad,3.1
+1,Faridabad,3.1
+1,Faridabad,1
+1,Faridabad,1
+1,Faridabad,1
+1,Faridabad,1
+1,Faridabad,1
+1,Faridabad,1
+1,Faridabad,1
+1,Faridabad,1
+1,Faridabad,2.8
+1,Faridabad,2.7
+1,Faridabad,2.7
+1,Faridabad,2.7
+1,Faridabad,2.8
+1,Faridabad,2.7
+1,Faridabad,3.2
+1,Faridabad,3.4
+1,Faridabad,3.3
+1,Faridabad,1
+1,Faridabad,3
+1,Faridabad,3.3
+1,Faridabad,2.8
+1,Faridabad,3.1
+1,Faridabad,2.8
+1,Faridabad,3
+1,Faridabad,1
+1,Faridabad,1
+1,Faridabad,1
+1,Faridabad,1
+1,Faridabad,1
+1,Faridabad,1
+1,Faridabad,1
+1,Faridabad,1
+1,Faridabad,1
+1,Faridabad,1
+1,Faridabad,2.6
+1,Faridabad,2.9
+1,Faridabad,1
+1,Faridabad,1
+1,Faridabad,3.1
+1,Faridabad,1
+1,Faridabad,1
+1,Faridabad,3.1
+1,Faridabad,3.1
+1,Faridabad,2.9
+1,Faridabad,1
+1,Faridabad,1
+1,Faridabad,1
+1,Faridabad,1
+1,Faridabad,1
+1,Faridabad,1
+1,Faridabad,2.7
+1,Faridabad,2.7
+1,Faridabad,1
+1,Faridabad,1
+1,Faridabad,1
+1,Faridabad,1
+1,Faridabad,3
+1,Faridabad,3.3
+1,Faridabad,3.1
+1,Faridabad,3.1
+1,Faridabad,2.8
+1,Faridabad,2.7
+1,Faridabad,3.1
+1,Faridabad,2.9
+1,Faridabad,2.7
+1,Faridabad,3.6
+1,Faridabad,1
+1,Faridabad,1
+1,Faridabad,1
+1,Faridabad,1
+1,Faridabad,1
+1,Faridabad,1
+1,Faridabad,1
+1,Faridabad,1
+1,Faridabad,1
+1,Faridabad,1
+1,Faridabad,3
+1,Faridabad,1
+1,Faridabad,1
+1,Faridabad,1
+1,Faridabad,1
+1,Faridabad,1
+1,Faridabad,2.9
+1,Faridabad,3.1
+1,Faridabad,2.9
+1,Faridabad,2.9
+1,Faridabad,1
+1,Faridabad,1
+1,Faridabad,1
+1,Faridabad,1
+1,Faridabad,1
+1,Faridabad,1
+1,Faridabad,1
+1,Faridabad,3.2
+1,Faridabad,2.5
+1,Faridabad,3.5
+1,Faridabad,1
+1,Faridabad,1
+1,Faridabad,2.7
+1,Faridabad,3
+1,Faridabad,3
+1,Faridabad,2.9
+1,Faridabad,3
+1,Faridabad,3.1
+1,Faridabad,2.9
+1,Faridabad,3
+1,Faridabad,1
+1,Faridabad,3
+1,Faridabad,2.9
+1,Faridabad,3.2
+1,Faridabad,3.4
+1,Faridabad,2.9
+1,Faridabad,3
+1,Faridabad,3.2
+1,Faridabad,3.1
+1,Faridabad,3.3
+1,Faridabad,3.4
+1,Faridabad,3.5
+1,Faridabad,3.1
+1,Faridabad,1
+1,Faridabad,1
+1,Faridabad,1
+1,Faridabad,1
+1,Faridabad,1
+1,Faridabad,2.9
+1,Faridabad,3
+1,Faridabad,2.8
+1,Faridabad,2.8
+1,Faridabad,2.6
+1,Faridabad,3
+1,Faridabad,3.1
+1,Faridabad,3.1
+1,Faridabad,3
+1,Faridabad,3
+1,Faridabad,1
+1,Faridabad,1
+1,Faridabad,1
+1,Faridabad,1
+1,Faridabad,1
+1,Faridabad,1
+1,Faridabad,1
+1,Faridabad,1
+1,Faridabad,1
+1,Faridabad,3
+1,Faridabad,3.1
+1,Faridabad,3.3
+1,Ghaziabad,2.8
+1,Ghaziabad,3
+1,Ghaziabad,3.6
+1,Ghaziabad,3.9
+1,Ghaziabad,1
+1,Ghaziabad,1
+1,Ghaziabad,2.5
+1,Ghaziabad,3.4
+1,Ghaziabad,3.3
+1,Ghaziabad,3.4
+1,Ghaziabad,3.2
+1,Ghaziabad,2.9
+1,Ghaziabad,2.6
+1,Ghaziabad,3.3
+1,Ghaziabad,3.2
+1,Ghaziabad,3
+1,Ghaziabad,2.7
+1,Ghaziabad,2.6
+1,Ghaziabad,3.3
+1,Ghaziabad,3.1
+1,Ghaziabad,3.6
+1,Ghaziabad,3.6
+1,Ghaziabad,1.8
+1,Ghaziabad,3.3
+1,Ghaziabad,3.2
+1,Goa,4.5
+1,Goa,4.8
+1,Goa,4.4
+1,Goa,3.5
+1,Goa,4.6
+1,Goa,3.8
+1,Goa,4.3
+1,Goa,4.2
+1,Goa,4.4
+1,Goa,3.7
+1,Goa,4.3
+1,Goa,3.8
+1,Goa,4.2
+1,Goa,4.6
+1,Goa,3.7
+1,Goa,4.5
+1,Goa,4.7
+1,Goa,4.3
+1,Goa,4.4
+1,Goa,4.2
+1,Gurgaon,3.4
+1,Gurgaon,2.7
+1,Gurgaon,4.3
+1,Gurgaon,4
+1,Gurgaon,3
+1,Gurgaon,3
+1,Gurgaon,3
+1,Gurgaon,1
+1,Gurgaon,3
+1,Gurgaon,3.1
+1,Gurgaon,2.9
+1,Gurgaon,1
+1,Gurgaon,1
+1,Gurgaon,1
+1,Gurgaon,1
+1,Gurgaon,1
+1,Gurgaon,1
+1,Gurgaon,1
+1,Gurgaon,1
+1,Gurgaon,1
+1,Gurgaon,1
+1,Gurgaon,1
+1,Gurgaon,1
+1,Gurgaon,1
+1,Gurgaon,1
+1,Gurgaon,1
+1,Gurgaon,1
+1,Gurgaon,2.8
+1,Gurgaon,2.9
+1,Gurgaon,3.9
+1,Gurgaon,3.4
+1,Gurgaon,3.4
+1,Gurgaon,3.4
+1,Gurgaon,3.3
+1,Gurgaon,3.4
+1,Gurgaon,2.5
+1,Gurgaon,3.8
+1,Gurgaon,3.9
+1,Gurgaon,3.6
+1,Gurgaon,4.3
+1,Gurgaon,3.8
+1,Gurgaon,3
+1,Gurgaon,3.5
+1,Gurgaon,3.5
+1,Gurgaon,3.4
+1,Gurgaon,3.2
+1,Gurgaon,1
+1,Gurgaon,3.9
+1,Gurgaon,3.7
+1,Gurgaon,3.7
+1,Gurgaon,3.5
+1,Gurgaon,4
+1,Gurgaon,4.2
+1,Gurgaon,4.2
+1,Gurgaon,4.1
+1,Gurgaon,3.9
+1,Gurgaon,3.7
+1,Gurgaon,2.8
+1,Gurgaon,3.3
+1,Gurgaon,4.6
+1,Gurgaon,4.6
+1,Gurgaon,4.5
+1,Gurgaon,3.7
+1,Gurgaon,3.7
+1,Gurgaon,3.7
+1,Gurgaon,3.7
+1,Gurgaon,3.6
+1,Gurgaon,3.9
+1,Gurgaon,3.8
+1,Gurgaon,3.6
+1,Gurgaon,3.6
+1,Gurgaon,3.9
+1,Gurgaon,3.6
+1,Gurgaon,3.8
+1,Gurgaon,3.9
+1,Gurgaon,3.9
+1,Gurgaon,3.8
+1,Gurgaon,3.6
+1,Gurgaon,3.5
+1,Gurgaon,3.9
+1,Gurgaon,3.9
+1,Gurgaon,3.8
+1,Gurgaon,3.8
+1,Gurgaon,3.7
+1,Gurgaon,3.8
+1,Gurgaon,3.9
+1,Gurgaon,2.4
+1,Gurgaon,4
+1,Gurgaon,4.3
+1,Gurgaon,4
+1,Gurgaon,4
+1,Gurgaon,4.3
+1,Gurgaon,4.1
+1,Gurgaon,4
+1,Gurgaon,4
+1,Gurgaon,4
+1,Gurgaon,4.1
+1,Gurgaon,4
+1,Gurgaon,4
+1,Gurgaon,3.1
+1,Gurgaon,3.8
+1,Gurgaon,3.8
+1,Gurgaon,2.4
+1,Gurgaon,4.2
+1,Gurgaon,3.4
+1,Gurgaon,3.3
+1,Gurgaon,2.5
+1,Gurgaon,3.8
+1,Gurgaon,3.7
+1,Gurgaon,3.8
+1,Gurgaon,3.8
+1,Gurgaon,3.9
+1,Gurgaon,3.6
+1,Gurgaon,3.8
+1,Gurgaon,3.5
+1,Gurgaon,3.5
+1,Gurgaon,3.5
+1,Gurgaon,2.4
+1,Gurgaon,4.3
+1,Gurgaon,4
+1,Gurgaon,4.1
+1,Gurgaon,3.2
+1,Gurgaon,2.6
+1,Gurgaon,2.8
+1,Gurgaon,3
+1,Gurgaon,2.6
+1,Gurgaon,3.3
+1,Gurgaon,2.8
+1,Gurgaon,3.3
+1,Gurgaon,3.3
+1,Gurgaon,3.1
+1,Gurgaon,2.5
+1,Gurgaon,3.9
+1,Gurgaon,3.5
+1,Gurgaon,1
+1,Gurgaon,2.2
+1,Gurgaon,3.4
+1,Gurgaon,3.1
+1,Gurgaon,3.2
+1,Gurgaon,2.9
+1,Gurgaon,3
+1,Gurgaon,2.9
+1,Gurgaon,3.4
+1,Gurgaon,3.2
+1,Gurgaon,3.2
+1,Gurgaon,3.1
+1,Gurgaon,2.9
+1,Gurgaon,2.9
+1,Gurgaon,2.8
+1,Gurgaon,3.1
+1,Gurgaon,3.1
+1,Gurgaon,4.6
+1,Gurgaon,3.9
+1,Gurgaon,3.8
+1,Gurgaon,3.9
+1,Gurgaon,3.8
+1,Gurgaon,3.5
+1,Gurgaon,3.6
+1,Gurgaon,3.8
+1,Gurgaon,1
+1,Gurgaon,1
+1,Gurgaon,1
+1,Gurgaon,1
+1,Gurgaon,3.8
+1,Gurgaon,1
+1,Gurgaon,1
+1,Gurgaon,1
+1,Gurgaon,1
+1,Gurgaon,1
+1,Gurgaon,1
+1,Gurgaon,1
+1,Gurgaon,1
+1,Gurgaon,1
+1,Gurgaon,2.5
+1,Gurgaon,3.2
+1,Gurgaon,3
+1,Gurgaon,2.6
+1,Gurgaon,3.2
+1,Gurgaon,3.3
+1,Gurgaon,3.1
+1,Gurgaon,3.2
+1,Gurgaon,3.2
+1,Gurgaon,3.3
+1,Gurgaon,2.8
+1,Gurgaon,2.9
+1,Gurgaon,3
+1,Gurgaon,3.4
+1,Gurgaon,3
+1,Gurgaon,3.2
+1,Gurgaon,3.4
+1,Gurgaon,3.4
+1,Gurgaon,2.7
+1,Gurgaon,3.3
+1,Gurgaon,3.4
+1,Gurgaon,3.1
+1,Gurgaon,2.5
+1,Gurgaon,2.5
+1,Gurgaon,3.4
+1,Gurgaon,2.6
+1,Gurgaon,3.1
+1,Gurgaon,3.1
+1,Gurgaon,3.1
+1,Gurgaon,2.7
+1,Gurgaon,3.4
+1,Gurgaon,3.2
+1,Gurgaon,3
+1,Gurgaon,3.2
+1,Gurgaon,3.1
+1,Gurgaon,3.2
+1,Gurgaon,3.4
+1,Gurgaon,3.2
+1,Gurgaon,2.7
+1,Gurgaon,2.9
+1,Gurgaon,3.3
+1,Gurgaon,3
+1,Gurgaon,3.2
+1,Gurgaon,3.2
+1,Gurgaon,2.7
+1,Gurgaon,3.3
+1,Gurgaon,2.8
+1,Gurgaon,4.9
+1,Gurgaon,3.7
+1,Gurgaon,3.6
+1,Gurgaon,3.5
+1,Gurgaon,3.9
+1,Gurgaon,3.7
+1,Gurgaon,3.6
+1,Gurgaon,3.5
+1,Gurgaon,3.5
+1,Gurgaon,3.5
+1,Gurgaon,3.6
+1,Gurgaon,3.8
+1,Gurgaon,3.5
+1,Gurgaon,3.5
+1,Gurgaon,2
+1,Gurgaon,2.1
+1,Gurgaon,2.2
+1,Gurgaon,2.2
+1,Gurgaon,4
+1,Gurgaon,4.3
+1,Gurgaon,4
+1,Gurgaon,4.3
+1,Gurgaon,3.1
+1,Gurgaon,3.4
+1,Gurgaon,3.4
+1,Gurgaon,3.7
+1,Gurgaon,3.8
+1,Gurgaon,3.5
+1,Gurgaon,3.9
+1,Gurgaon,3.8
+1,Gurgaon,3.5
+1,Gurgaon,3.9
+1,Gurgaon,3.8
+1,Gurgaon,3.9
+1,Gurgaon,3.6
+1,Gurgaon,3.6
+1,Gurgaon,4.2
+1,Gurgaon,4.4
+1,Gurgaon,4.1
+1,Gurgaon,4
+1,Gurgaon,4.1
+1,Gurgaon,4.1
+1,Gurgaon,4.1
+1,Gurgaon,3.4
+1,Gurgaon,3.6
+1,Gurgaon,3.9
+1,Gurgaon,3.8
+1,Gurgaon,3.1
+1,Gurgaon,3.4
+1,Gurgaon,2.9
+1,Gurgaon,3.6
+1,Gurgaon,3.8
+1,Gurgaon,3.6
+1,Gurgaon,3.6
+1,Gurgaon,3.5
+1,Gurgaon,3.5
+1,Gurgaon,3.8
+1,Gurgaon,4.2
+1,Gurgaon,4.1
+1,Gurgaon,4.1
+1,Gurgaon,4
+1,Gurgaon,4.4
+1,Gurgaon,4.2
+1,Gurgaon,4.1
+1,Gurgaon,3.4
+1,Gurgaon,3.6
+1,Gurgaon,3.3
+1,Gurgaon,3.4
+1,Gurgaon,2.6
+1,Gurgaon,2.6
+1,Gurgaon,2.7
+1,Gurgaon,2.9
+1,Gurgaon,3.8
+1,Gurgaon,2.6
+1,Gurgaon,3.2
+1,Gurgaon,3.6
+1,Gurgaon,3.6
+1,Gurgaon,3.8
+1,Gurgaon,3.6
+1,Gurgaon,4
+1,Gurgaon,2.6
+1,Gurgaon,2.7
+1,Gurgaon,2.8
+1,Gurgaon,4.6
+1,Gurgaon,3.6
+1,Gurgaon,3.9
+1,Gurgaon,3.8
+1,Gurgaon,4.1
+1,Gurgaon,3.3
+1,Gurgaon,2.7
+1,Gurgaon,2.8
+1,Gurgaon,2.8
+1,Gurgaon,3.2
+1,Gurgaon,3.2
+1,Gurgaon,3.3
+1,Gurgaon,3.4
+1,Gurgaon,3.4
+1,Gurgaon,4.6
+1,Gurgaon,3.7
+1,Gurgaon,3.6
+1,Gurgaon,3.6
+1,Gurgaon,3.8
+1,Gurgaon,3.5
+1,Gurgaon,3.5
+1,Gurgaon,3.6
+1,Gurgaon,3.7
+1,Gurgaon,3.6
+1,Gurgaon,3.9
+1,Gurgaon,3.9
+1,Gurgaon,3.7
+1,Gurgaon,3.5
+1,Gurgaon,3.6
+1,Gurgaon,4.2
+1,Gurgaon,4
+1,Gurgaon,4
+1,Gurgaon,3.1
+1,Gurgaon,2.8
+1,Gurgaon,3.1
+1,Gurgaon,2.8
+1,Gurgaon,1
+1,Gurgaon,2.8
+1,Gurgaon,1
+1,Gurgaon,2.9
+1,Gurgaon,2.7
+1,Gurgaon,3.4
+1,Gurgaon,2.7
+1,Gurgaon,3.6
+1,Gurgaon,3.6
+1,Gurgaon,3.8
+1,Gurgaon,3.8
+1,Gurgaon,4
+1,Gurgaon,3.8
+1,Gurgaon,1
+1,Gurgaon,2.7
+1,Gurgaon,3.4
+1,Gurgaon,2.8
+1,Gurgaon,3.6
+1,Gurgaon,2.8
+1,Gurgaon,3.7
+1,Gurgaon,3.7
+1,Gurgaon,3.4
+1,Gurgaon,3.6
+1,Gurgaon,4.1
+1,Gurgaon,3
+1,Gurgaon,3
+1,Gurgaon,3
+1,Gurgaon,3.2
+1,Gurgaon,2.8
+1,Gurgaon,3.3
+1,Gurgaon,3.3
+1,Gurgaon,3.2
+1,Gurgaon,3.1
+1,Gurgaon,2.8
+1,Gurgaon,3.4
+1,Gurgaon,3.2
+1,Gurgaon,2.6
+1,Gurgaon,3.2
+1,Gurgaon,2.8
+1,Gurgaon,2.7
+1,Gurgaon,2.8
+1,Gurgaon,3.1
+1,Gurgaon,3.1
+1,Gurgaon,3.8
+1,Gurgaon,3.8
+1,Gurgaon,3.6
+1,Gurgaon,3.7
+1,Gurgaon,3.5
+1,Gurgaon,3.6
+1,Gurgaon,2.3
+1,Gurgaon,2.4
+1,Gurgaon,4.1
+1,Gurgaon,3.3
+1,Gurgaon,3.5
+1,Gurgaon,3.7
+1,Gurgaon,4.1
+1,Gurgaon,3.2
+1,Gurgaon,3
+1,Gurgaon,3.2
+1,Gurgaon,2.6
+1,Gurgaon,3.7
+1,Gurgaon,3.5
+1,Gurgaon,2.7
+1,Gurgaon,3.3
+1,Gurgaon,3.4
+1,Gurgaon,3.4
+1,Gurgaon,2.9
+1,Gurgaon,3.4
+1,Gurgaon,2.9
+1,Gurgaon,2.6
+1,Gurgaon,3.3
+1,Gurgaon,3.4
+1,Gurgaon,3.1
+1,Gurgaon,3.7
+1,Gurgaon,3.6
+1,Gurgaon,3.6
+1,Gurgaon,3.6
+1,Gurgaon,3.5
+1,Gurgaon,3.5
+1,Gurgaon,3.7
+1,Gurgaon,3.7
+1,Gurgaon,3.8
+1,Gurgaon,2.3
+1,Gurgaon,2.1
+1,Gurgaon,2.3
+1,Gurgaon,4
+1,Gurgaon,3.3
+1,Gurgaon,3.4
+1,Gurgaon,3
+1,Gurgaon,2.9
+1,Gurgaon,3.2
+1,Gurgaon,3.2
+1,Gurgaon,3.2
+1,Gurgaon,3.2
+1,Gurgaon,2.9
+1,Gurgaon,3.4
+1,Gurgaon,3.2
+1,Gurgaon,3.1
+1,Gurgaon,3.3
+1,Gurgaon,3.1
+1,Gurgaon,2.9
+1,Gurgaon,3.1
+1,Gurgaon,2.6
+1,Gurgaon,3
+1,Gurgaon,3.1
+1,Gurgaon,3
+1,Gurgaon,3.3
+1,Gurgaon,3.4
+1,Gurgaon,3.4
+1,Gurgaon,2.7
+1,Gurgaon,2.9
+1,Gurgaon,3.2
+1,Gurgaon,3.1
+1,Gurgaon,2.8
+1,Gurgaon,3
+1,Gurgaon,2.9
+1,Gurgaon,3
+1,Gurgaon,2.5
+1,Gurgaon,3.3
+1,Gurgaon,3
+1,Gurgaon,2.8
+1,Gurgaon,3.5
+1,Gurgaon,3.6
+1,Gurgaon,3.5
+1,Gurgaon,1
+1,Gurgaon,1
+1,Gurgaon,1
+1,Gurgaon,1
+1,Gurgaon,1
+1,Gurgaon,2.2
+1,Gurgaon,3.6
+1,Gurgaon,2.4
+1,Gurgaon,4.1
+1,Gurgaon,3.2
+1,Gurgaon,3.4
+1,Gurgaon,3.8
+1,Gurgaon,3.5
+1,Gurgaon,3.9
+1,Gurgaon,3.7
+1,Gurgaon,3.5
+1,Gurgaon,3.5
+1,Gurgaon,3.1
+1,Gurgaon,3.1
+1,Gurgaon,2.9
+1,Gurgaon,3.2
+1,Gurgaon,3.2
+1,Gurgaon,3.2
+1,Gurgaon,2.9
+1,Gurgaon,3.2
+1,Gurgaon,2.9
+1,Gurgaon,3.1
+1,Gurgaon,2.7
+1,Gurgaon,2.5
+1,Gurgaon,3
+1,Gurgaon,3.1
+1,Gurgaon,3.1
+1,Gurgaon,3
+1,Gurgaon,1
+1,Gurgaon,1
+1,Gurgaon,1
+1,Gurgaon,1
+1,Gurgaon,1
+1,Gurgaon,1
+1,Gurgaon,1
+1,Gurgaon,1
+1,Gurgaon,1
+1,Gurgaon,1
+1,Gurgaon,1
+1,Gurgaon,1
+1,Gurgaon,1
+1,Gurgaon,1
+1,Gurgaon,1
+1,Gurgaon,1
+1,Gurgaon,1
+1,Gurgaon,1
+1,Gurgaon,1
+1,Gurgaon,1
+1,Gurgaon,1
+1,Gurgaon,1
+1,Gurgaon,1
+1,Gurgaon,1
+1,Gurgaon,1
+1,Gurgaon,1
+1,Gurgaon,1
+1,Gurgaon,1
+1,Gurgaon,1
+1,Gurgaon,1
+1,Gurgaon,1
+1,Gurgaon,1
+1,Gurgaon,1
+1,Gurgaon,3.2
+1,Gurgaon,3.4
+1,Gurgaon,3.2
+1,Gurgaon,3.7
+1,Gurgaon,3.7
+1,Gurgaon,3
+1,Gurgaon,3.1
+1,Gurgaon,3.3
+1,Gurgaon,2.8
+1,Gurgaon,3.2
+1,Gurgaon,2.8
+1,Gurgaon,3
+1,Gurgaon,2.8
+1,Gurgaon,2.8
+1,Gurgaon,3.4
+1,Gurgaon,3
+1,Gurgaon,3.2
+1,Gurgaon,3.3
+1,Gurgaon,3.7
+1,Gurgaon,3
+1,Gurgaon,3.2
+1,Gurgaon,2.3
+1,Gurgaon,3.5
+1,Gurgaon,3.2
+1,Gurgaon,3.1
+1,Gurgaon,3.6
+1,Gurgaon,2.4
+1,Gurgaon,3
+1,Gurgaon,3
+1,Gurgaon,1
+1,Gurgaon,2.8
+1,Gurgaon,3
+1,Gurgaon,2.9
+1,Gurgaon,2.9
+1,Gurgaon,3.2
+1,Gurgaon,3.1
+1,Gurgaon,2.8
+1,Gurgaon,3.3
+1,Gurgaon,3
+1,Gurgaon,3.1
+1,Gurgaon,3.1
+1,Gurgaon,3.1
+1,Gurgaon,2.8
+1,Gurgaon,2.9
+1,Gurgaon,3.2
+1,Gurgaon,3.1
+1,Gurgaon,3.4
+1,Gurgaon,3.3
+1,Gurgaon,3.3
+1,Gurgaon,2.6
+1,Gurgaon,2.7
+1,Gurgaon,3.3
+1,Gurgaon,3.4
+1,Gurgaon,3.2
+1,Gurgaon,2.9
+1,Gurgaon,3
+1,Gurgaon,3.1
+1,Gurgaon,2.8
+1,Gurgaon,3
+1,Gurgaon,3.2
+1,Gurgaon,2.9
+1,Gurgaon,3.2
+1,Gurgaon,2.7
+1,Gurgaon,3
+1,Gurgaon,3.1
+1,Gurgaon,3.3
+1,Gurgaon,2.9
+1,Gurgaon,2.5
+1,Gurgaon,2.8
+1,Gurgaon,3
+1,Gurgaon,3.5
+1,Gurgaon,3.5
+1,Gurgaon,1
+1,Gurgaon,1
+1,Gurgaon,1
+1,Gurgaon,1
+1,Gurgaon,1
+1,Gurgaon,1
+1,Gurgaon,1
+1,Gurgaon,2.4
+1,Gurgaon,2.4
+1,Gurgaon,2.4
+1,Gurgaon,3
+1,Gurgaon,2.9
+1,Gurgaon,2.9
+1,Gurgaon,2.8
+1,Gurgaon,3
+1,Gurgaon,3.2
+1,Gurgaon,2.9
+1,Gurgaon,3.3
+1,Gurgaon,2.9
+1,Gurgaon,2.7
+1,Gurgaon,3.5
+1,Gurgaon,3.4
+1,Gurgaon,1
+1,Gurgaon,1
+1,Gurgaon,1
+1,Gurgaon,1
+1,Gurgaon,1
+1,Gurgaon,1
+1,Gurgaon,1
+1,Gurgaon,1
+1,Gurgaon,1
+1,Gurgaon,1
+1,Gurgaon,1
+1,Gurgaon,1
+1,Gurgaon,1
+1,Gurgaon,1
+1,Gurgaon,1
+1,Gurgaon,1
+1,Gurgaon,1
+1,Gurgaon,1
+1,Gurgaon,1
+1,Gurgaon,1
+1,Gurgaon,3.3
+1,Gurgaon,3.2
+1,Gurgaon,2.7
+1,Gurgaon,3.5
+1,Gurgaon,1
+1,Gurgaon,1
+1,Gurgaon,1
+1,Gurgaon,3
+1,Gurgaon,1
+1,Gurgaon,1
+1,Gurgaon,1
+1,Gurgaon,1
+1,Gurgaon,1
+1,Gurgaon,1
+1,Gurgaon,1
+1,Gurgaon,1
+1,Gurgaon,3.4
+1,Gurgaon,3.3
+1,Gurgaon,2.9
+1,Gurgaon,3
+1,Gurgaon,3.3
+1,Gurgaon,2.7
+1,Gurgaon,3.6
+1,Gurgaon,3.9
+1,Gurgaon,1
+1,Gurgaon,1
+1,Gurgaon,1
+1,Gurgaon,1
+1,Gurgaon,3.3
+1,Gurgaon,3.3
+1,Gurgaon,3.4
+1,Gurgaon,2.7
+1,Gurgaon,3.3
+1,Gurgaon,4.7
+1,Gurgaon,4.8
+1,Gurgaon,4.8
+1,Gurgaon,3.9
+1,Gurgaon,3.5
+1,Gurgaon,3.8
+1,Gurgaon,3.5
+1,Gurgaon,3.6
+1,Gurgaon,3.7
+1,Gurgaon,3.5
+1,Gurgaon,3.6
+1,Gurgaon,3.8
+1,Gurgaon,3.5
+1,Gurgaon,3.9
+1,Gurgaon,3.6
+1,Gurgaon,3.9
+1,Gurgaon,3.9
+1,Gurgaon,3.7
+1,Gurgaon,3.6
+1,Gurgaon,3.9
+1,Gurgaon,4
+1,Gurgaon,4.4
+1,Gurgaon,4.1
+1,Gurgaon,4.1
+1,Gurgaon,4.4
+1,Gurgaon,4.1
+1,Gurgaon,4.2
+1,Gurgaon,4
+1,Gurgaon,4.1
+1,Gurgaon,4.2
+1,Gurgaon,4.3
+1,Gurgaon,4.4
+1,Gurgaon,4.4
+1,Gurgaon,3.8
+1,Gurgaon,4
+1,Gurgaon,3.1
+1,Gurgaon,2.7
+1,Gurgaon,2.7
+1,Gurgaon,3.1
+1,Gurgaon,3.2
+1,Gurgaon,3.2
+1,Gurgaon,2.9
+1,Gurgaon,2.9
+1,Gurgaon,3.1
+1,Gurgaon,3.1
+1,Gurgaon,3.1
+1,Gurgaon,3.1
+1,Gurgaon,2.9
+1,Gurgaon,3.3
+1,Gurgaon,3
+1,Gurgaon,2.7
+1,Gurgaon,3.1
+1,Gurgaon,2.5
+1,Gurgaon,3.2
+1,Gurgaon,2.9
+1,Gurgaon,2.8
+1,Gurgaon,4.5
+1,Gurgaon,3.6
+1,Gurgaon,3.8
+1,Gurgaon,3.5
+1,Gurgaon,3.9
+1,Gurgaon,3.5
+1,Gurgaon,3.9
+1,Gurgaon,3.5
+1,Gurgaon,1
+1,Gurgaon,1
+1,Gurgaon,1
+1,Gurgaon,1
+1,Gurgaon,2.4
+1,Gurgaon,4
+1,Gurgaon,3
+1,Gurgaon,3
+1,Gurgaon,1
+1,Gurgaon,1
+1,Gurgaon,1
+1,Gurgaon,1
+1,Gurgaon,1
+1,Gurgaon,1
+1,Gurgaon,1
+1,Gurgaon,1
+1,Gurgaon,1
+1,Gurgaon,1
+1,Gurgaon,1
+1,Gurgaon,1
+1,Gurgaon,1
+1,Gurgaon,1
+1,Gurgaon,1
+1,Gurgaon,1
+1,Gurgaon,1
+1,Gurgaon,1
+1,Gurgaon,3
+1,Gurgaon,3.2
+1,Gurgaon,4.1
+1,Gurgaon,3.4
+1,Gurgaon,3.2
+1,Gurgaon,3.2
+1,Gurgaon,3.2
+1,Gurgaon,3.2
+1,Gurgaon,3.3
+1,Gurgaon,2.9
+1,Gurgaon,3.3
+1,Gurgaon,2.8
+1,Gurgaon,3.2
+1,Gurgaon,3.1
+1,Gurgaon,3.2
+1,Gurgaon,3.2
+1,Gurgaon,3.7
+1,Gurgaon,1
+1,Gurgaon,1
+1,Gurgaon,1
+1,Gurgaon,1
+1,Gurgaon,1
+1,Gurgaon,1
+1,Gurgaon,1
+1,Gurgaon,1
+1,Gurgaon,1
+1,Gurgaon,1
+1,Gurgaon,1
+1,Gurgaon,1
+1,Gurgaon,1
+1,Gurgaon,1
+1,Gurgaon,1
+1,Gurgaon,1
+1,Gurgaon,2.4
+1,Gurgaon,2.8
+1,Gurgaon,3.3
+1,Gurgaon,1
+1,Gurgaon,1
+1,Gurgaon,3.9
+1,Gurgaon,2.4
+1,Gurgaon,3.2
+1,Gurgaon,3
+1,Gurgaon,3.1
+1,Gurgaon,3.3
+1,Gurgaon,3.1
+1,Gurgaon,3
+1,Gurgaon,2.7
+1,Gurgaon,3
+1,Gurgaon,3.2
+1,Gurgaon,3
+1,Gurgaon,3.2
+1,Gurgaon,3.3
+1,Gurgaon,2.9
+1,Gurgaon,3.2
+1,Gurgaon,3.1
+1,Gurgaon,2.9
+1,Gurgaon,3
+1,Gurgaon,3
+1,Gurgaon,3.1
+1,Gurgaon,2.6
+1,Gurgaon,2.9
+1,Gurgaon,2.8
+1,Gurgaon,3
+1,Gurgaon,3.6
+1,Gurgaon,3.8
+1,Gurgaon,3.9
+1,Gurgaon,3.5
+1,Gurgaon,1
+1,Gurgaon,1
+1,Gurgaon,1
+1,Gurgaon,1
+1,Gurgaon,1
+1,Gurgaon,1
+1,Gurgaon,1
+1,Gurgaon,1
+1,Gurgaon,1
+1,Gurgaon,1
+1,Gurgaon,1
+1,Gurgaon,1
+1,Gurgaon,1
+1,Gurgaon,1
+1,Gurgaon,1
+1,Gurgaon,1
+1,Gurgaon,1
+1,Gurgaon,1
+1,Gurgaon,1
+1,Gurgaon,1
+1,Gurgaon,1
+1,Gurgaon,1
+1,Gurgaon,1
+1,Gurgaon,1
+1,Gurgaon,2.2
+1,Gurgaon,2.2
+1,Gurgaon,2.4
+1,Gurgaon,3.2
+1,Gurgaon,2.8
+1,Gurgaon,3.3
+1,Gurgaon,3.4
+1,Gurgaon,2.6
+1,Gurgaon,2.8
+1,Gurgaon,3.2
+1,Gurgaon,3.2
+1,Gurgaon,3.1
+1,Gurgaon,3.7
+1,Gurgaon,3.5
+1,Gurgaon,3.6
+1,Gurgaon,3.2
+1,Gurgaon,2.8
+1,Gurgaon,1
+1,Gurgaon,3.4
+1,Gurgaon,3.3
+1,Gurgaon,3.2
+1,Gurgaon,2.7
+1,Gurgaon,3.6
+1,Gurgaon,4
+1,Gurgaon,1
+1,Gurgaon,1
+1,Gurgaon,1
+1,Gurgaon,1
+1,Gurgaon,3.4
+1,Gurgaon,2.5
+1,Gurgaon,3.3
+1,Gurgaon,3.4
+1,Gurgaon,3.3
+1,Gurgaon,3.2
+1,Gurgaon,3.3
+1,Gurgaon,3.4
+1,Gurgaon,3.4
+1,Gurgaon,3.4
+1,Gurgaon,3.2
+1,Gurgaon,3.1
+1,Gurgaon,3.4
+1,Gurgaon,2.9
+1,Gurgaon,2.5
+1,Gurgaon,3.1
+1,Gurgaon,2.6
+1,Gurgaon,2.9
+1,Gurgaon,2.9
+1,Gurgaon,3.3
+1,Gurgaon,2.8
+1,Gurgaon,2.6
+1,Gurgaon,3.4
+1,Gurgaon,3.4
+1,Gurgaon,3.7
+1,Gurgaon,3.5
+1,Gurgaon,3.5
+1,Gurgaon,3.7
+1,Gurgaon,3.9
+1,Gurgaon,3.6
+1,Gurgaon,3.9
+1,Gurgaon,3.9
+1,Gurgaon,3.5
+1,Gurgaon,3.7
+1,Gurgaon,3.6
+1,Gurgaon,3.7
+1,Gurgaon,3.5
+1,Gurgaon,3.5
+1,Gurgaon,2.3
+1,Gurgaon,2.3
+1,Gurgaon,2.4
+1,Gurgaon,4.1
+1,Gurgaon,1
+1,Gurgaon,1
+1,Gurgaon,2.8
+1,Gurgaon,2.8
+1,Gurgaon,3.1
+1,Gurgaon,1
+1,Gurgaon,1
+1,Gurgaon,1
+1,Gurgaon,1
+1,Gurgaon,1
+1,Gurgaon,3.4
+1,Gurgaon,4.5
+1,Gurgaon,3.3
+1,Gurgaon,3.4
+1,Gurgaon,3.4
+1,Gurgaon,3.2
+1,Gurgaon,3.8
+1,Gurgaon,3.7
+1,Gurgaon,3.6
+1,Gurgaon,3.9
+1,Gurgaon,3.5
+1,Gurgaon,3.8
+1,Gurgaon,3.6
+1,Gurgaon,4
+1,Gurgaon,4.1
+1,Gurgaon,4.1
+1,Gurgaon,4.2
+1,Gurgaon,4.2
+1,Gurgaon,4
+1,Gurgaon,3
+1,Gurgaon,3.3
+1,Gurgaon,2.7
+1,Gurgaon,3.2
+1,Gurgaon,3.2
+1,Gurgaon,3.4
+1,Gurgaon,3.4
+1,Gurgaon,2.8
+1,Gurgaon,2.8
+1,Gurgaon,3.7
+1,Gurgaon,3.7
+1,Gurgaon,3.7
+1,Gurgaon,3.7
+1,Gurgaon,3.7
+1,Gurgaon,3.7
+1,Gurgaon,3.7
+1,Gurgaon,3.5
+1,Gurgaon,3.7
+1,Gurgaon,3.8
+1,Gurgaon,1
+1,Gurgaon,1
+1,Gurgaon,1
+1,Gurgaon,1
+1,Gurgaon,1
+1,Gurgaon,2.4
+1,Gurgaon,4.3
+1,Gurgaon,4
+1,Gurgaon,4
+1,Gurgaon,4
+1,Gurgaon,4
+1,Gurgaon,3.1
+1,Gurgaon,3.1
+1,Gurgaon,3.2
+1,Gurgaon,3
+1,Gurgaon,2.7
+1,Gurgaon,3.1
+1,Gurgaon,3.4
+1,Gurgaon,3.4
+1,Gurgaon,3.3
+1,Gurgaon,3
+1,Gurgaon,3.3
+1,Gurgaon,2.6
+1,Gurgaon,3.4
+1,Gurgaon,3.2
+1,Gurgaon,3.6
+1,Gurgaon,3.9
+1,Gurgaon,2.2
+1,Gurgaon,4
+1,Gurgaon,3.3
+1,Gurgaon,3
+1,Gurgaon,3.2
+1,Gurgaon,3
+1,Gurgaon,2.7
+1,Gurgaon,3
+1,Gurgaon,3
+1,Gurgaon,3.2
+1,Gurgaon,3.6
+1,Gurgaon,3.3
+1,Gurgaon,3.9
+1,Gurgaon,3.8
+1,Gurgaon,3.9
+1,Gurgaon,3.4
+1,Gurgaon,3.7
+1,Gurgaon,3.3
+1,Gurgaon,3.5
+1,Gurgaon,3.7
+1,Gurgaon,3.5
+1,Gurgaon,3.8
+1,Gurgaon,3.1
+1,Gurgaon,2.7
+1,Gurgaon,2.8
+1,Gurgaon,3.1
+1,Gurgaon,3.3
+1,Gurgaon,2.7
+1,Gurgaon,2.9
+1,Gurgaon,3.1
+1,Gurgaon,3.1
+1,Gurgaon,3.3
+1,Gurgaon,3
+1,Gurgaon,3.3
+1,Gurgaon,2.9
+1,Gurgaon,1
+1,Gurgaon,1
+1,Gurgaon,1
+1,Gurgaon,1
+1,Gurgaon,1
+1,Gurgaon,1
+1,Gurgaon,1
+1,Gurgaon,1
+1,Gurgaon,1
+1,Gurgaon,1
+1,Gurgaon,1
+1,Gurgaon,1
+1,Gurgaon,1
+1,Gurgaon,1
+1,Gurgaon,1
+1,Gurgaon,1
+1,Gurgaon,1
+1,Gurgaon,1
+1,Gurgaon,1
+1,Gurgaon,1
+1,Gurgaon,1
+1,Gurgaon,1
+1,Gurgaon,1
+1,Gurgaon,1
+1,Gurgaon,3.1
+1,Gurgaon,3.5
+1,Gurgaon,3.7
+1,Gurgaon,1
+1,Gurgaon,1
+1,Gurgaon,2.9
+1,Gurgaon,2.8
+1,Gurgaon,3.1
+1,Gurgaon,3.2
+1,Gurgaon,2.9
+1,Gurgaon,3.4
+1,Gurgaon,3
+1,Gurgaon,3.3
+1,Gurgaon,3.2
+1,Gurgaon,3.2
+1,Gurgaon,3.3
+1,Gurgaon,2.7
+1,Gurgaon,2.5
+1,Gurgaon,3.2
+1,Gurgaon,3.9
+1,Gurgaon,3.8
+1,Gurgaon,3.6
+1,Gurgaon,3.7
+1,Gurgaon,3.6
+1,Gurgaon,3.5
+1,Gurgaon,3.6
+1,Gurgaon,1
+1,Gurgaon,1
+1,Gurgaon,1
+1,Gurgaon,2.4
+1,Gurgaon,3.8
+1,Gurgaon,4
+1,Gurgaon,2.9
+1,Gurgaon,2.8
+1,Gurgaon,2.9
+1,Gurgaon,2.7
+1,Gurgaon,2.8
+1,Gurgaon,2.9
+1,Gurgaon,1
+1,Gurgaon,2.9
+1,Gurgaon,3.3
+1,Gurgaon,3.4
+1,Gurgaon,3.2
+1,Gurgaon,3
+1,Gurgaon,3.1
+1,Gurgaon,2.7
+1,Gurgaon,2.9
+1,Gurgaon,3.1
+1,Gurgaon,3.5
+1,Gurgaon,3.6
+1,Gurgaon,3.6
+1,Gurgaon,3.6
+1,Gurgaon,3.7
+1,Gurgaon,1
+1,Gurgaon,2.4
+1,Gurgaon,2.2
+1,Gurgaon,3.2
+1,Guwahati,4.6
+1,Guwahati,3.9
+1,Guwahati,4.7
+1,Guwahati,4.1
+1,Guwahati,4.2
+1,Guwahati,4.1
+1,Guwahati,4.4
+1,Guwahati,4.4
+1,Guwahati,4.1
+1,Guwahati,4
+1,Guwahati,4.9
+1,Guwahati,3.6
+1,Guwahati,3.6
+1,Guwahati,4.1
+1,Guwahati,4.2
+1,Guwahati,4.1
+1,Guwahati,4.1
+1,Guwahati,4.3
+1,Guwahati,4
+1,Guwahati,4.3
+1,Guwahati,4.3
+1,Hyderabad,4.3
+1,Hyderabad,4.9
+1,Hyderabad,4.7
+1,Hyderabad,3.8
+1,Hyderabad,4.6
+1,Hyderabad,4
+1,Hyderabad,4.3
+1,Hyderabad,4.9
+1,Hyderabad,4.8
+1,Hyderabad,4.2
+1,Hyderabad,4.2
+1,Hyderabad,4.4
+1,Hyderabad,4.1
+1,Hyderabad,4.1
+1,Hyderabad,4.2
+1,Hyderabad,4.7
+1,Hyderabad,3.9
+1,Hyderabad,4.1
+1,Indore,3.7
+1,Indore,4.1
+1,Indore,4.1
+1,Indore,4.1
+1,Indore,3.9
+1,Indore,4.2
+1,Indore,4
+1,Indore,3.8
+1,Indore,4
+1,Indore,3.8
+1,Indore,4.3
+1,Indore,3.1
+1,Indore,3.9
+1,Indore,3.8
+1,Indore,3.9
+1,Indore,4
+1,Indore,4.3
+1,Indore,4.1
+1,Indore,4.3
+1,Indore,4
+1,Jaipur,4.7
+1,Jaipur,3.9
+1,Jaipur,4
+1,Jaipur,4.4
+1,Jaipur,4.4
+1,Jaipur,4
+1,Jaipur,4.3
+1,Jaipur,3.9
+1,Jaipur,4.2
+1,Jaipur,4
+1,Jaipur,4.5
+1,Jaipur,4.3
+1,Jaipur,4.9
+1,Jaipur,4.2
+1,Jaipur,4.1
+1,Jaipur,4.3
+1,Jaipur,4.3
+1,Jaipur,2.6
+1,Jaipur,3.9
+1,Jaipur,3.7
+1,Kanpur,3.3
+1,Kanpur,3.3
+1,Kanpur,3.9
+1,Kanpur,4
+1,Kanpur,4
+1,Kanpur,3.5
+1,Kanpur,3.6
+1,Kanpur,3.9
+1,Kanpur,4.1
+1,Kanpur,4.1
+1,Kanpur,3.9
+1,Kanpur,3.9
+1,Kanpur,3.8
+1,Kanpur,4.3
+1,Kanpur,3.4
+1,Kanpur,3.6
+1,Kanpur,4.1
+1,Kanpur,3.9
+1,Kanpur,3.7
+1,Kanpur,4
+1,Kochi,4.6
+1,Kochi,3.8
+1,Kochi,4.4
+1,Kochi,4.2
+1,Kochi,4.2
+1,Kochi,4.5
+1,Kochi,3.7
+1,Kochi,4
+1,Kochi,3.7
+1,Kochi,3.7
+1,Kochi,4
+1,Kochi,4.4
+1,Kochi,4
+1,Kochi,4.2
+1,Kochi,4.3
+1,Kochi,4.2
+1,Kochi,3.5
+1,Kochi,4.3
+1,Kochi,4.3
+1,Kochi,3.6
+1,Kolkata,4.6
+1,Kolkata,4.2
+1,Kolkata,4.8
+1,Kolkata,3.9
+1,Kolkata,4.4
+1,Kolkata,4.2
+1,Kolkata,4.4
+1,Kolkata,4
+1,Kolkata,4.2
+1,Kolkata,4.6
+1,Kolkata,3.9
+1,Kolkata,4.9
+1,Kolkata,3.5
+1,Kolkata,4.2
+1,Kolkata,4.3
+1,Kolkata,4.4
+1,Kolkata,4.9
+1,Kolkata,3.6
+1,Kolkata,4.1
+1,Kolkata,4
+1,Lucknow,4.9
+1,Lucknow,4.5
+1,Lucknow,4.6
+1,Lucknow,3.5
+1,Lucknow,3.9
+1,Lucknow,3.7
+1,Lucknow,3.9
+1,Lucknow,4.3
+1,Lucknow,4.2
+1,Lucknow,4.1
+1,Lucknow,4.1
+1,Lucknow,4.3
+1,Lucknow,4.3
+1,Lucknow,4
+1,Lucknow,4.4
+1,Lucknow,4.1
+1,Lucknow,4.2
+1,Lucknow,4.2
+1,Lucknow,4.7
+1,Lucknow,4.2
+1,Lucknow,4
+1,Ludhiana,3.6
+1,Ludhiana,3.5
+1,Ludhiana,4.1
+1,Ludhiana,3.9
+1,Ludhiana,4.2
+1,Ludhiana,3.7
+1,Ludhiana,3.9
+1,Ludhiana,4.1
+1,Ludhiana,4.3
+1,Ludhiana,3.6
+1,Ludhiana,3.8
+1,Ludhiana,4.4
+1,Ludhiana,4.2
+1,Ludhiana,4.4
+1,Ludhiana,3.5
+1,Ludhiana,3.9
+1,Ludhiana,4.2
+1,Ludhiana,4.6
+1,Ludhiana,3.8
+1,Ludhiana,3.9
+1,Mangalore,3.6
+1,Mangalore,3.9
+1,Mangalore,3.8
+1,Mangalore,3.7
+1,Mangalore,3.5
+1,Mangalore,3.7
+1,Mangalore,3.8
+1,Mangalore,3.6
+1,Mangalore,4.2
+1,Mangalore,3.5
+1,Mangalore,3.6
+1,Mangalore,3.9
+1,Mangalore,3.5
+1,Mangalore,3.7
+1,Mangalore,3.7
+1,Mangalore,4.1
+1,Mangalore,3.7
+1,Mangalore,3.8
+1,Mangalore,3.9
+1,Mangalore,3.7
+1,Mohali,4.3
+1,Mumbai,4
+1,Mumbai,4
+1,Mumbai,3.4
+1,Mumbai,4.7
+1,Mumbai,4.2
+1,Mumbai,4.1
+1,Mumbai,3.8
+1,Mumbai,3.8
+1,Mumbai,3.9
+1,Mumbai,4.3
+1,Mumbai,4.2
+1,Mumbai,3.9
+1,Mumbai,4.5
+1,Mumbai,4.6
+1,Mumbai,3.9
+1,Mumbai,4.9
+1,Mumbai,3.8
+1,Mumbai,4
+1,Mumbai,4.1
+1,Mumbai,3.6
+1,Mysore,3.4
+1,Mysore,3.7
+1,Mysore,3.9
+1,Mysore,4.2
+1,Mysore,3.7
+1,Mysore,3.5
+1,Mysore,3.7
+1,Mysore,3.8
+1,Mysore,3.5
+1,Mysore,4
+1,Mysore,4
+1,Mysore,3.5
+1,Mysore,3.7
+1,Mysore,3.3
+1,Mysore,3.6
+1,Mysore,3.6
+1,Mysore,3.8
+1,Mysore,3.7
+1,Mysore,3.6
+1,Mysore,3.7
+1,Nagpur,3.3
+1,Nagpur,3.8
+1,Nagpur,3.9
+1,Nagpur,4
+1,Nagpur,4.3
+1,Nagpur,3.7
+1,Nagpur,4
+1,Nagpur,4.2
+1,Nagpur,4.3
+1,Nagpur,3.9
+1,Nagpur,3.9
+1,Nagpur,4
+1,Nagpur,4.4
+1,Nagpur,4.5
+1,Nagpur,4
+1,Nagpur,4.2
+1,Nagpur,4.9
+1,Nagpur,2.2
+1,Nagpur,4
+1,Nagpur,3.8
+1,Nashik,3.8
+1,Nashik,3.6
+1,Nashik,3.6
+1,Nashik,3.5
+1,Nashik,3.6
+1,Nashik,3.8
+1,Nashik,3.4
+1,Nashik,3.4
+1,Nashik,3.4
+1,Nashik,3.3
+1,Nashik,3.4
+1,Nashik,3.5
+1,Nashik,3.7
+1,Nashik,3.5
+1,Nashik,3.8
+1,Nashik,3
+1,Nashik,3.3
+1,Nashik,3.5
+1,Nashik,3.9
+1,Nashik,3.4
+1,New Delhi,1
+1,New Delhi,3.2
+1,New Delhi,3.4
+1,New Delhi,2.6
+1,New Delhi,3.4
+1,New Delhi,3.1
+1,New Delhi,2.7
+1,New Delhi,2.6
+1,New Delhi,3.7
+1,New Delhi,3.5
+1,New Delhi,2.2
+1,New Delhi,4
+1,New Delhi,4.2
+1,New Delhi,4.2
+1,New Delhi,3.2
+1,New Delhi,3.4
+1,New Delhi,2.8
+1,New Delhi,3.7
+1,New Delhi,3.2
+1,New Delhi,3.2
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,2.6
+1,New Delhi,3.3
+1,New Delhi,3.2
+1,New Delhi,3.4
+1,New Delhi,3.3
+1,New Delhi,2.6
+1,New Delhi,3.7
+1,New Delhi,2.2
+1,New Delhi,2.9
+1,New Delhi,3.3
+1,New Delhi,3.2
+1,New Delhi,3.4
+1,New Delhi,3
+1,New Delhi,2.7
+1,New Delhi,3.2
+1,New Delhi,3
+1,New Delhi,2.5
+1,New Delhi,3.2
+1,New Delhi,3.2
+1,New Delhi,3.1
+1,New Delhi,2.9
+1,New Delhi,3.2
+1,New Delhi,3.3
+1,New Delhi,2.5
+1,New Delhi,2.9
+1,New Delhi,2.8
+1,New Delhi,3.4
+1,New Delhi,3.9
+1,New Delhi,3.9
+1,New Delhi,3.6
+1,New Delhi,3.6
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,2.4
+1,New Delhi,2.5
+1,New Delhi,3.1
+1,New Delhi,3.2
+1,New Delhi,2.6
+1,New Delhi,3.5
+1,New Delhi,3.6
+1,New Delhi,3.6
+1,New Delhi,3.9
+1,New Delhi,3.5
+1,New Delhi,3.7
+1,New Delhi,3.7
+1,New Delhi,4.2
+1,New Delhi,3.4
+1,New Delhi,4.2
+1,New Delhi,2.8
+1,New Delhi,3.1
+1,New Delhi,2.8
+1,New Delhi,3.3
+1,New Delhi,3.1
+1,New Delhi,3
+1,New Delhi,3.4
+1,New Delhi,3.4
+1,New Delhi,3.1
+1,New Delhi,3.3
+1,New Delhi,2.9
+1,New Delhi,2.8
+1,New Delhi,3.3
+1,New Delhi,2.8
+1,New Delhi,2.8
+1,New Delhi,3.2
+1,New Delhi,3
+1,New Delhi,3.6
+1,New Delhi,3.5
+1,New Delhi,3.5
+1,New Delhi,3.6
+1,New Delhi,3.7
+1,New Delhi,3.7
+1,New Delhi,3.8
+1,New Delhi,3.6
+1,New Delhi,3.6
+1,New Delhi,3.9
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,3
+1,New Delhi,3.4
+1,New Delhi,3.2
+1,New Delhi,3.4
+1,New Delhi,3.6
+1,New Delhi,3.9
+1,New Delhi,4.4
+1,New Delhi,4
+1,New Delhi,4.1
+1,New Delhi,3.1
+1,New Delhi,3.1
+1,New Delhi,3
+1,New Delhi,1
+1,New Delhi,2.8
+1,New Delhi,2.8
+1,New Delhi,2.8
+1,New Delhi,3.4
+1,New Delhi,3.2
+1,New Delhi,3
+1,New Delhi,2.7
+1,New Delhi,3.4
+1,New Delhi,2.7
+1,New Delhi,3
+1,New Delhi,3.4
+1,New Delhi,3.2
+1,New Delhi,3
+1,New Delhi,3
+1,New Delhi,3.2
+1,New Delhi,3.1
+1,New Delhi,3.5
+1,New Delhi,3.7
+1,New Delhi,3.5
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,2.4
+1,New Delhi,2.9
+1,New Delhi,3.4
+1,New Delhi,2.7
+1,New Delhi,3.3
+1,New Delhi,2.6
+1,New Delhi,2.5
+1,New Delhi,3.9
+1,New Delhi,3.5
+1,New Delhi,3.6
+1,New Delhi,3.9
+1,New Delhi,3.7
+1,New Delhi,3.9
+1,New Delhi,3.9
+1,New Delhi,3.5
+1,New Delhi,3
+1,New Delhi,3.1
+1,New Delhi,3.3
+1,New Delhi,3.2
+1,New Delhi,3.4
+1,New Delhi,3.3
+1,New Delhi,3.3
+1,New Delhi,3.6
+1,New Delhi,3.6
+1,New Delhi,3.5
+1,New Delhi,4
+1,New Delhi,3.2
+1,New Delhi,3.4
+1,New Delhi,2.9
+1,New Delhi,3.4
+1,New Delhi,2.8
+1,New Delhi,3
+1,New Delhi,3.3
+1,New Delhi,3.1
+1,New Delhi,3.6
+1,New Delhi,3.7
+1,New Delhi,3.8
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,2.3
+1,New Delhi,3.2
+1,New Delhi,2.9
+1,New Delhi,3.3
+1,New Delhi,2.9
+1,New Delhi,3.1
+1,New Delhi,3
+1,New Delhi,2.8
+1,New Delhi,3.3
+1,New Delhi,3.5
+1,New Delhi,3.7
+1,New Delhi,3.7
+1,New Delhi,3.5
+1,New Delhi,3.5
+1,New Delhi,3.5
+1,New Delhi,2.4
+1,New Delhi,2.9
+1,New Delhi,3.4
+1,New Delhi,3.6
+1,New Delhi,2.7
+1,New Delhi,2.6
+1,New Delhi,3.2
+1,New Delhi,2.8
+1,New Delhi,2.5
+1,New Delhi,2.8
+1,New Delhi,3
+1,New Delhi,3.1
+1,New Delhi,2.4
+1,New Delhi,2.4
+1,New Delhi,1
+1,New Delhi,3.3
+1,New Delhi,2.9
+1,New Delhi,2.7
+1,New Delhi,2.9
+1,New Delhi,3.4
+1,New Delhi,3
+1,New Delhi,3.2
+1,New Delhi,2.7
+1,New Delhi,2.9
+1,New Delhi,3.4
+1,New Delhi,2.8
+1,New Delhi,3.2
+1,New Delhi,3
+1,New Delhi,2.8
+1,New Delhi,2.9
+1,New Delhi,2.9
+1,New Delhi,3.4
+1,New Delhi,3.2
+1,New Delhi,3.1
+1,New Delhi,3
+1,New Delhi,3.4
+1,New Delhi,3.4
+1,New Delhi,3.7
+1,New Delhi,3.7
+1,New Delhi,3.5
+1,New Delhi,3.5
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,2.4
+1,New Delhi,2.1
+1,New Delhi,3.3
+1,New Delhi,3.1
+1,New Delhi,3
+1,New Delhi,3.2
+1,New Delhi,2.9
+1,New Delhi,3.1
+1,New Delhi,3
+1,New Delhi,3.4
+1,New Delhi,3
+1,New Delhi,3.1
+1,New Delhi,3.2
+1,New Delhi,3.2
+1,New Delhi,3
+1,New Delhi,2.8
+1,New Delhi,3.1
+1,New Delhi,3.2
+1,New Delhi,2.5
+1,New Delhi,3
+1,New Delhi,2.8
+1,New Delhi,2.9
+1,New Delhi,3.3
+1,New Delhi,3
+1,New Delhi,3
+1,New Delhi,3.4
+1,New Delhi,3
+1,New Delhi,3.2
+1,New Delhi,3
+1,New Delhi,3.2
+1,New Delhi,3.4
+1,New Delhi,2.9
+1,New Delhi,3
+1,New Delhi,3
+1,New Delhi,3.2
+1,New Delhi,3.4
+1,New Delhi,3.1
+1,New Delhi,2.9
+1,New Delhi,3
+1,New Delhi,2.9
+1,New Delhi,3.1
+1,New Delhi,2.8
+1,New Delhi,3.3
+1,New Delhi,3.7
+1,New Delhi,3.8
+1,New Delhi,3.8
+1,New Delhi,3.7
+1,New Delhi,3.8
+1,New Delhi,3.9
+1,New Delhi,3.9
+1,New Delhi,3.7
+1,New Delhi,3.7
+1,New Delhi,3.6
+1,New Delhi,3.9
+1,New Delhi,3.9
+1,New Delhi,3.6
+1,New Delhi,3.6
+1,New Delhi,3.8
+1,New Delhi,3.5
+1,New Delhi,3.5
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,4.2
+1,New Delhi,4.3
+1,New Delhi,4.1
+1,New Delhi,4.4
+1,New Delhi,3.1
+1,New Delhi,4.5
+1,New Delhi,3.6
+1,New Delhi,3.9
+1,New Delhi,3.6
+1,New Delhi,3.6
+1,New Delhi,3.6
+1,New Delhi,3.7
+1,New Delhi,3.7
+1,New Delhi,4.1
+1,New Delhi,4.1
+1,New Delhi,4.1
+1,New Delhi,2.7
+1,New Delhi,3.1
+1,New Delhi,3
+1,New Delhi,3.2
+1,New Delhi,2.7
+1,New Delhi,3
+1,New Delhi,3.3
+1,New Delhi,3.4
+1,New Delhi,3.2
+1,New Delhi,2.7
+1,New Delhi,2.9
+1,New Delhi,2.9
+1,New Delhi,3.4
+1,New Delhi,2.7
+1,New Delhi,3.3
+1,New Delhi,3.2
+1,New Delhi,3.3
+1,New Delhi,2.7
+1,New Delhi,2.5
+1,New Delhi,2.7
+1,New Delhi,3.1
+1,New Delhi,2.6
+1,New Delhi,3.1
+1,New Delhi,2.9
+1,New Delhi,3.2
+1,New Delhi,3.2
+1,New Delhi,3.2
+1,New Delhi,3.7
+1,New Delhi,3.6
+1,New Delhi,3.8
+1,New Delhi,3.7
+1,New Delhi,3.9
+1,New Delhi,3.6
+1,New Delhi,3.5
+1,New Delhi,3.7
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,2.4
+1,New Delhi,2.3
+1,New Delhi,3.4
+1,New Delhi,2.8
+1,New Delhi,3.2
+1,New Delhi,3.5
+1,New Delhi,3.1
+1,New Delhi,3.2
+1,New Delhi,3
+1,New Delhi,3
+1,New Delhi,3
+1,New Delhi,3.5
+1,New Delhi,3.6
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,4
+1,New Delhi,3.1
+1,New Delhi,3.3
+1,New Delhi,2.8
+1,New Delhi,2.8
+1,New Delhi,3.2
+1,New Delhi,2.9
+1,New Delhi,2.8
+1,New Delhi,3.2
+1,New Delhi,2.5
+1,New Delhi,3.2
+1,New Delhi,2.9
+1,New Delhi,2.8
+1,New Delhi,3
+1,New Delhi,3.1
+1,New Delhi,3.5
+1,New Delhi,3.7
+1,New Delhi,3.9
+1,New Delhi,1
+1,New Delhi,2.6
+1,New Delhi,2.9
+1,New Delhi,3.4
+1,New Delhi,3.1
+1,New Delhi,3.4
+1,New Delhi,3.2
+1,New Delhi,3.4
+1,New Delhi,3
+1,New Delhi,3.3
+1,New Delhi,2.7
+1,New Delhi,2.5
+1,New Delhi,3.4
+1,New Delhi,3.2
+1,New Delhi,4.7
+1,New Delhi,4.9
+1,New Delhi,4.7
+1,New Delhi,3.6
+1,New Delhi,3.9
+1,New Delhi,3.7
+1,New Delhi,3.8
+1,New Delhi,3.6
+1,New Delhi,3.6
+1,New Delhi,3.7
+1,New Delhi,3.7
+1,New Delhi,3.7
+1,New Delhi,3.6
+1,New Delhi,3.9
+1,New Delhi,3.9
+1,New Delhi,3.9
+1,New Delhi,3.9
+1,New Delhi,3.9
+1,New Delhi,3.9
+1,New Delhi,3.7
+1,New Delhi,3.8
+1,New Delhi,3.9
+1,New Delhi,3.5
+1,New Delhi,3.9
+1,New Delhi,3.7
+1,New Delhi,3.9
+1,New Delhi,3.7
+1,New Delhi,3.8
+1,New Delhi,3.8
+1,New Delhi,3.5
+1,New Delhi,3.5
+1,New Delhi,3.7
+1,New Delhi,3.7
+1,New Delhi,3.9
+1,New Delhi,3.7
+1,New Delhi,3.7
+1,New Delhi,3.6
+1,New Delhi,3.9
+1,New Delhi,3.8
+1,New Delhi,3.7
+1,New Delhi,3.5
+1,New Delhi,3.9
+1,New Delhi,3.9
+1,New Delhi,3.7
+1,New Delhi,3.7
+1,New Delhi,3.8
+1,New Delhi,3.8
+1,New Delhi,3.8
+1,New Delhi,3.8
+1,New Delhi,3.6
+1,New Delhi,3.5
+1,New Delhi,3.7
+1,New Delhi,3.6
+1,New Delhi,3.7
+1,New Delhi,3.5
+1,New Delhi,3.6
+1,New Delhi,3.5
+1,New Delhi,3.5
+1,New Delhi,3.7
+1,New Delhi,3.6
+1,New Delhi,3.5
+1,New Delhi,3.8
+1,New Delhi,3.5
+1,New Delhi,3.7
+1,New Delhi,3.5
+1,New Delhi,3.9
+1,New Delhi,3.8
+1,New Delhi,3.9
+1,New Delhi,3.9
+1,New Delhi,3.5
+1,New Delhi,3.9
+1,New Delhi,3.9
+1,New Delhi,3.9
+1,New Delhi,3.7
+1,New Delhi,3.9
+1,New Delhi,3.5
+1,New Delhi,3.9
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,4.4
+1,New Delhi,4
+1,New Delhi,4.1
+1,New Delhi,4.1
+1,New Delhi,4.1
+1,New Delhi,4
+1,New Delhi,4.2
+1,New Delhi,4.1
+1,New Delhi,4
+1,New Delhi,4.4
+1,New Delhi,4
+1,New Delhi,4
+1,New Delhi,4.3
+1,New Delhi,4
+1,New Delhi,4
+1,New Delhi,4.1
+1,New Delhi,4
+1,New Delhi,4.1
+1,New Delhi,4.3
+1,New Delhi,4.1
+1,New Delhi,4.1
+1,New Delhi,4.1
+1,New Delhi,4.3
+1,New Delhi,4
+1,New Delhi,4.1
+1,New Delhi,4
+1,New Delhi,4.3
+1,New Delhi,4.3
+1,New Delhi,4.1
+1,New Delhi,2.6
+1,New Delhi,3.2
+1,New Delhi,3.3
+1,New Delhi,3.5
+1,New Delhi,3.1
+1,New Delhi,3.3
+1,New Delhi,3.4
+1,New Delhi,3.3
+1,New Delhi,3.5
+1,New Delhi,3.5
+1,New Delhi,3.7
+1,New Delhi,3.2
+1,New Delhi,3.5
+1,New Delhi,3.3
+1,New Delhi,3.4
+1,New Delhi,3.5
+1,New Delhi,3.7
+1,New Delhi,3.5
+1,New Delhi,2.8
+1,New Delhi,3.2
+1,New Delhi,2.8
+1,New Delhi,2.9
+1,New Delhi,3.4
+1,New Delhi,3
+1,New Delhi,2.9
+1,New Delhi,3.1
+1,New Delhi,2.8
+1,New Delhi,3.2
+1,New Delhi,3
+1,New Delhi,3
+1,New Delhi,3.4
+1,New Delhi,3.7
+1,New Delhi,3.8
+1,New Delhi,3.7
+1,New Delhi,3.5
+1,New Delhi,3.8
+1,New Delhi,3.6
+1,New Delhi,3.6
+1,New Delhi,3.7
+1,New Delhi,3.6
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,2.3
+1,New Delhi,4.1
+1,New Delhi,3
+1,New Delhi,1
+1,New Delhi,3.3
+1,New Delhi,3.1
+1,New Delhi,3.3
+1,New Delhi,3
+1,New Delhi,3.4
+1,New Delhi,3.3
+1,New Delhi,3.4
+1,New Delhi,3.2
+1,New Delhi,3.2
+1,New Delhi,3.2
+1,New Delhi,2.7
+1,New Delhi,2.5
+1,New Delhi,3.4
+1,New Delhi,3.4
+1,New Delhi,2.5
+1,New Delhi,2.8
+1,New Delhi,3.3
+1,New Delhi,2.7
+1,New Delhi,3.2
+1,New Delhi,3.1
+1,New Delhi,2.9
+1,New Delhi,2.9
+1,New Delhi,3.2
+1,New Delhi,3.1
+1,New Delhi,3.1
+1,New Delhi,3
+1,New Delhi,3.2
+1,New Delhi,3.3
+1,New Delhi,3.4
+1,New Delhi,3.2
+1,New Delhi,3
+1,New Delhi,3.3
+1,New Delhi,3.2
+1,New Delhi,3.4
+1,New Delhi,2.6
+1,New Delhi,3.9
+1,New Delhi,3.5
+1,New Delhi,3.6
+1,New Delhi,3.8
+1,New Delhi,3.6
+1,New Delhi,3.7
+1,New Delhi,3.7
+1,New Delhi,3.5
+1,New Delhi,3.6
+1,New Delhi,3.9
+1,New Delhi,3.7
+1,New Delhi,3.9
+1,New Delhi,3.8
+1,New Delhi,3.8
+1,New Delhi,3.7
+1,New Delhi,3.6
+1,New Delhi,3.6
+1,New Delhi,3.8
+1,New Delhi,3.5
+1,New Delhi,3.6
+1,New Delhi,3.7
+1,New Delhi,3.8
+1,New Delhi,3.8
+1,New Delhi,3.8
+1,New Delhi,3.8
+1,New Delhi,3.7
+1,New Delhi,3.7
+1,New Delhi,3.6
+1,New Delhi,3.9
+1,New Delhi,3.8
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,2.4
+1,New Delhi,4.1
+1,New Delhi,4.4
+1,New Delhi,4.1
+1,New Delhi,4
+1,New Delhi,4.1
+1,New Delhi,4.1
+1,New Delhi,4.1
+1,New Delhi,4
+1,New Delhi,4.2
+1,New Delhi,4
+1,New Delhi,4
+1,New Delhi,4.2
+1,New Delhi,4.2
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,3.1
+1,New Delhi,3.4
+1,New Delhi,2.8
+1,New Delhi,2.8
+1,New Delhi,3.4
+1,New Delhi,3.4
+1,New Delhi,3.2
+1,New Delhi,2.6
+1,New Delhi,2.5
+1,New Delhi,3
+1,New Delhi,3.3
+1,New Delhi,2.8
+1,New Delhi,3.1
+1,New Delhi,3
+1,New Delhi,3.3
+1,New Delhi,2.8
+1,New Delhi,3.3
+1,New Delhi,2.9
+1,New Delhi,3
+1,New Delhi,3
+1,New Delhi,2.6
+1,New Delhi,3.2
+1,New Delhi,3.3
+1,New Delhi,3.4
+1,New Delhi,3.4
+1,New Delhi,2.7
+1,New Delhi,3.3
+1,New Delhi,2.6
+1,New Delhi,3.4
+1,New Delhi,3.2
+1,New Delhi,2.7
+1,New Delhi,3.4
+1,New Delhi,2.6
+1,New Delhi,3
+1,New Delhi,2.8
+1,New Delhi,3.1
+1,New Delhi,4.6
+1,New Delhi,3.6
+1,New Delhi,3.9
+1,New Delhi,3.7
+1,New Delhi,3.7
+1,New Delhi,3.7
+1,New Delhi,3.9
+1,New Delhi,3.8
+1,New Delhi,3.7
+1,New Delhi,3.8
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,2.4
+1,New Delhi,2.4
+1,New Delhi,4.1
+1,New Delhi,4.1
+1,New Delhi,4.3
+1,New Delhi,4.3
+1,New Delhi,4.4
+1,New Delhi,4.2
+1,New Delhi,2.8
+1,New Delhi,3.2
+1,New Delhi,3.1
+1,New Delhi,2.5
+1,New Delhi,2.8
+1,New Delhi,3.1
+1,New Delhi,3.4
+1,New Delhi,3
+1,New Delhi,3.1
+1,New Delhi,2.8
+1,New Delhi,3.5
+1,New Delhi,3.7
+1,New Delhi,3.6
+1,New Delhi,3.6
+1,New Delhi,3.8
+1,New Delhi,3.5
+1,New Delhi,3.7
+1,New Delhi,3.5
+1,New Delhi,3.5
+1,New Delhi,2.3
+1,New Delhi,3
+1,New Delhi,3.2
+1,New Delhi,3.2
+1,New Delhi,3
+1,New Delhi,2.8
+1,New Delhi,3.3
+1,New Delhi,2.9
+1,New Delhi,3.3
+1,New Delhi,3
+1,New Delhi,3.3
+1,New Delhi,3.4
+1,New Delhi,3.4
+1,New Delhi,3.2
+1,New Delhi,2.6
+1,New Delhi,3.3
+1,New Delhi,3.1
+1,New Delhi,2.6
+1,New Delhi,3
+1,New Delhi,2.7
+1,New Delhi,3
+1,New Delhi,2.7
+1,New Delhi,3
+1,New Delhi,2.7
+1,New Delhi,3.3
+1,New Delhi,3.1
+1,New Delhi,3.1
+1,New Delhi,2.6
+1,New Delhi,3.1
+1,New Delhi,3.2
+1,New Delhi,3.5
+1,New Delhi,3.6
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,2.3
+1,New Delhi,3.4
+1,New Delhi,2.5
+1,New Delhi,2.6
+1,New Delhi,3.4
+1,New Delhi,3.5
+1,New Delhi,2.3
+1,New Delhi,3
+1,New Delhi,3
+1,New Delhi,3.3
+1,New Delhi,3.6
+1,New Delhi,1
+1,New Delhi,3.5
+1,New Delhi,3.8
+1,New Delhi,3.1
+1,New Delhi,2.8
+1,New Delhi,3.8
+1,New Delhi,3.5
+1,New Delhi,3.8
+1,New Delhi,3.9
+1,New Delhi,3.7
+1,New Delhi,3.7
+1,New Delhi,3.5
+1,New Delhi,4.4
+1,New Delhi,4.1
+1,New Delhi,4.1
+1,New Delhi,3.2
+1,New Delhi,3.6
+1,New Delhi,3.9
+1,New Delhi,3.9
+1,New Delhi,3.7
+1,New Delhi,3.7
+1,New Delhi,3.8
+1,New Delhi,3.9
+1,New Delhi,3.8
+1,New Delhi,3.7
+1,New Delhi,3.9
+1,New Delhi,3.8
+1,New Delhi,4
+1,New Delhi,2.7
+1,New Delhi,2.7
+1,New Delhi,3
+1,New Delhi,3.6
+1,New Delhi,3.5
+1,New Delhi,1
+1,New Delhi,2.4
+1,New Delhi,2.9
+1,New Delhi,2.9
+1,New Delhi,2.7
+1,New Delhi,3.2
+1,New Delhi,2.8
+1,New Delhi,2.7
+1,New Delhi,3.3
+1,New Delhi,3.2
+1,New Delhi,3
+1,New Delhi,3.1
+1,New Delhi,3.1
+1,New Delhi,2.8
+1,New Delhi,3.1
+1,New Delhi,3
+1,New Delhi,2.7
+1,New Delhi,3.4
+1,New Delhi,3.2
+1,New Delhi,2.8
+1,New Delhi,3.2
+1,New Delhi,3.1
+1,New Delhi,3.3
+1,New Delhi,3.2
+1,New Delhi,2.9
+1,New Delhi,3.1
+1,New Delhi,2.7
+1,New Delhi,3.2
+1,New Delhi,3.1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,4.1
+1,New Delhi,3.2
+1,New Delhi,2.9
+1,New Delhi,3.2
+1,New Delhi,2.6
+1,New Delhi,3.3
+1,New Delhi,2.6
+1,New Delhi,3
+1,New Delhi,3.2
+1,New Delhi,2.9
+1,New Delhi,2.9
+1,New Delhi,3.1
+1,New Delhi,2.5
+1,New Delhi,3.3
+1,New Delhi,3.1
+1,New Delhi,3.3
+1,New Delhi,3
+1,New Delhi,3.2
+1,New Delhi,3.3
+1,New Delhi,3.4
+1,New Delhi,3.3
+1,New Delhi,3
+1,New Delhi,3.2
+1,New Delhi,2.6
+1,New Delhi,3.2
+1,New Delhi,3.4
+1,New Delhi,3.2
+1,New Delhi,3.2
+1,New Delhi,3
+1,New Delhi,3.1
+1,New Delhi,3.5
+1,New Delhi,3.6
+1,New Delhi,3.6
+1,New Delhi,3.5
+1,New Delhi,3.7
+1,New Delhi,3.9
+1,New Delhi,3.7
+1,New Delhi,3.8
+1,New Delhi,3.5
+1,New Delhi,3.9
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,2.4
+1,New Delhi,4.1
+1,New Delhi,3.1
+1,New Delhi,2.5
+1,New Delhi,3.1
+1,New Delhi,3.3
+1,New Delhi,3.2
+1,New Delhi,3.1
+1,New Delhi,3.1
+1,New Delhi,3.3
+1,New Delhi,2.6
+1,New Delhi,3.6
+1,New Delhi,3.9
+1,New Delhi,3.9
+1,New Delhi,3.6
+1,New Delhi,3.8
+1,New Delhi,3.8
+1,New Delhi,3.7
+1,New Delhi,1
+1,New Delhi,4
+1,New Delhi,4.2
+1,New Delhi,4
+1,New Delhi,4.3
+1,New Delhi,3.3
+1,New Delhi,3.9
+1,New Delhi,3.5
+1,New Delhi,3.7
+1,New Delhi,4.2
+1,New Delhi,3.4
+1,New Delhi,3.4
+1,New Delhi,3.7
+1,New Delhi,1
+1,New Delhi,4.2
+1,New Delhi,3.2
+1,New Delhi,4.9
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,4.2
+1,New Delhi,3
+1,New Delhi,2.8
+1,New Delhi,3.3
+1,New Delhi,3
+1,New Delhi,2.8
+1,New Delhi,3.4
+1,New Delhi,3
+1,New Delhi,3.3
+1,New Delhi,2.8
+1,New Delhi,3.2
+1,New Delhi,3.1
+1,New Delhi,2.7
+1,New Delhi,2.8
+1,New Delhi,3.5
+1,New Delhi,3.5
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,4
+1,New Delhi,3.4
+1,New Delhi,3
+1,New Delhi,2.6
+1,New Delhi,3.3
+1,New Delhi,3.3
+1,New Delhi,3.4
+1,New Delhi,3.1
+1,New Delhi,3.3
+1,New Delhi,3.4
+1,New Delhi,3.3
+1,New Delhi,2.5
+1,New Delhi,3.4
+1,New Delhi,2.8
+1,New Delhi,3
+1,New Delhi,3.4
+1,New Delhi,3.3
+1,New Delhi,4.5
+1,New Delhi,3.6
+1,New Delhi,3.8
+1,New Delhi,3.6
+1,New Delhi,3.8
+1,New Delhi,3.7
+1,New Delhi,3.9
+1,New Delhi,3.8
+1,New Delhi,3.9
+1,New Delhi,3.5
+1,New Delhi,3.5
+1,New Delhi,3.7
+1,New Delhi,3.9
+1,New Delhi,3.9
+1,New Delhi,3.7
+1,New Delhi,3.8
+1,New Delhi,3.5
+1,New Delhi,3.8
+1,New Delhi,3.5
+1,New Delhi,3.5
+1,New Delhi,3.7
+1,New Delhi,3.9
+1,New Delhi,3.7
+1,New Delhi,3.8
+1,New Delhi,3.8
+1,New Delhi,3.6
+1,New Delhi,3.7
+1,New Delhi,3.8
+1,New Delhi,3.5
+1,New Delhi,3.8
+1,New Delhi,3.6
+1,New Delhi,3.8
+1,New Delhi,3.6
+1,New Delhi,3.7
+1,New Delhi,3.7
+1,New Delhi,4.2
+1,New Delhi,4.1
+1,New Delhi,4.1
+1,New Delhi,4.1
+1,New Delhi,4.4
+1,New Delhi,4
+1,New Delhi,4.2
+1,New Delhi,4
+1,New Delhi,4.1
+1,New Delhi,4.1
+1,New Delhi,4.3
+1,New Delhi,4.2
+1,New Delhi,4
+1,New Delhi,4.3
+1,New Delhi,4.1
+1,New Delhi,4.1
+1,New Delhi,3.1
+1,New Delhi,3.4
+1,New Delhi,2.9
+1,New Delhi,3.2
+1,New Delhi,3.2
+1,New Delhi,3.4
+1,New Delhi,3.3
+1,New Delhi,3.2
+1,New Delhi,3
+1,New Delhi,3.2
+1,New Delhi,3.4
+1,New Delhi,2.8
+1,New Delhi,3.3
+1,New Delhi,3.1
+1,New Delhi,3.4
+1,New Delhi,3.3
+1,New Delhi,3.4
+1,New Delhi,3.2
+1,New Delhi,2.9
+1,New Delhi,2.7
+1,New Delhi,3.1
+1,New Delhi,3.3
+1,New Delhi,3.4
+1,New Delhi,4.6
+1,New Delhi,3.9
+1,New Delhi,3.6
+1,New Delhi,3.8
+1,New Delhi,3.6
+1,New Delhi,3.5
+1,New Delhi,3.8
+1,New Delhi,3.8
+1,New Delhi,3.8
+1,New Delhi,3.5
+1,New Delhi,3.5
+1,New Delhi,3.5
+1,New Delhi,3.8
+1,New Delhi,3.6
+1,New Delhi,3.8
+1,New Delhi,3.8
+1,New Delhi,3.5
+1,New Delhi,3.6
+1,New Delhi,3.8
+1,New Delhi,3.7
+1,New Delhi,3.5
+1,New Delhi,3.9
+1,New Delhi,3.6
+1,New Delhi,3.6
+1,New Delhi,3.7
+1,New Delhi,3.5
+1,New Delhi,3.7
+1,New Delhi,3.5
+1,New Delhi,3.5
+1,New Delhi,3.5
+1,New Delhi,3.8
+1,New Delhi,3.6
+1,New Delhi,3.7
+1,New Delhi,3.8
+1,New Delhi,2.4
+1,New Delhi,4.1
+1,New Delhi,4.3
+1,New Delhi,4.4
+1,New Delhi,4.4
+1,New Delhi,4.1
+1,New Delhi,4
+1,New Delhi,4
+1,New Delhi,4.2
+1,New Delhi,3.2
+1,New Delhi,3.2
+1,New Delhi,3.5
+1,New Delhi,3.6
+1,New Delhi,3.6
+1,New Delhi,2.9
+1,New Delhi,3.2
+1,New Delhi,3
+1,New Delhi,3.3
+1,New Delhi,3.1
+1,New Delhi,2.9
+1,New Delhi,2.5
+1,New Delhi,2.8
+1,New Delhi,2.6
+1,New Delhi,3.3
+1,New Delhi,3
+1,New Delhi,2.5
+1,New Delhi,3.4
+1,New Delhi,3.3
+1,New Delhi,3.3
+1,New Delhi,3.1
+1,New Delhi,3.4
+1,New Delhi,3.4
+1,New Delhi,3.3
+1,New Delhi,3.5
+1,New Delhi,3.6
+1,New Delhi,3.5
+1,New Delhi,3.7
+1,New Delhi,3.5
+1,New Delhi,3.7
+1,New Delhi,3.5
+1,New Delhi,3.8
+1,New Delhi,3.8
+1,New Delhi,3.8
+1,New Delhi,3.5
+1,New Delhi,3.6
+1,New Delhi,3.5
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,2.4
+1,New Delhi,4.3
+1,New Delhi,2.8
+1,New Delhi,3.4
+1,New Delhi,3
+1,New Delhi,3.3
+1,New Delhi,3.3
+1,New Delhi,3.3
+1,New Delhi,3.1
+1,New Delhi,3
+1,New Delhi,2.9
+1,New Delhi,3
+1,New Delhi,3.2
+1,New Delhi,3.1
+1,New Delhi,3.8
+1,New Delhi,3.7
+1,New Delhi,3.9
+1,New Delhi,3.5
+1,New Delhi,3.9
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,4.3
+1,New Delhi,3.1
+1,New Delhi,3.3
+1,New Delhi,3.3
+1,New Delhi,2.9
+1,New Delhi,3.2
+1,New Delhi,3.1
+1,New Delhi,3.4
+1,New Delhi,3.1
+1,New Delhi,2.6
+1,New Delhi,3
+1,New Delhi,3.4
+1,New Delhi,3
+1,New Delhi,3.2
+1,New Delhi,3
+1,New Delhi,3.1
+1,New Delhi,3
+1,New Delhi,3.5
+1,New Delhi,3.8
+1,New Delhi,3.6
+1,New Delhi,3.6
+1,New Delhi,3.6
+1,New Delhi,3.8
+1,New Delhi,3.5
+1,New Delhi,3.5
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,3.2
+1,New Delhi,3.4
+1,New Delhi,2.7
+1,New Delhi,3.3
+1,New Delhi,2.9
+1,New Delhi,3.3
+1,New Delhi,2.6
+1,New Delhi,2.9
+1,New Delhi,3.3
+1,New Delhi,3.2
+1,New Delhi,3.4
+1,New Delhi,3.1
+1,New Delhi,3
+1,New Delhi,3.3
+1,New Delhi,3.3
+1,New Delhi,3.1
+1,New Delhi,3.4
+1,New Delhi,2.6
+1,New Delhi,2.6
+1,New Delhi,2.9
+1,New Delhi,2.6
+1,New Delhi,3.3
+1,New Delhi,2.9
+1,New Delhi,3.1
+1,New Delhi,2.8
+1,New Delhi,3.2
+1,New Delhi,3.3
+1,New Delhi,2.9
+1,New Delhi,2.7
+1,New Delhi,2.8
+1,New Delhi,3.1
+1,New Delhi,3.2
+1,New Delhi,3.4
+1,New Delhi,2.8
+1,New Delhi,3.1
+1,New Delhi,2.9
+1,New Delhi,2.8
+1,New Delhi,3.4
+1,New Delhi,3.4
+1,New Delhi,2.6
+1,New Delhi,2.7
+1,New Delhi,4.5
+1,New Delhi,3.9
+1,New Delhi,3.5
+1,New Delhi,3.8
+1,New Delhi,3.6
+1,New Delhi,3.7
+1,New Delhi,3.8
+1,New Delhi,3.7
+1,New Delhi,3.7
+1,New Delhi,3.5
+1,New Delhi,3.5
+1,New Delhi,3.8
+1,New Delhi,3.9
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,4
+1,New Delhi,4
+1,New Delhi,4.1
+1,New Delhi,3.3
+1,New Delhi,3.4
+1,New Delhi,3.3
+1,New Delhi,3.4
+1,New Delhi,4.5
+1,New Delhi,3.9
+1,New Delhi,3.9
+1,New Delhi,3.8
+1,New Delhi,3.7
+1,New Delhi,3.7
+1,New Delhi,3.9
+1,New Delhi,3.8
+1,New Delhi,3.5
+1,New Delhi,3.5
+1,New Delhi,3.7
+1,New Delhi,3.7
+1,New Delhi,3.9
+1,New Delhi,4.3
+1,New Delhi,4.2
+1,New Delhi,4.2
+1,New Delhi,4
+1,New Delhi,4.2
+1,New Delhi,4.4
+1,New Delhi,4.1
+1,New Delhi,3.3
+1,New Delhi,3.4
+1,New Delhi,3.7
+1,New Delhi,3.4
+1,New Delhi,3.9
+1,New Delhi,2.8
+1,New Delhi,3.9
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,3
+1,New Delhi,1
+1,New Delhi,3.3
+1,New Delhi,3
+1,New Delhi,3.4
+1,New Delhi,3.7
+1,New Delhi,3.6
+1,New Delhi,3.5
+1,New Delhi,3.6
+1,New Delhi,3.9
+1,New Delhi,3.6
+1,New Delhi,3.8
+1,New Delhi,3.9
+1,New Delhi,4
+1,New Delhi,3.1
+1,New Delhi,1
+1,New Delhi,3.1
+1,New Delhi,2.6
+1,New Delhi,3.9
+1,New Delhi,1
+1,New Delhi,3.1
+1,New Delhi,3.2
+1,New Delhi,3.8
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,2.9
+1,New Delhi,2.8
+1,New Delhi,3
+1,New Delhi,2.8
+1,New Delhi,2.9
+1,New Delhi,3.1
+1,New Delhi,3.4
+1,New Delhi,3.1
+1,New Delhi,3.2
+1,New Delhi,2.7
+1,New Delhi,2.8
+1,New Delhi,2.8
+1,New Delhi,3.1
+1,New Delhi,3.2
+1,New Delhi,2.6
+1,New Delhi,2.7
+1,New Delhi,3.3
+1,New Delhi,3.4
+1,New Delhi,3.4
+1,New Delhi,3.2
+1,New Delhi,3.3
+1,New Delhi,3.5
+1,New Delhi,3.5
+1,New Delhi,3.7
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,2.4
+1,New Delhi,2.4
+1,New Delhi,2.4
+1,New Delhi,4.1
+1,New Delhi,3.2
+1,New Delhi,3.4
+1,New Delhi,3.8
+1,New Delhi,3.5
+1,New Delhi,4.4
+1,New Delhi,4.1
+1,New Delhi,3.2
+1,New Delhi,3.1
+1,New Delhi,3.2
+1,New Delhi,3.5
+1,New Delhi,2.7
+1,New Delhi,3.1
+1,New Delhi,2.8
+1,New Delhi,3.1
+1,New Delhi,2.8
+1,New Delhi,3.1
+1,New Delhi,3.1
+1,New Delhi,2.7
+1,New Delhi,3.4
+1,New Delhi,3.1
+1,New Delhi,3.3
+1,New Delhi,3.1
+1,New Delhi,3.2
+1,New Delhi,3
+1,New Delhi,3.3
+1,New Delhi,3.4
+1,New Delhi,3.3
+1,New Delhi,3.4
+1,New Delhi,3.4
+1,New Delhi,2.9
+1,New Delhi,2.7
+1,New Delhi,3
+1,New Delhi,2.6
+1,New Delhi,3.3
+1,New Delhi,3.1
+1,New Delhi,3
+1,New Delhi,2.9
+1,New Delhi,3.3
+1,New Delhi,3.2
+1,New Delhi,3.2
+1,New Delhi,3.2
+1,New Delhi,3.1
+1,New Delhi,2.9
+1,New Delhi,3.1
+1,New Delhi,2.9
+1,New Delhi,2.9
+1,New Delhi,3.4
+1,New Delhi,3.3
+1,New Delhi,3
+1,New Delhi,2.9
+1,New Delhi,3
+1,New Delhi,2.9
+1,New Delhi,2.5
+1,New Delhi,3.6
+1,New Delhi,3.5
+1,New Delhi,3.7
+1,New Delhi,3.6
+1,New Delhi,3.7
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,2.2
+1,New Delhi,4.2
+1,New Delhi,3.1
+1,New Delhi,3.4
+1,New Delhi,3
+1,New Delhi,3.1
+1,New Delhi,3.4
+1,New Delhi,3.2
+1,New Delhi,3
+1,New Delhi,3
+1,New Delhi,3.8
+1,New Delhi,3.9
+1,New Delhi,3.5
+1,New Delhi,3.6
+1,New Delhi,3.8
+1,New Delhi,3.8
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,4.2
+1,New Delhi,4
+1,New Delhi,4
+1,New Delhi,4.3
+1,New Delhi,3.3
+1,New Delhi,3.3
+1,New Delhi,3.4
+1,New Delhi,3.2
+1,New Delhi,3.4
+1,New Delhi,2.7
+1,New Delhi,3.3
+1,New Delhi,3.4
+1,New Delhi,3
+1,New Delhi,3.2
+1,New Delhi,2.5
+1,New Delhi,3.4
+1,New Delhi,2.7
+1,New Delhi,2.6
+1,New Delhi,2.5
+1,New Delhi,3.2
+1,New Delhi,3.4
+1,New Delhi,2.5
+1,New Delhi,3.4
+1,New Delhi,3.1
+1,New Delhi,3.4
+1,New Delhi,3
+1,New Delhi,3.3
+1,New Delhi,3.4
+1,New Delhi,3.4
+1,New Delhi,2.7
+1,New Delhi,4.5
+1,New Delhi,3.5
+1,New Delhi,3.8
+1,New Delhi,3.8
+1,New Delhi,3.6
+1,New Delhi,3.6
+1,New Delhi,3.5
+1,New Delhi,3.5
+1,New Delhi,3.6
+1,New Delhi,3.5
+1,New Delhi,3.6
+1,New Delhi,3.6
+1,New Delhi,3.5
+1,New Delhi,3.6
+1,New Delhi,3.5
+1,New Delhi,3.7
+1,New Delhi,3.5
+1,New Delhi,3.7
+1,New Delhi,1.9
+1,New Delhi,4.3
+1,New Delhi,2.8
+1,New Delhi,2.8
+1,New Delhi,3.1
+1,New Delhi,2.9
+1,New Delhi,3.2
+1,New Delhi,3
+1,New Delhi,2.8
+1,New Delhi,2.7
+1,New Delhi,3.1
+1,New Delhi,3.1
+1,New Delhi,2.8
+1,New Delhi,3.2
+1,New Delhi,3.1
+1,New Delhi,3.4
+1,New Delhi,2.6
+1,New Delhi,2.9
+1,New Delhi,2.6
+1,New Delhi,3.3
+1,New Delhi,2.6
+1,New Delhi,3.1
+1,New Delhi,3.1
+1,New Delhi,2.8
+1,New Delhi,3.2
+1,New Delhi,3
+1,New Delhi,3.3
+1,New Delhi,3.3
+1,New Delhi,2.9
+1,New Delhi,3.5
+1,New Delhi,3.9
+1,New Delhi,3.6
+1,New Delhi,3.5
+1,New Delhi,3.5
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,2.3
+1,New Delhi,4
+1,New Delhi,4.1
+1,New Delhi,3.3
+1,New Delhi,3.3
+1,New Delhi,3.1
+1,New Delhi,3.4
+1,New Delhi,3.2
+1,New Delhi,3.2
+1,New Delhi,2.9
+1,New Delhi,3.4
+1,New Delhi,3.2
+1,New Delhi,3
+1,New Delhi,2.7
+1,New Delhi,3.2
+1,New Delhi,3
+1,New Delhi,3.1
+1,New Delhi,3.2
+1,New Delhi,4.9
+1,New Delhi,3.8
+1,New Delhi,3.9
+1,New Delhi,3.7
+1,New Delhi,3.7
+1,New Delhi,3.7
+1,New Delhi,3.8
+1,New Delhi,3.9
+1,New Delhi,3.9
+1,New Delhi,3.8
+1,New Delhi,3.9
+1,New Delhi,3.5
+1,New Delhi,3.6
+1,New Delhi,3.9
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,4.2
+1,New Delhi,4.2
+1,New Delhi,4.2
+1,New Delhi,4.1
+1,New Delhi,3.1
+1,New Delhi,3.3
+1,New Delhi,2.9
+1,New Delhi,3
+1,New Delhi,3.1
+1,New Delhi,2.6
+1,New Delhi,3.3
+1,New Delhi,2.8
+1,New Delhi,3.3
+1,New Delhi,2.8
+1,New Delhi,2.5
+1,New Delhi,3.2
+1,New Delhi,2.8
+1,New Delhi,3.3
+1,New Delhi,3.5
+1,New Delhi,3.8
+1,New Delhi,3.7
+1,New Delhi,3.8
+1,New Delhi,3.8
+1,New Delhi,1
+1,New Delhi,2.4
+1,New Delhi,3.4
+1,New Delhi,3.5
+1,New Delhi,3.4
+1,New Delhi,3.2
+1,New Delhi,3.3
+1,New Delhi,3.6
+1,New Delhi,3.5
+1,New Delhi,3.1
+1,New Delhi,2.8
+1,New Delhi,3.3
+1,New Delhi,3.2
+1,New Delhi,4.5
+1,New Delhi,3.2
+1,New Delhi,3
+1,New Delhi,2.7
+1,New Delhi,3.4
+1,New Delhi,3.2
+1,New Delhi,3.5
+1,New Delhi,3.8
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,2.3
+1,New Delhi,3.1
+1,New Delhi,3.3
+1,New Delhi,3
+1,New Delhi,3.1
+1,New Delhi,3.3
+1,New Delhi,3.1
+1,New Delhi,3
+1,New Delhi,3.1
+1,New Delhi,3.1
+1,New Delhi,3.6
+1,New Delhi,3.5
+1,New Delhi,3.8
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,4.4
+1,New Delhi,4.2
+1,New Delhi,4.3
+1,New Delhi,3.2
+1,New Delhi,2.9
+1,New Delhi,2.6
+1,New Delhi,2.8
+1,New Delhi,2.7
+1,New Delhi,2.9
+1,New Delhi,3.4
+1,New Delhi,2.6
+1,New Delhi,2.9
+1,New Delhi,2.9
+1,New Delhi,3.1
+1,New Delhi,3.1
+1,New Delhi,3.2
+1,New Delhi,3
+1,New Delhi,2.9
+1,New Delhi,2.5
+1,New Delhi,2.8
+1,New Delhi,3.2
+1,New Delhi,3.2
+1,New Delhi,3.2
+1,New Delhi,3.3
+1,New Delhi,2.8
+1,New Delhi,3.4
+1,New Delhi,3.2
+1,New Delhi,2.8
+1,New Delhi,2.9
+1,New Delhi,3.2
+1,New Delhi,3.2
+1,New Delhi,2.6
+1,New Delhi,3
+1,New Delhi,3.1
+1,New Delhi,3.2
+1,New Delhi,3.4
+1,New Delhi,3.1
+1,New Delhi,3.2
+1,New Delhi,3.1
+1,New Delhi,3.3
+1,New Delhi,2.9
+1,New Delhi,3
+1,New Delhi,2.8
+1,New Delhi,3
+1,New Delhi,3.3
+1,New Delhi,3.3
+1,New Delhi,3.1
+1,New Delhi,2.7
+1,New Delhi,2.6
+1,New Delhi,3.2
+1,New Delhi,3.3
+1,New Delhi,3.4
+1,New Delhi,2.6
+1,New Delhi,2.7
+1,New Delhi,3.1
+1,New Delhi,3.6
+1,New Delhi,3.6
+1,New Delhi,3.6
+1,New Delhi,3.7
+1,New Delhi,3.5
+1,New Delhi,3.6
+1,New Delhi,3.5
+1,New Delhi,3.8
+1,New Delhi,3.8
+1,New Delhi,3.6
+1,New Delhi,3.6
+1,New Delhi,3.8
+1,New Delhi,3.6
+1,New Delhi,3.5
+1,New Delhi,3.5
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,2.4
+1,New Delhi,2.3
+1,New Delhi,2.3
+1,New Delhi,3.3
+1,New Delhi,2.5
+1,New Delhi,3.1
+1,New Delhi,3.3
+1,New Delhi,3.3
+1,New Delhi,3.4
+1,New Delhi,3.1
+1,New Delhi,3.4
+1,New Delhi,3.4
+1,New Delhi,2.9
+1,New Delhi,2.8
+1,New Delhi,3.4
+1,New Delhi,3.1
+1,New Delhi,3.2
+1,New Delhi,3.3
+1,New Delhi,3.3
+1,New Delhi,3.2
+1,New Delhi,3.3
+1,New Delhi,2.9
+1,New Delhi,2.7
+1,New Delhi,2.7
+1,New Delhi,3.2
+1,New Delhi,3.4
+1,New Delhi,3.4
+1,New Delhi,3.3
+1,New Delhi,3.3
+1,New Delhi,3.1
+1,New Delhi,3.5
+1,New Delhi,3.9
+1,New Delhi,3.8
+1,New Delhi,3.6
+1,New Delhi,3.7
+1,New Delhi,3.6
+1,New Delhi,3.7
+1,New Delhi,3.9
+1,New Delhi,3.8
+1,New Delhi,3.7
+1,New Delhi,3.5
+1,New Delhi,3.8
+1,New Delhi,3.6
+1,New Delhi,3.7
+1,New Delhi,3.7
+1,New Delhi,3.5
+1,New Delhi,3.5
+1,New Delhi,3.9
+1,New Delhi,3.6
+1,New Delhi,3.7
+1,New Delhi,3.7
+1,New Delhi,3.5
+1,New Delhi,3.5
+1,New Delhi,3.8
+1,New Delhi,3.5
+1,New Delhi,3.5
+1,New Delhi,3.8
+1,New Delhi,3.6
+1,New Delhi,3.9
+1,New Delhi,3.5
+1,New Delhi,3.6
+1,New Delhi,3.6
+1,New Delhi,3.5
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,4.2
+1,New Delhi,4
+1,New Delhi,3.1
+1,New Delhi,3.3
+1,New Delhi,3.1
+1,New Delhi,3.4
+1,New Delhi,4.1
+1,New Delhi,3.2
+1,New Delhi,3.2
+1,New Delhi,3.4
+1,New Delhi,3.4
+1,New Delhi,3.3
+1,New Delhi,3.3
+1,New Delhi,2.6
+1,New Delhi,3.4
+1,New Delhi,3.2
+1,New Delhi,3.2
+1,New Delhi,3.6
+1,New Delhi,3.5
+1,New Delhi,3.5
+1,New Delhi,3.7
+1,New Delhi,3.5
+1,New Delhi,3.7
+1,New Delhi,3.7
+1,New Delhi,3.8
+1,New Delhi,3.8
+1,New Delhi,3.6
+1,New Delhi,3.5
+1,New Delhi,4
+1,New Delhi,4
+1,New Delhi,2.8
+1,New Delhi,3.4
+1,New Delhi,2.9
+1,New Delhi,3.4
+1,New Delhi,3.2
+1,New Delhi,2.6
+1,New Delhi,2.5
+1,New Delhi,3.2
+1,New Delhi,3.4
+1,New Delhi,3
+1,New Delhi,3.4
+1,New Delhi,3.4
+1,New Delhi,2.7
+1,New Delhi,3.1
+1,New Delhi,2.9
+1,New Delhi,2.7
+1,New Delhi,2.9
+1,New Delhi,3.3
+1,New Delhi,3.1
+1,New Delhi,3.3
+1,New Delhi,2.9
+1,New Delhi,3.2
+1,New Delhi,2.7
+1,New Delhi,3.4
+1,New Delhi,3.3
+1,New Delhi,2.6
+1,New Delhi,2.5
+1,New Delhi,3.1
+1,New Delhi,2.8
+1,New Delhi,3.3
+1,New Delhi,3.4
+1,New Delhi,2.7
+1,New Delhi,3.1
+1,New Delhi,3.1
+1,New Delhi,2.7
+1,New Delhi,3.3
+1,New Delhi,3.4
+1,New Delhi,3
+1,New Delhi,2.7
+1,New Delhi,3.3
+1,New Delhi,3.2
+1,New Delhi,2.5
+1,New Delhi,2.6
+1,New Delhi,3.4
+1,New Delhi,3.6
+1,New Delhi,3.5
+1,New Delhi,3.7
+1,New Delhi,3.6
+1,New Delhi,3.7
+1,New Delhi,3.8
+1,New Delhi,3.5
+1,New Delhi,3.5
+1,New Delhi,3.6
+1,New Delhi,3.6
+1,New Delhi,3.7
+1,New Delhi,3.6
+1,New Delhi,3.7
+1,New Delhi,3.5
+1,New Delhi,3.5
+1,New Delhi,3.8
+1,New Delhi,3.6
+1,New Delhi,3.8
+1,New Delhi,3.5
+1,New Delhi,3.7
+1,New Delhi,3.5
+1,New Delhi,3.5
+1,New Delhi,3.5
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,2.3
+1,New Delhi,2.4
+1,New Delhi,4
+1,New Delhi,4
+1,New Delhi,4.3
+1,New Delhi,4.5
+1,New Delhi,3.3
+1,New Delhi,3.1
+1,New Delhi,3.3
+1,New Delhi,2.5
+1,New Delhi,3.2
+1,New Delhi,3.3
+1,New Delhi,4.5
+1,New Delhi,4.6
+1,New Delhi,3.8
+1,New Delhi,3.9
+1,New Delhi,3.6
+1,New Delhi,3.6
+1,New Delhi,3.6
+1,New Delhi,3.7
+1,New Delhi,3.8
+1,New Delhi,3.6
+1,New Delhi,3.7
+1,New Delhi,3.7
+1,New Delhi,3.6
+1,New Delhi,3.9
+1,New Delhi,3.8
+1,New Delhi,3.7
+1,New Delhi,3.9
+1,New Delhi,3.8
+1,New Delhi,3.5
+1,New Delhi,3.9
+1,New Delhi,3.7
+1,New Delhi,3.6
+1,New Delhi,3.7
+1,New Delhi,3.8
+1,New Delhi,3.8
+1,New Delhi,3.8
+1,New Delhi,1
+1,New Delhi,4.2
+1,New Delhi,4
+1,New Delhi,4.1
+1,New Delhi,4
+1,New Delhi,4
+1,New Delhi,4.2
+1,New Delhi,4
+1,New Delhi,4.2
+1,New Delhi,4.2
+1,New Delhi,4
+1,New Delhi,4.4
+1,New Delhi,4.2
+1,New Delhi,3.1
+1,New Delhi,3.1
+1,New Delhi,3.3
+1,New Delhi,3
+1,New Delhi,3.2
+1,New Delhi,3.3
+1,New Delhi,3.2
+1,New Delhi,3.2
+1,New Delhi,3.1
+1,New Delhi,2.6
+1,New Delhi,2.8
+1,New Delhi,3.2
+1,New Delhi,2.7
+1,New Delhi,2.7
+1,New Delhi,3
+1,New Delhi,3.3
+1,New Delhi,3.3
+1,New Delhi,3.3
+1,New Delhi,3
+1,New Delhi,3.4
+1,New Delhi,2.7
+1,New Delhi,2.7
+1,New Delhi,3.2
+1,New Delhi,3.3
+1,New Delhi,3.2
+1,New Delhi,3.2
+1,New Delhi,2.7
+1,New Delhi,3.1
+1,New Delhi,2.8
+1,New Delhi,3.1
+1,New Delhi,2.7
+1,New Delhi,3.2
+1,New Delhi,2.6
+1,New Delhi,3.3
+1,New Delhi,2.8
+1,New Delhi,3.2
+1,New Delhi,3
+1,New Delhi,2.8
+1,New Delhi,3.2
+1,New Delhi,2.9
+1,New Delhi,3
+1,New Delhi,3.2
+1,New Delhi,3.4
+1,New Delhi,3.1
+1,New Delhi,3.5
+1,New Delhi,3.5
+1,New Delhi,3.6
+1,New Delhi,3.7
+1,New Delhi,3.6
+1,New Delhi,3.5
+1,New Delhi,3.5
+1,New Delhi,3.6
+1,New Delhi,3.5
+1,New Delhi,2.4
+1,New Delhi,2.1
+1,New Delhi,2.4
+1,New Delhi,2.9
+1,New Delhi,3
+1,New Delhi,2.9
+1,New Delhi,2.9
+1,New Delhi,3
+1,New Delhi,2.9
+1,New Delhi,2.9
+1,New Delhi,2.9
+1,New Delhi,2.5
+1,New Delhi,3.1
+1,New Delhi,3.2
+1,New Delhi,3.3
+1,New Delhi,3.2
+1,New Delhi,3.3
+1,New Delhi,3.2
+1,New Delhi,2.9
+1,New Delhi,3.1
+1,New Delhi,3.3
+1,New Delhi,2.9
+1,New Delhi,3.2
+1,New Delhi,3.3
+1,New Delhi,3.1
+1,New Delhi,3.2
+1,New Delhi,3.3
+1,New Delhi,2.6
+1,New Delhi,3.2
+1,New Delhi,3
+1,New Delhi,3
+1,New Delhi,3.4
+1,New Delhi,3.1
+1,New Delhi,2.7
+1,New Delhi,3.1
+1,New Delhi,3.3
+1,New Delhi,3.3
+1,New Delhi,3.4
+1,New Delhi,2.9
+1,New Delhi,3.1
+1,New Delhi,3.1
+1,New Delhi,3.1
+1,New Delhi,3.1
+1,New Delhi,2.9
+1,New Delhi,3
+1,New Delhi,3.1
+1,New Delhi,3.2
+1,New Delhi,3.6
+1,New Delhi,3.5
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,3.1
+1,New Delhi,3.5
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,3.4
+1,New Delhi,3
+1,New Delhi,3.1
+1,New Delhi,2.7
+1,New Delhi,2.8
+1,New Delhi,2.7
+1,New Delhi,3.2
+1,New Delhi,3.3
+1,New Delhi,3
+1,New Delhi,2.6
+1,New Delhi,3.3
+1,New Delhi,3.4
+1,New Delhi,3
+1,New Delhi,2.7
+1,New Delhi,2.6
+1,New Delhi,3.8
+1,New Delhi,3.7
+1,New Delhi,3.6
+1,New Delhi,3.5
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,3.4
+1,New Delhi,3
+1,New Delhi,3.1
+1,New Delhi,3.4
+1,New Delhi,2.5
+1,New Delhi,3.4
+1,New Delhi,2.9
+1,New Delhi,2.9
+1,New Delhi,2.8
+1,New Delhi,3.3
+1,New Delhi,2.6
+1,New Delhi,3.1
+1,New Delhi,3.1
+1,New Delhi,3
+1,New Delhi,3.5
+1,New Delhi,3.7
+1,New Delhi,3.8
+1,New Delhi,3.8
+1,New Delhi,3.7
+1,New Delhi,3.8
+1,New Delhi,3.5
+1,New Delhi,1
+1,New Delhi,3.5
+1,New Delhi,4.1
+1,New Delhi,3.4
+1,New Delhi,3.2
+1,New Delhi,3.3
+1,New Delhi,3.3
+1,New Delhi,3.1
+1,New Delhi,3.3
+1,New Delhi,3.2
+1,New Delhi,2.8
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,4.2
+1,New Delhi,2.8
+1,New Delhi,2.6
+1,New Delhi,3.3
+1,New Delhi,3.1
+1,New Delhi,3.1
+1,New Delhi,2.9
+1,New Delhi,2.8
+1,New Delhi,3
+1,New Delhi,2.7
+1,New Delhi,2.8
+1,New Delhi,3
+1,New Delhi,3.2
+1,New Delhi,2.8
+1,New Delhi,3.1
+1,New Delhi,3
+1,New Delhi,3.4
+1,New Delhi,2.9
+1,New Delhi,2.6
+1,New Delhi,2.6
+1,New Delhi,3.2
+1,New Delhi,3.4
+1,New Delhi,3
+1,New Delhi,2.6
+1,New Delhi,3.1
+1,New Delhi,2.7
+1,New Delhi,3.3
+1,New Delhi,3
+1,New Delhi,2.9
+1,New Delhi,3.4
+1,New Delhi,3
+1,New Delhi,2.8
+1,New Delhi,2.9
+1,New Delhi,2.8
+1,New Delhi,3.3
+1,New Delhi,3.1
+1,New Delhi,2.8
+1,New Delhi,2.7
+1,New Delhi,3.4
+1,New Delhi,3
+1,New Delhi,3.2
+1,New Delhi,3.1
+1,New Delhi,3.1
+1,New Delhi,3.1
+1,New Delhi,3.5
+1,New Delhi,3.5
+1,New Delhi,3.8
+1,New Delhi,3.8
+1,New Delhi,3.7
+1,New Delhi,3.5
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,2.4
+1,New Delhi,2.1
+1,New Delhi,2.2
+1,New Delhi,4.1
+1,New Delhi,3.3
+1,New Delhi,3.5
+1,New Delhi,3.9
+1,New Delhi,3.5
+1,New Delhi,3.8
+1,New Delhi,4
+1,New Delhi,3.5
+1,New Delhi,2.5
+1,New Delhi,3.1
+1,New Delhi,3.1
+1,New Delhi,3.3
+1,New Delhi,3.1
+1,New Delhi,2.5
+1,New Delhi,3.2
+1,New Delhi,2.9
+1,New Delhi,2.6
+1,New Delhi,3.4
+1,New Delhi,3.2
+1,New Delhi,2.7
+1,New Delhi,3.2
+1,New Delhi,2.6
+1,New Delhi,3
+1,New Delhi,2.9
+1,New Delhi,3.1
+1,New Delhi,2.6
+1,New Delhi,3.3
+1,New Delhi,2.9
+1,New Delhi,2.5
+1,New Delhi,3.2
+1,New Delhi,3.4
+1,New Delhi,3.1
+1,New Delhi,2.9
+1,New Delhi,2.7
+1,New Delhi,3.3
+1,New Delhi,3.2
+1,New Delhi,3.1
+1,New Delhi,3.1
+1,New Delhi,3.6
+1,New Delhi,3.5
+1,New Delhi,3.8
+1,New Delhi,3.8
+1,New Delhi,3.7
+1,New Delhi,3.9
+1,New Delhi,3.5
+1,New Delhi,3.8
+1,New Delhi,3.6
+1,New Delhi,1
+1,New Delhi,2.3
+1,New Delhi,4.1
+1,New Delhi,4.1
+1,New Delhi,4.1
+1,New Delhi,2.8
+1,New Delhi,3
+1,New Delhi,3.3
+1,New Delhi,2.7
+1,New Delhi,3.1
+1,New Delhi,3.1
+1,New Delhi,2.9
+1,New Delhi,2.9
+1,New Delhi,3.2
+1,New Delhi,3.7
+1,New Delhi,3.6
+1,New Delhi,3.8
+1,New Delhi,3.7
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,4.2
+1,New Delhi,2.7
+1,New Delhi,2.9
+1,New Delhi,2.9
+1,New Delhi,2.7
+1,New Delhi,2.9
+1,New Delhi,3
+1,New Delhi,3.2
+1,New Delhi,2.5
+1,New Delhi,3.1
+1,New Delhi,3.1
+1,New Delhi,2.9
+1,New Delhi,3.1
+1,New Delhi,2.8
+1,New Delhi,3
+1,New Delhi,3
+1,New Delhi,3.1
+1,New Delhi,2.8
+1,New Delhi,2.9
+1,New Delhi,2.9
+1,New Delhi,2.8
+1,New Delhi,2.9
+1,New Delhi,3.1
+1,New Delhi,2.9
+1,New Delhi,2.9
+1,New Delhi,3.9
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,2.7
+1,New Delhi,3.4
+1,New Delhi,3.3
+1,New Delhi,3
+1,New Delhi,3.2
+1,New Delhi,3.1
+1,New Delhi,3.1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,3.2
+1,New Delhi,3.3
+1,New Delhi,3.1
+1,New Delhi,2.5
+1,New Delhi,3.3
+1,New Delhi,3.4
+1,New Delhi,3.3
+1,New Delhi,3.3
+1,New Delhi,3.4
+1,New Delhi,3.2
+1,New Delhi,2.7
+1,New Delhi,3.3
+1,New Delhi,3.4
+1,New Delhi,3
+1,New Delhi,3
+1,New Delhi,2.8
+1,New Delhi,3.2
+1,New Delhi,3.3
+1,New Delhi,3.4
+1,New Delhi,2.6
+1,New Delhi,3.4
+1,New Delhi,3.3
+1,New Delhi,3.4
+1,New Delhi,3.2
+1,New Delhi,2.8
+1,New Delhi,3
+1,New Delhi,3.3
+1,New Delhi,3.4
+1,New Delhi,3.4
+1,New Delhi,2.8
+1,New Delhi,3.4
+1,New Delhi,2.8
+1,New Delhi,3.4
+1,New Delhi,3.2
+1,New Delhi,3.3
+1,New Delhi,3.6
+1,New Delhi,3.5
+1,New Delhi,3.9
+1,New Delhi,3.9
+1,New Delhi,3.9
+1,New Delhi,3.8
+1,New Delhi,3.5
+1,New Delhi,3.6
+1,New Delhi,3.7
+1,New Delhi,3.7
+1,New Delhi,3.8
+1,New Delhi,3.7
+1,New Delhi,3.7
+1,New Delhi,3.8
+1,New Delhi,3.5
+1,New Delhi,3.7
+1,New Delhi,3.6
+1,New Delhi,3.5
+1,New Delhi,3.6
+1,New Delhi,3.6
+1,New Delhi,3.7
+1,New Delhi,3.5
+1,New Delhi,3.6
+1,New Delhi,3.9
+1,New Delhi,3.7
+1,New Delhi,3.5
+1,New Delhi,3.6
+1,New Delhi,3.6
+1,New Delhi,3.9
+1,New Delhi,3.5
+1,New Delhi,3.5
+1,New Delhi,3.6
+1,New Delhi,3.8
+1,New Delhi,3.7
+1,New Delhi,3.5
+1,New Delhi,2.3
+1,New Delhi,2.3
+1,New Delhi,2.4
+1,New Delhi,2
+1,New Delhi,2.2
+1,New Delhi,4.4
+1,New Delhi,4
+1,New Delhi,4
+1,New Delhi,4
+1,New Delhi,4.1
+1,New Delhi,4
+1,New Delhi,4.3
+1,New Delhi,4
+1,New Delhi,4.1
+1,New Delhi,3.2
+1,New Delhi,3.3
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,4.2
+1,New Delhi,3.2
+1,New Delhi,2.7
+1,New Delhi,3
+1,New Delhi,3.2
+1,New Delhi,3.1
+1,New Delhi,2.9
+1,New Delhi,3
+1,New Delhi,3.1
+1,New Delhi,3.1
+1,New Delhi,3.2
+1,New Delhi,3.5
+1,New Delhi,3.5
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,2.6
+1,New Delhi,3.2
+1,New Delhi,2.9
+1,New Delhi,2.9
+1,New Delhi,2.8
+1,New Delhi,2.9
+1,New Delhi,2.7
+1,New Delhi,3.1
+1,New Delhi,3.2
+1,New Delhi,2.7
+1,New Delhi,3
+1,New Delhi,2.7
+1,New Delhi,2.7
+1,New Delhi,2.7
+1,New Delhi,2.6
+1,New Delhi,3.2
+1,New Delhi,2.9
+1,New Delhi,2.7
+1,New Delhi,3.1
+1,New Delhi,3
+1,New Delhi,3.1
+1,New Delhi,3.2
+1,New Delhi,2.7
+1,New Delhi,2.7
+1,New Delhi,2.6
+1,New Delhi,2.7
+1,New Delhi,3
+1,New Delhi,3.3
+1,New Delhi,2.8
+1,New Delhi,3.3
+1,New Delhi,2.9
+1,New Delhi,3
+1,New Delhi,2.7
+1,New Delhi,2.9
+1,New Delhi,3
+1,New Delhi,2.6
+1,New Delhi,2.8
+1,New Delhi,3.3
+1,New Delhi,2.8
+1,New Delhi,3.1
+1,New Delhi,3
+1,New Delhi,2.8
+1,New Delhi,3.1
+1,New Delhi,3.1
+1,New Delhi,3.2
+1,New Delhi,3.1
+1,New Delhi,3.1
+1,New Delhi,3.4
+1,New Delhi,3.7
+1,New Delhi,3.6
+1,New Delhi,3.7
+1,New Delhi,3.7
+1,New Delhi,3.7
+1,New Delhi,3.7
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,2.4
+1,New Delhi,2.4
+1,New Delhi,2.4
+1,New Delhi,3.1
+1,New Delhi,2.8
+1,New Delhi,3.3
+1,New Delhi,3.2
+1,New Delhi,2.9
+1,New Delhi,3
+1,New Delhi,2.7
+1,New Delhi,3
+1,New Delhi,2.5
+1,New Delhi,2.8
+1,New Delhi,3.2
+1,New Delhi,2.8
+1,New Delhi,3.1
+1,New Delhi,3.3
+1,New Delhi,2.8
+1,New Delhi,2.6
+1,New Delhi,3.1
+1,New Delhi,3.3
+1,New Delhi,3.6
+1,New Delhi,3.5
+1,New Delhi,3.7
+1,New Delhi,3.8
+1,New Delhi,3.9
+1,New Delhi,3.7
+1,New Delhi,3.6
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,2.2
+1,New Delhi,2.6
+1,New Delhi,3.1
+1,New Delhi,3
+1,New Delhi,2.8
+1,New Delhi,3
+1,New Delhi,3
+1,New Delhi,2.8
+1,New Delhi,2.6
+1,New Delhi,3.3
+1,New Delhi,2.7
+1,New Delhi,2.7
+1,New Delhi,3
+1,New Delhi,3
+1,New Delhi,2.9
+1,New Delhi,2.9
+1,New Delhi,2.8
+1,New Delhi,2.9
+1,New Delhi,3.3
+1,New Delhi,3
+1,New Delhi,3.5
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,3
+1,New Delhi,2.9
+1,New Delhi,2.9
+1,New Delhi,2.9
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,3.4
+1,New Delhi,3.2
+1,New Delhi,2.8
+1,New Delhi,2.9
+1,New Delhi,3
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,3.4
+1,New Delhi,3.4
+1,New Delhi,3.8
+1,New Delhi,3.5
+1,New Delhi,4.1
+1,New Delhi,3.2
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,3.8
+1,New Delhi,3.2
+1,New Delhi,2.6
+1,New Delhi,3.2
+1,New Delhi,2.8
+1,New Delhi,2.9
+1,New Delhi,3.3
+1,New Delhi,2.7
+1,New Delhi,3.1
+1,New Delhi,3.1
+1,New Delhi,3.1
+1,New Delhi,3
+1,New Delhi,3.1
+1,New Delhi,3.3
+1,New Delhi,3.4
+1,New Delhi,3.2
+1,New Delhi,3.4
+1,New Delhi,2.7
+1,New Delhi,3.7
+1,New Delhi,3.5
+1,New Delhi,3.7
+1,New Delhi,3.5
+1,New Delhi,3.6
+1,New Delhi,3.5
+1,New Delhi,3.7
+1,New Delhi,4.1
+1,New Delhi,3.3
+1,New Delhi,3.2
+1,New Delhi,3.2
+1,New Delhi,2.7
+1,New Delhi,2.8
+1,New Delhi,3.3
+1,New Delhi,3.5
+1,New Delhi,3.8
+1,New Delhi,1
+1,New Delhi,4.3
+1,New Delhi,3.4
+1,New Delhi,3.1
+1,New Delhi,3.1
+1,New Delhi,2.7
+1,New Delhi,3.3
+1,New Delhi,3.2
+1,New Delhi,2.9
+1,New Delhi,3.1
+1,New Delhi,3.2
+1,New Delhi,3.3
+1,New Delhi,3.2
+1,New Delhi,3.3
+1,New Delhi,2.6
+1,New Delhi,3.3
+1,New Delhi,2.6
+1,New Delhi,3.2
+1,New Delhi,3.5
+1,New Delhi,3.5
+1,New Delhi,3.5
+1,New Delhi,3.8
+1,New Delhi,2.4
+1,New Delhi,4.1
+1,New Delhi,4.1
+1,New Delhi,2.6
+1,New Delhi,2.9
+1,New Delhi,3.3
+1,New Delhi,3.6
+1,New Delhi,3.5
+1,New Delhi,3.1
+1,New Delhi,3.1
+1,New Delhi,3.2
+1,New Delhi,3.1
+1,New Delhi,2.5
+1,New Delhi,3.1
+1,New Delhi,3
+1,New Delhi,3.2
+1,New Delhi,3.4
+1,New Delhi,3.2
+1,New Delhi,3
+1,New Delhi,2.9
+1,New Delhi,3
+1,New Delhi,3
+1,New Delhi,3.1
+1,New Delhi,2.9
+1,New Delhi,3.4
+1,New Delhi,3.8
+1,New Delhi,3.5
+1,New Delhi,3.7
+1,New Delhi,3.7
+1,New Delhi,3.6
+1,New Delhi,3.6
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,2.9
+1,New Delhi,3
+1,New Delhi,2.9
+1,New Delhi,3
+1,New Delhi,3.1
+1,New Delhi,3.1
+1,New Delhi,3.1
+1,New Delhi,3
+1,New Delhi,3
+1,New Delhi,3
+1,New Delhi,2.7
+1,New Delhi,3.1
+1,New Delhi,2.8
+1,New Delhi,3.1
+1,New Delhi,3.1
+1,New Delhi,3.1
+1,New Delhi,3
+1,New Delhi,3.1
+1,New Delhi,3
+1,New Delhi,3
+1,New Delhi,3.1
+1,New Delhi,2.6
+1,New Delhi,2.9
+1,New Delhi,3.5
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,2.8
+1,New Delhi,3.2
+1,New Delhi,2.9
+1,New Delhi,2.9
+1,New Delhi,3.3
+1,New Delhi,3
+1,New Delhi,3.2
+1,New Delhi,3.4
+1,New Delhi,3.3
+1,New Delhi,2.9
+1,New Delhi,2.9
+1,New Delhi,2.8
+1,New Delhi,2.8
+1,New Delhi,2.7
+1,New Delhi,2.8
+1,New Delhi,3.4
+1,New Delhi,2.9
+1,New Delhi,2.7
+1,New Delhi,3.5
+1,New Delhi,3.5
+1,New Delhi,3.7
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,2.3
+1,New Delhi,2.9
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,3
+1,New Delhi,3.4
+1,New Delhi,3
+1,New Delhi,2.6
+1,New Delhi,2.9
+1,New Delhi,3.2
+1,New Delhi,3
+1,New Delhi,3.1
+1,New Delhi,2.8
+1,New Delhi,3
+1,New Delhi,3
+1,New Delhi,3.2
+1,New Delhi,3.2
+1,New Delhi,3.4
+1,New Delhi,2.8
+1,New Delhi,2.8
+1,New Delhi,3.3
+1,New Delhi,3.1
+1,New Delhi,3.1
+1,New Delhi,2.8
+1,New Delhi,2.6
+1,New Delhi,3
+1,New Delhi,2.8
+1,New Delhi,3.1
+1,New Delhi,3.2
+1,New Delhi,2.8
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,2.7
+1,New Delhi,2.8
+1,New Delhi,2.8
+1,New Delhi,2.9
+1,New Delhi,3.1
+1,New Delhi,3
+1,New Delhi,3.2
+1,New Delhi,3
+1,New Delhi,3
+1,New Delhi,3.1
+1,New Delhi,3.1
+1,New Delhi,3.2
+1,New Delhi,3.1
+1,New Delhi,3
+1,New Delhi,3.4
+1,New Delhi,2.5
+1,New Delhi,3.1
+1,New Delhi,3.7
+1,New Delhi,3.7
+1,New Delhi,3.9
+1,New Delhi,3.6
+1,New Delhi,3.6
+1,New Delhi,3.6
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,2.4
+1,New Delhi,4.4
+1,New Delhi,2.8
+1,New Delhi,3.1
+1,New Delhi,3.4
+1,New Delhi,3.3
+1,New Delhi,3.4
+1,New Delhi,3.3
+1,New Delhi,3.4
+1,New Delhi,2.8
+1,New Delhi,3.4
+1,New Delhi,2.9
+1,New Delhi,3.4
+1,New Delhi,2.7
+1,New Delhi,3.2
+1,New Delhi,2.7
+1,New Delhi,3.3
+1,New Delhi,3.4
+1,New Delhi,3.4
+1,New Delhi,3.4
+1,New Delhi,3.4
+1,New Delhi,3.4
+1,New Delhi,3.4
+1,New Delhi,3.9
+1,New Delhi,3.7
+1,New Delhi,3.6
+1,New Delhi,3.5
+1,New Delhi,3.6
+1,New Delhi,3.8
+1,New Delhi,3.6
+1,New Delhi,3.8
+1,New Delhi,3.6
+1,New Delhi,3.8
+1,New Delhi,3.8
+1,New Delhi,3.7
+1,New Delhi,3.8
+1,New Delhi,3.5
+1,New Delhi,3.5
+1,New Delhi,3.8
+1,New Delhi,3.9
+1,New Delhi,3.7
+1,New Delhi,3.6
+1,New Delhi,3.8
+1,New Delhi,3.5
+1,New Delhi,4.1
+1,New Delhi,4
+1,New Delhi,4.2
+1,New Delhi,4.1
+1,New Delhi,4
+1,New Delhi,4
+1,New Delhi,2.7
+1,New Delhi,2.9
+1,New Delhi,3.2
+1,New Delhi,3
+1,New Delhi,3.3
+1,New Delhi,3.3
+1,New Delhi,2.7
+1,New Delhi,2.9
+1,New Delhi,2.7
+1,New Delhi,2.8
+1,New Delhi,2.8
+1,New Delhi,3
+1,New Delhi,3
+1,New Delhi,3.1
+1,New Delhi,3.3
+1,New Delhi,2.9
+1,New Delhi,3.4
+1,New Delhi,3.1
+1,New Delhi,2.9
+1,New Delhi,2.9
+1,New Delhi,2.9
+1,New Delhi,2.9
+1,New Delhi,2.7
+1,New Delhi,3.2
+1,New Delhi,2.8
+1,New Delhi,3
+1,New Delhi,2.8
+1,New Delhi,3.6
+1,New Delhi,3.5
+1,New Delhi,3.8
+1,New Delhi,3.9
+1,New Delhi,3.5
+1,New Delhi,3.6
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,4.2
+1,New Delhi,3.2
+1,New Delhi,3.4
+1,New Delhi,2.9
+1,New Delhi,3.1
+1,New Delhi,3.2
+1,New Delhi,3.9
+1,New Delhi,3.7
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,2.2
+1,New Delhi,3.3
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,3
+1,New Delhi,3.2
+1,New Delhi,3
+1,New Delhi,3.5
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,3.1
+1,New Delhi,2.6
+1,New Delhi,3.1
+1,New Delhi,2.6
+1,New Delhi,3.2
+1,New Delhi,3.3
+1,New Delhi,3.2
+1,New Delhi,3.4
+1,New Delhi,3.3
+1,New Delhi,2.7
+1,New Delhi,3.2
+1,New Delhi,2.6
+1,New Delhi,3.3
+1,New Delhi,2.8
+1,New Delhi,2.6
+1,New Delhi,2.6
+1,New Delhi,3.6
+1,New Delhi,3.9
+1,New Delhi,3.7
+1,New Delhi,3.8
+1,New Delhi,3.5
+1,New Delhi,3.9
+1,New Delhi,3.5
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,2.9
+1,New Delhi,2.8
+1,New Delhi,3.1
+1,New Delhi,3
+1,New Delhi,2.7
+1,New Delhi,3.4
+1,New Delhi,3.2
+1,New Delhi,2.8
+1,New Delhi,2.9
+1,New Delhi,2.9
+1,New Delhi,3.1
+1,New Delhi,2.8
+1,New Delhi,3.2
+1,New Delhi,3
+1,New Delhi,2.9
+1,New Delhi,2.9
+1,New Delhi,2.9
+1,New Delhi,2.9
+1,New Delhi,2.8
+1,New Delhi,3
+1,New Delhi,3
+1,New Delhi,3
+1,New Delhi,3
+1,New Delhi,3.2
+1,New Delhi,3
+1,New Delhi,3.1
+1,New Delhi,3.1
+1,New Delhi,2.9
+1,New Delhi,3
+1,New Delhi,2.8
+1,New Delhi,2.9
+1,New Delhi,3.2
+1,New Delhi,2.7
+1,New Delhi,3.2
+1,New Delhi,3
+1,New Delhi,3.3
+1,New Delhi,3.1
+1,New Delhi,2.8
+1,New Delhi,3.1
+1,New Delhi,3.2
+1,New Delhi,2.7
+1,New Delhi,2.9
+1,New Delhi,2.8
+1,New Delhi,3.1
+1,New Delhi,2.9
+1,New Delhi,2.7
+1,New Delhi,2.7
+1,New Delhi,3.4
+1,New Delhi,3
+1,New Delhi,3.2
+1,New Delhi,2.8
+1,New Delhi,3
+1,New Delhi,3
+1,New Delhi,2.9
+1,New Delhi,2.8
+1,New Delhi,2.7
+1,New Delhi,3.5
+1,New Delhi,3.5
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,2.2
+1,New Delhi,4.3
+1,New Delhi,2.9
+1,New Delhi,2.9
+1,New Delhi,3
+1,New Delhi,2.9
+1,New Delhi,2.9
+1,New Delhi,3
+1,New Delhi,2.7
+1,New Delhi,2.9
+1,New Delhi,2.8
+1,New Delhi,3
+1,New Delhi,3
+1,New Delhi,2.8
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,3.2
+1,New Delhi,3.2
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,3.3
+1,New Delhi,3.4
+1,New Delhi,3.1
+1,New Delhi,4.3
+1,New Delhi,3.3
+1,New Delhi,3.5
+1,New Delhi,3.6
+1,New Delhi,3.9
+1,New Delhi,3.8
+1,New Delhi,3.8
+1,New Delhi,3.8
+1,New Delhi,4.4
+1,New Delhi,4.4
+1,New Delhi,4.1
+1,New Delhi,2.9
+1,New Delhi,2.9
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,2.7
+1,New Delhi,2.9
+1,New Delhi,2.8
+1,New Delhi,3.1
+1,New Delhi,3.3
+1,New Delhi,3.3
+1,New Delhi,3.3
+1,New Delhi,3.3
+1,New Delhi,3.2
+1,New Delhi,2.9
+1,New Delhi,3.1
+1,New Delhi,3.2
+1,New Delhi,3.3
+1,New Delhi,3.4
+1,New Delhi,3.4
+1,New Delhi,3.2
+1,New Delhi,3.2
+1,New Delhi,3.4
+1,New Delhi,3.1
+1,New Delhi,2.9
+1,New Delhi,3.3
+1,New Delhi,3.3
+1,New Delhi,3.2
+1,New Delhi,3
+1,New Delhi,3.4
+1,New Delhi,3.4
+1,New Delhi,3.1
+1,New Delhi,2.7
+1,New Delhi,2.7
+1,New Delhi,3.3
+1,New Delhi,3.4
+1,New Delhi,3.2
+1,New Delhi,2.5
+1,New Delhi,2.6
+1,New Delhi,3.2
+1,New Delhi,3.4
+1,New Delhi,2.7
+1,New Delhi,3.2
+1,New Delhi,3.4
+1,New Delhi,2.8
+1,New Delhi,3.2
+1,New Delhi,3.6
+1,New Delhi,3.8
+1,New Delhi,3.5
+1,New Delhi,3.6
+1,New Delhi,3.5
+1,New Delhi,3.8
+1,New Delhi,3.6
+1,New Delhi,3.5
+1,New Delhi,3.5
+1,New Delhi,3.6
+1,New Delhi,3.6
+1,New Delhi,2.1
+1,New Delhi,2.2
+1,New Delhi,2.1
+1,New Delhi,2.3
+1,New Delhi,3.1
+1,New Delhi,2.8
+1,New Delhi,3
+1,New Delhi,2.8
+1,New Delhi,3.2
+1,New Delhi,3.4
+1,New Delhi,3.7
+1,New Delhi,3.5
+1,New Delhi,2.6
+1,New Delhi,3.4
+1,New Delhi,2.8
+1,New Delhi,3.1
+1,New Delhi,3
+1,New Delhi,3.2
+1,New Delhi,2.6
+1,New Delhi,2.8
+1,New Delhi,2.8
+1,New Delhi,3.2
+1,New Delhi,3.2
+1,New Delhi,3.2
+1,New Delhi,2.5
+1,New Delhi,3.2
+1,New Delhi,2.9
+1,New Delhi,3.3
+1,New Delhi,3.4
+1,New Delhi,3.2
+1,New Delhi,2.6
+1,New Delhi,3.3
+1,New Delhi,2.5
+1,New Delhi,3.1
+1,New Delhi,2.9
+1,New Delhi,3
+1,New Delhi,3.1
+1,New Delhi,2.8
+1,New Delhi,3.1
+1,New Delhi,3.1
+1,New Delhi,3.3
+1,New Delhi,2.8
+1,New Delhi,3.2
+1,New Delhi,3.2
+1,New Delhi,2.7
+1,New Delhi,2.7
+1,New Delhi,3.1
+1,New Delhi,3.3
+1,New Delhi,3.3
+1,New Delhi,2.6
+1,New Delhi,2.6
+1,New Delhi,2.9
+1,New Delhi,3.3
+1,New Delhi,2.7
+1,New Delhi,3.1
+1,New Delhi,3.1
+1,New Delhi,3.2
+1,New Delhi,3
+1,New Delhi,3.4
+1,New Delhi,3.3
+1,New Delhi,3.4
+1,New Delhi,3
+1,New Delhi,3.3
+1,New Delhi,3.3
+1,New Delhi,3
+1,New Delhi,3
+1,New Delhi,3.3
+1,New Delhi,3.1
+1,New Delhi,3.7
+1,New Delhi,3.9
+1,New Delhi,3.5
+1,New Delhi,3.6
+1,New Delhi,3.6
+1,New Delhi,3.6
+1,New Delhi,3.9
+1,New Delhi,3.9
+1,New Delhi,3.6
+1,New Delhi,3.7
+1,New Delhi,3.5
+1,New Delhi,3.7
+1,New Delhi,3.6
+1,New Delhi,3.9
+1,New Delhi,3.6
+1,New Delhi,3.5
+1,New Delhi,3.5
+1,New Delhi,3.6
+1,New Delhi,3.5
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,2.4
+1,New Delhi,2.4
+1,New Delhi,2.3
+1,New Delhi,3.3
+1,New Delhi,4.5
+1,New Delhi,3.2
+1,New Delhi,3.1
+1,New Delhi,3
+1,New Delhi,3.3
+1,New Delhi,3
+1,New Delhi,2.8
+1,New Delhi,3.2
+1,New Delhi,2.8
+1,New Delhi,3.2
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,2.9
+1,New Delhi,3.4
+1,New Delhi,3.4
+1,New Delhi,3.4
+1,New Delhi,3
+1,New Delhi,2.8
+1,New Delhi,3.2
+1,New Delhi,2.9
+1,New Delhi,3
+1,New Delhi,3.3
+1,New Delhi,2.7
+1,New Delhi,2.5
+1,New Delhi,3
+1,New Delhi,3.2
+1,New Delhi,3.1
+1,New Delhi,3.1
+1,New Delhi,3
+1,New Delhi,3.1
+1,New Delhi,3.1
+1,New Delhi,2.9
+1,New Delhi,3.2
+1,New Delhi,3.3
+1,New Delhi,3.4
+1,New Delhi,3.3
+1,New Delhi,3.1
+1,New Delhi,3.5
+1,New Delhi,3.5
+1,New Delhi,3.7
+1,New Delhi,3.6
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,2.4
+1,New Delhi,3
+1,New Delhi,3.1
+1,New Delhi,3.1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,3.3
+1,New Delhi,3.4
+1,New Delhi,3.3
+1,New Delhi,3.2
+1,New Delhi,3.2
+1,New Delhi,3.3
+1,New Delhi,2.6
+1,New Delhi,3.1
+1,New Delhi,3.2
+1,New Delhi,3.2
+1,New Delhi,3.1
+1,New Delhi,3.4
+1,New Delhi,3.2
+1,New Delhi,3.2
+1,New Delhi,3.2
+1,New Delhi,3.4
+1,New Delhi,3.3
+1,New Delhi,3.2
+1,New Delhi,2.7
+1,New Delhi,3.3
+1,New Delhi,3.4
+1,New Delhi,3.4
+1,New Delhi,2.7
+1,New Delhi,3.2
+1,New Delhi,2.5
+1,New Delhi,3
+1,New Delhi,3.1
+1,New Delhi,3.4
+1,New Delhi,3.4
+1,New Delhi,2.6
+1,New Delhi,3.3
+1,New Delhi,3.1
+1,New Delhi,3.4
+1,New Delhi,3.4
+1,New Delhi,3.4
+1,New Delhi,3.2
+1,New Delhi,3.2
+1,New Delhi,4.6
+1,New Delhi,3.6
+1,New Delhi,3.6
+1,New Delhi,3.5
+1,New Delhi,3.6
+1,New Delhi,3.9
+1,New Delhi,3.8
+1,New Delhi,3.8
+1,New Delhi,3.7
+1,New Delhi,3.5
+1,New Delhi,3.5
+1,New Delhi,3.9
+1,New Delhi,3.7
+1,New Delhi,3.5
+1,New Delhi,3.6
+1,New Delhi,3.6
+1,New Delhi,3.6
+1,New Delhi,3.6
+1,New Delhi,3.8
+1,New Delhi,3.6
+1,New Delhi,4
+1,New Delhi,4.1
+1,New Delhi,4
+1,New Delhi,3.2
+1,New Delhi,2.5
+1,New Delhi,3.1
+1,New Delhi,2.8
+1,New Delhi,3.2
+1,New Delhi,3.6
+1,New Delhi,3.7
+1,New Delhi,3.6
+1,New Delhi,3.8
+1,New Delhi,3.9
+1,New Delhi,2.4
+1,New Delhi,4.4
+1,New Delhi,4.4
+1,New Delhi,2.9
+1,New Delhi,2.9
+1,New Delhi,2.9
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,2.9
+1,New Delhi,2.5
+1,New Delhi,3.2
+1,New Delhi,3
+1,New Delhi,2.9
+1,New Delhi,2.9
+1,New Delhi,2.6
+1,New Delhi,3
+1,New Delhi,3.3
+1,New Delhi,3.1
+1,New Delhi,3.7
+1,New Delhi,3.7
+1,New Delhi,3.9
+1,New Delhi,3.6
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,2.4
+1,New Delhi,4.1
+1,New Delhi,2.9
+1,New Delhi,3.3
+1,New Delhi,4.5
+1,New Delhi,3.7
+1,New Delhi,3.6
+1,New Delhi,4.4
+1,New Delhi,4.2
+1,New Delhi,3.1
+1,New Delhi,3.3
+1,New Delhi,3.4
+1,New Delhi,3.2
+1,New Delhi,3.9
+1,New Delhi,3.8
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,3.4
+1,New Delhi,2.5
+1,New Delhi,3.4
+1,New Delhi,2.5
+1,New Delhi,3.3
+1,New Delhi,2.8
+1,New Delhi,2.6
+1,New Delhi,2.9
+1,New Delhi,2.6
+1,New Delhi,3
+1,New Delhi,2.7
+1,New Delhi,2.7
+1,New Delhi,2.9
+1,New Delhi,2.9
+1,New Delhi,3.4
+1,New Delhi,2.5
+1,New Delhi,3.1
+1,New Delhi,3
+1,New Delhi,3.4
+1,New Delhi,2.9
+1,New Delhi,2.8
+1,New Delhi,3.3
+1,New Delhi,3.2
+1,New Delhi,2.8
+1,New Delhi,2.5
+1,New Delhi,2.9
+1,New Delhi,3
+1,New Delhi,3.2
+1,New Delhi,3
+1,New Delhi,2.6
+1,New Delhi,2.7
+1,New Delhi,3
+1,New Delhi,2.6
+1,New Delhi,2.7
+1,New Delhi,2.8
+1,New Delhi,3.2
+1,New Delhi,2.9
+1,New Delhi,2.6
+1,New Delhi,3.1
+1,New Delhi,3.4
+1,New Delhi,3.2
+1,New Delhi,3
+1,New Delhi,2.6
+1,New Delhi,2.9
+1,New Delhi,2.8
+1,New Delhi,2.7
+1,New Delhi,3
+1,New Delhi,3
+1,New Delhi,3.1
+1,New Delhi,2.7
+1,New Delhi,2.6
+1,New Delhi,2.7
+1,New Delhi,2.7
+1,New Delhi,3.4
+1,New Delhi,3.2
+1,New Delhi,2.7
+1,New Delhi,2.5
+1,New Delhi,2.8
+1,New Delhi,3.4
+1,New Delhi,2.6
+1,New Delhi,2.9
+1,New Delhi,3.2
+1,New Delhi,3.1
+1,New Delhi,3.7
+1,New Delhi,3.6
+1,New Delhi,3.5
+1,New Delhi,3.6
+1,New Delhi,3.5
+1,New Delhi,3.6
+1,New Delhi,3.5
+1,New Delhi,3.5
+1,New Delhi,3.7
+1,New Delhi,3.5
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,2.4
+1,New Delhi,4.2
+1,New Delhi,4.2
+1,New Delhi,4.1
+1,New Delhi,4.2
+1,New Delhi,2.6
+1,New Delhi,2.8
+1,New Delhi,3.4
+1,New Delhi,3
+1,New Delhi,3.2
+1,New Delhi,3
+1,New Delhi,3.3
+1,New Delhi,3.2
+1,New Delhi,2.9
+1,New Delhi,3.2
+1,New Delhi,3.1
+1,New Delhi,3
+1,New Delhi,3.1
+1,New Delhi,3.4
+1,New Delhi,3
+1,New Delhi,3.4
+1,New Delhi,3.2
+1,New Delhi,3.1
+1,New Delhi,3.1
+1,New Delhi,3.2
+1,New Delhi,3.2
+1,New Delhi,3.3
+1,New Delhi,3.4
+1,New Delhi,3.4
+1,New Delhi,2.6
+1,New Delhi,3.2
+1,New Delhi,3.3
+1,New Delhi,3.3
+1,New Delhi,3
+1,New Delhi,3.4
+1,New Delhi,2.7
+1,New Delhi,2.6
+1,New Delhi,3.2
+1,New Delhi,3
+1,New Delhi,4.6
+1,New Delhi,4.8
+1,New Delhi,4.7
+1,New Delhi,4.5
+1,New Delhi,4.6
+1,New Delhi,3.9
+1,New Delhi,3.8
+1,New Delhi,3.7
+1,New Delhi,3.6
+1,New Delhi,3.8
+1,New Delhi,3.5
+1,New Delhi,3.9
+1,New Delhi,3.8
+1,New Delhi,3.8
+1,New Delhi,3.9
+1,New Delhi,3.7
+1,New Delhi,3.5
+1,New Delhi,3.7
+1,New Delhi,3.6
+1,New Delhi,3.9
+1,New Delhi,3.5
+1,New Delhi,3.7
+1,New Delhi,3.8
+1,New Delhi,3.8
+1,New Delhi,3.6
+1,New Delhi,3.9
+1,New Delhi,3.9
+1,New Delhi,3.8
+1,New Delhi,3.7
+1,New Delhi,3.8
+1,New Delhi,3.7
+1,New Delhi,3.8
+1,New Delhi,3.6
+1,New Delhi,3.6
+1,New Delhi,3.7
+1,New Delhi,3.8
+1,New Delhi,3.9
+1,New Delhi,3.8
+1,New Delhi,3.5
+1,New Delhi,3.6
+1,New Delhi,3.6
+1,New Delhi,3.8
+1,New Delhi,3.7
+1,New Delhi,3.7
+1,New Delhi,1
+1,New Delhi,2.2
+1,New Delhi,4.1
+1,New Delhi,4.2
+1,New Delhi,4
+1,New Delhi,4
+1,New Delhi,4.4
+1,New Delhi,4.4
+1,New Delhi,4.2
+1,New Delhi,4
+1,New Delhi,4.4
+1,New Delhi,4.3
+1,New Delhi,4.4
+1,New Delhi,4.1
+1,New Delhi,4
+1,New Delhi,4.1
+1,New Delhi,4
+1,New Delhi,4.1
+1,New Delhi,4.2
+1,New Delhi,4.1
+1,New Delhi,4
+1,New Delhi,3.3
+1,New Delhi,3
+1,New Delhi,2.7
+1,New Delhi,3.3
+1,New Delhi,3.4
+1,New Delhi,3.4
+1,New Delhi,3.2
+1,New Delhi,2.7
+1,New Delhi,3.1
+1,New Delhi,3.3
+1,New Delhi,3.3
+1,New Delhi,3.1
+1,New Delhi,3.4
+1,New Delhi,3.4
+1,New Delhi,3.3
+1,New Delhi,3
+1,New Delhi,3.3
+1,New Delhi,3.4
+1,New Delhi,3.2
+1,New Delhi,2.8
+1,New Delhi,3.3
+1,New Delhi,3.4
+1,New Delhi,2.6
+1,New Delhi,3.3
+1,New Delhi,3.1
+1,New Delhi,3.6
+1,New Delhi,3.5
+1,New Delhi,3.5
+1,New Delhi,3.5
+1,New Delhi,3.6
+1,New Delhi,3.5
+1,New Delhi,3.5
+1,New Delhi,3.8
+1,New Delhi,3.5
+1,New Delhi,3.5
+1,New Delhi,3.5
+1,New Delhi,3.8
+1,New Delhi,3.6
+1,New Delhi,3.8
+1,New Delhi,3.9
+1,New Delhi,3.5
+1,New Delhi,3.9
+1,New Delhi,3.5
+1,New Delhi,3.5
+1,New Delhi,2.3
+1,New Delhi,2.4
+1,New Delhi,4.2
+1,New Delhi,4.2
+1,New Delhi,2.9
+1,New Delhi,3.6
+1,New Delhi,1
+1,New Delhi,3.1
+1,New Delhi,3.2
+1,New Delhi,3
+1,New Delhi,2.6
+1,New Delhi,3
+1,New Delhi,3.3
+1,New Delhi,3.3
+1,New Delhi,3.4
+1,New Delhi,2.8
+1,New Delhi,2.5
+1,New Delhi,2.8
+1,New Delhi,3
+1,New Delhi,3
+1,New Delhi,2.9
+1,New Delhi,3.4
+1,New Delhi,3.1
+1,New Delhi,3.3
+1,New Delhi,2.6
+1,New Delhi,2.8
+1,New Delhi,3.3
+1,New Delhi,2.6
+1,New Delhi,2.9
+1,New Delhi,3.3
+1,New Delhi,3.1
+1,New Delhi,2.8
+1,New Delhi,3.1
+1,New Delhi,3.2
+1,New Delhi,2.7
+1,New Delhi,2.7
+1,New Delhi,3.3
+1,New Delhi,3.1
+1,New Delhi,3.4
+1,New Delhi,2.8
+1,New Delhi,3
+1,New Delhi,2.7
+1,New Delhi,2.7
+1,New Delhi,3
+1,New Delhi,2.8
+1,New Delhi,3.3
+1,New Delhi,2.9
+1,New Delhi,3.4
+1,New Delhi,3
+1,New Delhi,3.1
+1,New Delhi,3
+1,New Delhi,3.4
+1,New Delhi,3.3
+1,New Delhi,3.6
+1,New Delhi,3.7
+1,New Delhi,3.5
+1,New Delhi,3.5
+1,New Delhi,3.6
+1,New Delhi,3.7
+1,New Delhi,3.5
+1,New Delhi,3.8
+1,New Delhi,3.9
+1,New Delhi,3.9
+1,New Delhi,3.7
+1,New Delhi,3.7
+1,New Delhi,3.6
+1,New Delhi,3.6
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,2.4
+1,New Delhi,2.3
+1,New Delhi,4.2
+1,New Delhi,4.3
+1,New Delhi,4
+1,New Delhi,4
+1,New Delhi,4.3
+1,New Delhi,4.2
+1,New Delhi,4.1
+1,New Delhi,2.7
+1,New Delhi,2.8
+1,New Delhi,2.7
+1,New Delhi,2.7
+1,New Delhi,2.8
+1,New Delhi,2.7
+1,New Delhi,2.7
+1,New Delhi,3.1
+1,New Delhi,2.9
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,2.4
+1,New Delhi,3
+1,New Delhi,3.3
+1,New Delhi,3
+1,New Delhi,2.8
+1,New Delhi,3.4
+1,New Delhi,3.3
+1,New Delhi,2.8
+1,New Delhi,3
+1,New Delhi,2.7
+1,New Delhi,3
+1,New Delhi,3.2
+1,New Delhi,2.5
+1,New Delhi,3.1
+1,New Delhi,3.2
+1,New Delhi,3
+1,New Delhi,2.9
+1,New Delhi,3.4
+1,New Delhi,3.2
+1,New Delhi,2.7
+1,New Delhi,3.9
+1,New Delhi,3.7
+1,New Delhi,3.7
+1,New Delhi,3.6
+1,New Delhi,3.8
+1,New Delhi,3.7
+1,New Delhi,3.6
+1,New Delhi,3.8
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,2.1
+1,New Delhi,2.1
+1,New Delhi,4.4
+1,New Delhi,4.2
+1,New Delhi,4.1
+1,New Delhi,3.3
+1,New Delhi,3.8
+1,New Delhi,3.7
+1,New Delhi,4
+1,New Delhi,4.1
+1,New Delhi,4.1
+1,New Delhi,4.1
+1,New Delhi,2.9
+1,New Delhi,3
+1,New Delhi,3
+1,New Delhi,2.6
+1,New Delhi,3.3
+1,New Delhi,2.8
+1,New Delhi,3.1
+1,New Delhi,3.2
+1,New Delhi,3
+1,New Delhi,3
+1,New Delhi,3.2
+1,New Delhi,3.5
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,2.4
+1,New Delhi,3.2
+1,New Delhi,3.2
+1,New Delhi,2.7
+1,New Delhi,3.3
+1,New Delhi,3.7
+1,New Delhi,3.8
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,2.6
+1,New Delhi,3.2
+1,New Delhi,3.4
+1,New Delhi,3.2
+1,New Delhi,2.7
+1,New Delhi,3.2
+1,New Delhi,3.3
+1,New Delhi,3.1
+1,New Delhi,2.6
+1,New Delhi,3.2
+1,New Delhi,3.4
+1,New Delhi,3.3
+1,New Delhi,3
+1,New Delhi,3.2
+1,New Delhi,3.3
+1,New Delhi,3.1
+1,New Delhi,3.3
+1,New Delhi,3.3
+1,New Delhi,2.9
+1,New Delhi,3
+1,New Delhi,3.2
+1,New Delhi,3.4
+1,New Delhi,2.5
+1,New Delhi,3
+1,New Delhi,3
+1,New Delhi,2.6
+1,New Delhi,3.1
+1,New Delhi,3
+1,New Delhi,3.4
+1,New Delhi,4.7
+1,New Delhi,3.7
+1,New Delhi,3.9
+1,New Delhi,3.5
+1,New Delhi,3.7
+1,New Delhi,3.5
+1,New Delhi,3.6
+1,New Delhi,3.8
+1,New Delhi,3.5
+1,New Delhi,3.8
+1,New Delhi,3.6
+1,New Delhi,3.9
+1,New Delhi,3.9
+1,New Delhi,3.6
+1,New Delhi,3.9
+1,New Delhi,3.9
+1,New Delhi,3.5
+1,New Delhi,3.7
+1,New Delhi,3.5
+1,New Delhi,3.9
+1,New Delhi,3.6
+1,New Delhi,3.9
+1,New Delhi,3.6
+1,New Delhi,3.7
+1,New Delhi,3.6
+1,New Delhi,3.7
+1,New Delhi,3.9
+1,New Delhi,3.9
+1,New Delhi,3.7
+1,New Delhi,3.6
+1,New Delhi,3.9
+1,New Delhi,3.6
+1,New Delhi,3.7
+1,New Delhi,1
+1,New Delhi,2.3
+1,New Delhi,2.2
+1,New Delhi,4.2
+1,New Delhi,4.1
+1,New Delhi,4.4
+1,New Delhi,4
+1,New Delhi,4.1
+1,New Delhi,4
+1,New Delhi,4
+1,New Delhi,4
+1,New Delhi,4.2
+1,New Delhi,4.2
+1,New Delhi,4
+1,New Delhi,4.2
+1,New Delhi,4.1
+1,New Delhi,4.1
+1,New Delhi,2.9
+1,New Delhi,3.1
+1,New Delhi,3.1
+1,New Delhi,3.4
+1,New Delhi,3.2
+1,New Delhi,2.6
+1,New Delhi,3.4
+1,New Delhi,2.9
+1,New Delhi,2.5
+1,New Delhi,3.6
+1,New Delhi,3.6
+1,New Delhi,3.7
+1,New Delhi,3.9
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,3.1
+1,New Delhi,3.4
+1,New Delhi,3.4
+1,New Delhi,3.4
+1,New Delhi,3.4
+1,New Delhi,4.7
+1,New Delhi,3.6
+1,New Delhi,3.9
+1,New Delhi,3.8
+1,New Delhi,3.6
+1,New Delhi,3.5
+1,New Delhi,3.9
+1,New Delhi,3.8
+1,New Delhi,3.7
+1,New Delhi,3.9
+1,New Delhi,3.9
+1,New Delhi,3.7
+1,New Delhi,3.6
+1,New Delhi,2.2
+1,New Delhi,4.3
+1,New Delhi,4.2
+1,New Delhi,4
+1,New Delhi,4
+1,New Delhi,4
+1,New Delhi,4
+1,New Delhi,4.2
+1,New Delhi,2.8
+1,New Delhi,3.1
+1,New Delhi,2.9
+1,New Delhi,2.9
+1,New Delhi,2.7
+1,New Delhi,3.1
+1,New Delhi,3
+1,New Delhi,2.8
+1,New Delhi,2.9
+1,New Delhi,3
+1,New Delhi,2.9
+1,New Delhi,3
+1,New Delhi,3.3
+1,New Delhi,2.8
+1,New Delhi,2.9
+1,New Delhi,3.1
+1,New Delhi,3
+1,New Delhi,3.2
+1,New Delhi,3.3
+1,New Delhi,3.3
+1,New Delhi,3.3
+1,New Delhi,3.3
+1,New Delhi,3.4
+1,New Delhi,3
+1,New Delhi,2.7
+1,New Delhi,2.8
+1,New Delhi,2.8
+1,New Delhi,3.1
+1,New Delhi,2.8
+1,New Delhi,2.7
+1,New Delhi,3
+1,New Delhi,2.8
+1,New Delhi,2.9
+1,New Delhi,3.1
+1,New Delhi,3.2
+1,New Delhi,3
+1,New Delhi,2.9
+1,New Delhi,2.7
+1,New Delhi,2.9
+1,New Delhi,3.1
+1,New Delhi,3.5
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,3.4
+1,New Delhi,2.6
+1,New Delhi,3.4
+1,New Delhi,3.2
+1,New Delhi,3.4
+1,New Delhi,4.6
+1,New Delhi,3.8
+1,New Delhi,3.6
+1,New Delhi,3.5
+1,New Delhi,3.8
+1,New Delhi,3.6
+1,New Delhi,3.5
+1,New Delhi,3.6
+1,New Delhi,3.5
+1,New Delhi,3.7
+1,New Delhi,3.8
+1,New Delhi,2.3
+1,New Delhi,4.2
+1,New Delhi,4
+1,New Delhi,4
+1,New Delhi,4
+1,New Delhi,4.4
+1,New Delhi,4
+1,New Delhi,4.2
+1,New Delhi,4.4
+1,New Delhi,4.1
+1,New Delhi,3.3
+1,New Delhi,2.8
+1,New Delhi,2.9
+1,New Delhi,2.6
+1,New Delhi,3
+1,New Delhi,3.1
+1,New Delhi,2.9
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,3.1
+1,New Delhi,2.7
+1,New Delhi,3.4
+1,New Delhi,3
+1,New Delhi,2.9
+1,New Delhi,3.4
+1,New Delhi,3
+1,New Delhi,3.2
+1,New Delhi,3.2
+1,New Delhi,3.1
+1,New Delhi,3
+1,New Delhi,3.2
+1,New Delhi,3
+1,New Delhi,3
+1,New Delhi,3.1
+1,New Delhi,3.3
+1,New Delhi,3.4
+1,New Delhi,3.1
+1,New Delhi,3
+1,New Delhi,2.7
+1,New Delhi,3.1
+1,New Delhi,3.2
+1,New Delhi,3.4
+1,New Delhi,2.9
+1,New Delhi,3.2
+1,New Delhi,3.1
+1,New Delhi,2.9
+1,New Delhi,2.8
+1,New Delhi,3.1
+1,New Delhi,3
+1,New Delhi,3.1
+1,New Delhi,3.1
+1,New Delhi,3.3
+1,New Delhi,2.8
+1,New Delhi,3.1
+1,New Delhi,2.6
+1,New Delhi,3.3
+1,New Delhi,2.6
+1,New Delhi,3.5
+1,New Delhi,3.5
+1,New Delhi,3.5
+1,New Delhi,3.5
+1,New Delhi,3.7
+1,New Delhi,3.8
+1,New Delhi,3.5
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,4
+1,New Delhi,3.4
+1,New Delhi,3.7
+1,New Delhi,3.9
+1,New Delhi,4.1
+1,New Delhi,4.3
+1,New Delhi,3.4
+1,New Delhi,2.8
+1,New Delhi,1
+1,New Delhi,3.1
+1,New Delhi,4
+1,New Delhi,4
+1,New Delhi,4.2
+1,New Delhi,2.5
+1,New Delhi,3.4
+1,New Delhi,3.3
+1,New Delhi,3.3
+1,New Delhi,2.6
+1,New Delhi,3.4
+1,New Delhi,3.9
+1,New Delhi,3.5
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,2.3
+1,New Delhi,2.9
+1,New Delhi,2.9
+1,New Delhi,3.4
+1,New Delhi,3.2
+1,New Delhi,2.9
+1,New Delhi,3.1
+1,New Delhi,3.1
+1,New Delhi,2.9
+1,New Delhi,3.4
+1,New Delhi,3.1
+1,New Delhi,3
+1,New Delhi,3.2
+1,New Delhi,2.8
+1,New Delhi,2.8
+1,New Delhi,2.7
+1,New Delhi,2.8
+1,New Delhi,3.1
+1,New Delhi,3.2
+1,New Delhi,3.2
+1,New Delhi,3.8
+1,New Delhi,3.8
+1,New Delhi,3.6
+1,New Delhi,3.6
+1,New Delhi,3.8
+1,New Delhi,3.5
+1,New Delhi,3.7
+1,New Delhi,3.5
+1,New Delhi,3.5
+1,New Delhi,3.6
+1,New Delhi,3.6
+1,New Delhi,3.6
+1,New Delhi,3.8
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,4
+1,New Delhi,4.1
+1,New Delhi,3.3
+1,New Delhi,3.6
+1,New Delhi,2.6
+1,New Delhi,2.9
+1,New Delhi,3.8
+1,New Delhi,3.7
+1,New Delhi,3.6
+1,New Delhi,3.2
+1,New Delhi,2.7
+1,New Delhi,2.5
+1,New Delhi,3.2
+1,New Delhi,3.3
+1,New Delhi,2.7
+1,New Delhi,3.3
+1,New Delhi,3
+1,New Delhi,2.8
+1,New Delhi,3.1
+1,New Delhi,3
+1,New Delhi,3.2
+1,New Delhi,3.2
+1,New Delhi,3.3
+1,New Delhi,3
+1,New Delhi,3.3
+1,New Delhi,3.1
+1,New Delhi,2.9
+1,New Delhi,2.8
+1,New Delhi,3
+1,New Delhi,3.3
+1,New Delhi,3.1
+1,New Delhi,2.9
+1,New Delhi,3.1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,2.4
+1,New Delhi,3.3
+1,New Delhi,3.6
+1,New Delhi,3.7
+1,New Delhi,3.6
+1,New Delhi,1
+1,New Delhi,4
+1,New Delhi,4
+1,New Delhi,3.2
+1,New Delhi,3.2
+1,New Delhi,2.9
+1,New Delhi,3
+1,New Delhi,3.2
+1,New Delhi,3
+1,New Delhi,2.9
+1,New Delhi,2.9
+1,New Delhi,3.3
+1,New Delhi,3.4
+1,New Delhi,3
+1,New Delhi,3
+1,New Delhi,3.4
+1,New Delhi,3
+1,New Delhi,3.1
+1,New Delhi,3.5
+1,New Delhi,3.5
+1,New Delhi,3.5
+1,New Delhi,3.5
+1,New Delhi,3.8
+1,New Delhi,3.5
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,4.3
+1,New Delhi,3.3
+1,New Delhi,3.7
+1,New Delhi,3.9
+1,New Delhi,3.3
+1,New Delhi,3.6
+1,New Delhi,3.6
+1,New Delhi,3.1
+1,New Delhi,3.2
+1,New Delhi,3.2
+1,New Delhi,3.7
+1,New Delhi,3.6
+1,New Delhi,4.4
+1,New Delhi,3.1
+1,New Delhi,3.5
+1,New Delhi,3.9
+1,New Delhi,3.8
+1,New Delhi,3.7
+1,New Delhi,3.7
+1,New Delhi,4.3
+1,New Delhi,3.3
+1,New Delhi,3.6
+1,New Delhi,3.2
+1,New Delhi,3.2
+1,New Delhi,3.3
+1,New Delhi,3.9
+1,New Delhi,3.7
+1,New Delhi,3.8
+1,New Delhi,3.7
+1,New Delhi,3.6
+1,New Delhi,4
+1,New Delhi,3
+1,New Delhi,3.3
+1,New Delhi,3.4
+1,New Delhi,2.9
+1,New Delhi,2.8
+1,New Delhi,3.5
+1,New Delhi,1
+1,New Delhi,1.9
+1,New Delhi,3.3
+1,New Delhi,3.2
+1,New Delhi,3.4
+1,New Delhi,3.5
+1,New Delhi,3.7
+1,New Delhi,3.9
+1,New Delhi,3.7
+1,New Delhi,3.6
+1,New Delhi,3.9
+1,New Delhi,3.6
+1,New Delhi,3.6
+1,New Delhi,4
+1,New Delhi,3.9
+1,New Delhi,3.8
+1,New Delhi,3.9
+1,New Delhi,3.7
+1,New Delhi,3.6
+1,New Delhi,2.9
+1,New Delhi,3.8
+1,New Delhi,3.3
+1,New Delhi,3.3
+1,New Delhi,3.8
+1,New Delhi,3.1
+1,New Delhi,3.3
+1,New Delhi,3.6
+1,New Delhi,3.7
+1,New Delhi,3.1
+1,New Delhi,3.8
+1,New Delhi,3.9
+1,New Delhi,3.6
+1,New Delhi,3.9
+1,New Delhi,4
+1,New Delhi,4.2
+1,New Delhi,3.7
+1,New Delhi,3.5
+1,New Delhi,4
+1,New Delhi,4
+1,New Delhi,3.2
+1,New Delhi,3
+1,New Delhi,3
+1,New Delhi,3.6
+1,New Delhi,3.8
+1,New Delhi,4.1
+1,New Delhi,1
+1,New Delhi,2.9
+1,New Delhi,2.7
+1,New Delhi,2.9
+1,New Delhi,3.1
+1,New Delhi,3.1
+1,New Delhi,2.9
+1,New Delhi,3
+1,New Delhi,3.1
+1,New Delhi,2.9
+1,New Delhi,3
+1,New Delhi,2.9
+1,New Delhi,3
+1,New Delhi,3.2
+1,New Delhi,3.3
+1,New Delhi,3
+1,New Delhi,2.6
+1,New Delhi,3
+1,New Delhi,2.9
+1,New Delhi,3.4
+1,New Delhi,3
+1,New Delhi,3.1
+1,New Delhi,3.2
+1,New Delhi,3.2
+1,New Delhi,2.9
+1,New Delhi,3
+1,New Delhi,3.5
+1,New Delhi,3.5
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,3.7
+1,New Delhi,3.4
+1,New Delhi,3.6
+1,New Delhi,4.2
+1,New Delhi,2.9
+1,New Delhi,3.6
+1,New Delhi,3.7
+1,New Delhi,3.8
+1,New Delhi,2.3
+1,New Delhi,3.1
+1,New Delhi,2.8
+1,New Delhi,2.9
+1,New Delhi,2.9
+1,New Delhi,3
+1,New Delhi,2.8
+1,New Delhi,2.7
+1,New Delhi,2.9
+1,New Delhi,2.7
+1,New Delhi,2.5
+1,New Delhi,3.1
+1,New Delhi,3
+1,New Delhi,3.1
+1,New Delhi,3.3
+1,New Delhi,3.1
+1,New Delhi,3
+1,New Delhi,3.1
+1,New Delhi,3
+1,New Delhi,3.1
+1,New Delhi,3.2
+1,New Delhi,2.7
+1,New Delhi,3
+1,New Delhi,2.8
+1,New Delhi,3
+1,New Delhi,2.8
+1,New Delhi,2.8
+1,New Delhi,2.9
+1,New Delhi,3
+1,New Delhi,2.8
+1,New Delhi,2.8
+1,New Delhi,3
+1,New Delhi,2.7
+1,New Delhi,2.9
+1,New Delhi,2.8
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,2.4
+1,New Delhi,2.6
+1,New Delhi,2.6
+1,New Delhi,2.7
+1,New Delhi,3.4
+1,New Delhi,2.9
+1,New Delhi,3.3
+1,New Delhi,3.4
+1,New Delhi,2.8
+1,New Delhi,3.4
+1,New Delhi,3
+1,New Delhi,2.8
+1,New Delhi,2.6
+1,New Delhi,2.5
+1,New Delhi,2.5
+1,New Delhi,2.7
+1,New Delhi,2.9
+1,New Delhi,2.5
+1,New Delhi,3.6
+1,New Delhi,3.9
+1,New Delhi,3.5
+1,New Delhi,2.3
+1,New Delhi,2.4
+1,New Delhi,2.2
+1,New Delhi,2.4
+1,New Delhi,2.4
+1,New Delhi,2
+1,New Delhi,3.4
+1,New Delhi,3
+1,New Delhi,2.8
+1,New Delhi,3.3
+1,New Delhi,3.7
+1,New Delhi,3.8
+1,New Delhi,3.8
+1,New Delhi,3.9
+1,New Delhi,3.8
+1,New Delhi,3.8
+1,New Delhi,3.8
+1,New Delhi,3.7
+1,New Delhi,3.5
+1,New Delhi,3.5
+1,New Delhi,3.9
+1,New Delhi,3.6
+1,New Delhi,3.8
+1,New Delhi,3.8
+1,New Delhi,3.7
+1,New Delhi,1
+1,New Delhi,4.2
+1,New Delhi,4.1
+1,New Delhi,4.2
+1,New Delhi,2.9
+1,New Delhi,2.8
+1,New Delhi,3.3
+1,New Delhi,3.3
+1,New Delhi,2.5
+1,New Delhi,3.9
+1,New Delhi,3.9
+1,New Delhi,3.6
+1,New Delhi,3.7
+1,New Delhi,3.2
+1,New Delhi,3.3
+1,New Delhi,3.3
+1,New Delhi,3.1
+1,New Delhi,3.4
+1,New Delhi,2.9
+1,New Delhi,3.1
+1,New Delhi,2.8
+1,New Delhi,3.3
+1,New Delhi,2.7
+1,New Delhi,3.1
+1,New Delhi,3.1
+1,New Delhi,3.2
+1,New Delhi,3.3
+1,New Delhi,2.8
+1,New Delhi,3.3
+1,New Delhi,3.1
+1,New Delhi,3.3
+1,New Delhi,3.5
+1,New Delhi,3.6
+1,New Delhi,3.6
+1,New Delhi,3.5
+1,New Delhi,3.7
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,4.3
+1,New Delhi,2.8
+1,New Delhi,2.9
+1,New Delhi,3
+1,New Delhi,2.8
+1,New Delhi,3.2
+1,New Delhi,3.1
+1,New Delhi,2.6
+1,New Delhi,3.3
+1,New Delhi,3
+1,New Delhi,3.4
+1,New Delhi,3.3
+1,New Delhi,2.9
+1,New Delhi,2.9
+1,New Delhi,2.9
+1,New Delhi,3.1
+1,New Delhi,3
+1,New Delhi,3.7
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,3.3
+1,New Delhi,3.1
+1,New Delhi,3.4
+1,New Delhi,3.1
+1,New Delhi,3
+1,New Delhi,3.4
+1,New Delhi,3.3
+1,New Delhi,3.3
+1,New Delhi,2.9
+1,New Delhi,3.1
+1,New Delhi,3.3
+1,New Delhi,3.4
+1,New Delhi,4.6
+1,New Delhi,3.8
+1,New Delhi,3.8
+1,New Delhi,3.5
+1,New Delhi,3.5
+1,New Delhi,3.6
+1,New Delhi,3.6
+1,New Delhi,3.7
+1,New Delhi,3.5
+1,New Delhi,3.9
+1,New Delhi,3.5
+1,New Delhi,3.5
+1,New Delhi,3.6
+1,New Delhi,4.1
+1,New Delhi,4.3
+1,New Delhi,4.2
+1,New Delhi,4.1
+1,New Delhi,4.4
+1,New Delhi,4
+1,New Delhi,3.4
+1,New Delhi,1
+1,New Delhi,3.3
+1,New Delhi,3.3
+1,New Delhi,3.4
+1,New Delhi,2.8
+1,New Delhi,3
+1,New Delhi,3
+1,New Delhi,2.7
+1,New Delhi,2.6
+1,New Delhi,3.3
+1,New Delhi,2.9
+1,New Delhi,3
+1,New Delhi,3.2
+1,New Delhi,3.3
+1,New Delhi,3.2
+1,New Delhi,2.6
+1,New Delhi,3.1
+1,New Delhi,3
+1,New Delhi,3.3
+1,New Delhi,3.1
+1,New Delhi,3.3
+1,New Delhi,3.2
+1,New Delhi,3.4
+1,New Delhi,2.6
+1,New Delhi,3.1
+1,New Delhi,3.3
+1,New Delhi,3
+1,New Delhi,2.8
+1,New Delhi,3.1
+1,New Delhi,2.8
+1,New Delhi,3.1
+1,New Delhi,3.1
+1,New Delhi,2.7
+1,New Delhi,3.3
+1,New Delhi,3.1
+1,New Delhi,2.8
+1,New Delhi,3.2
+1,New Delhi,3.2
+1,New Delhi,3.1
+1,New Delhi,3.4
+1,New Delhi,2.8
+1,New Delhi,3
+1,New Delhi,3
+1,New Delhi,3.3
+1,New Delhi,3.4
+1,New Delhi,2.6
+1,New Delhi,2.6
+1,New Delhi,3.2
+1,New Delhi,3.4
+1,New Delhi,3.4
+1,New Delhi,3.2
+1,New Delhi,3.2
+1,New Delhi,3.1
+1,New Delhi,2.6
+1,New Delhi,3.5
+1,New Delhi,3.5
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,2.3
+1,New Delhi,2.8
+1,New Delhi,2.9
+1,New Delhi,3.4
+1,New Delhi,3.3
+1,New Delhi,3.1
+1,New Delhi,3.2
+1,New Delhi,3
+1,New Delhi,3.3
+1,New Delhi,2.6
+1,New Delhi,3.1
+1,New Delhi,2.5
+1,New Delhi,3.3
+1,New Delhi,3.2
+1,New Delhi,2.9
+1,New Delhi,3.5
+1,New Delhi,3.8
+1,New Delhi,3.6
+1,New Delhi,3.6
+1,New Delhi,3.6
+1,New Delhi,3.6
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,2.4
+1,New Delhi,2.2
+1,New Delhi,2.4
+1,New Delhi,2.6
+1,New Delhi,3.4
+1,New Delhi,3
+1,New Delhi,3.2
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,3.4
+1,New Delhi,2.1
+1,New Delhi,3.5
+1,New Delhi,3.4
+1,New Delhi,3.5
+1,New Delhi,3.7
+1,New Delhi,4.1
+1,New Delhi,3.1
+1,New Delhi,3.2
+1,New Delhi,3.1
+1,New Delhi,3.1
+1,New Delhi,3.6
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,2.7
+1,New Delhi,3.3
+1,New Delhi,3.1
+1,New Delhi,3.3
+1,New Delhi,3.1
+1,New Delhi,2.7
+1,New Delhi,2.7
+1,New Delhi,2.9
+1,New Delhi,3.2
+1,New Delhi,3
+1,New Delhi,2.7
+1,New Delhi,3.2
+1,New Delhi,2.7
+1,New Delhi,3
+1,New Delhi,3.9
+1,New Delhi,3.7
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,New Delhi,1
+1,Noida,3.1
+1,Noida,3.4
+1,Noida,2.9
+1,Noida,3.2
+1,Noida,1
+1,Noida,3.1
+1,Noida,3.5
+1,Noida,3.7
+1,Noida,3.8
+1,Noida,3
+1,Noida,3.5
+1,Noida,3.5
+1,Noida,2.4
+1,Noida,3.4
+1,Noida,3.4
+1,Noida,2.7
+1,Noida,4.5
+1,Noida,4.5
+1,Noida,3.5
+1,Noida,3.9
+1,Noida,3.8
+1,Noida,3.9
+1,Noida,3.9
+1,Noida,3.7
+1,Noida,3.7
+1,Noida,3.7
+1,Noida,3.8
+1,Noida,3.9
+1,Noida,3.9
+1,Noida,3.9
+1,Noida,3.9
+1,Noida,3.6
+1,Noida,3.7
+1,Noida,3.5
+1,Noida,3.7
+1,Noida,3.8
+1,Noida,4.1
+1,Noida,4.1
+1,Noida,4.1
+1,Noida,4.3
+1,Noida,4
+1,Noida,4
+1,Noida,4
+1,Noida,4.2
+1,Noida,3.4
+1,Noida,3.2
+1,Noida,3.4
+1,Noida,3.1
+1,Noida,2.6
+1,Noida,2.5
+1,Noida,3.3
+1,Noida,3.9
+1,Noida,3.7
+1,Noida,1
+1,Noida,3.4
+1,Noida,3.6
+1,Noida,3.7
+1,Noida,3.8
+1,Noida,3.8
+1,Noida,1
+1,Noida,1
+1,Noida,1
+1,Noida,1
+1,Noida,1
+1,Noida,1
+1,Noida,1
+1,Noida,4.1
+1,Noida,4
+1,Noida,1
+1,Noida,3.3
+1,Noida,2.5
+1,Noida,2.6
+1,Noida,2.5
+1,Noida,2.8
+1,Noida,3.2
+1,Noida,3.1
+1,Noida,3.2
+1,Noida,3.1
+1,Noida,2.8
+1,Noida,2.8
+1,Noida,3
+1,Noida,2.8
+1,Noida,2.8
+1,Noida,2.6
+1,Noida,2.9
+1,Noida,3.1
+1,Noida,2.7
+1,Noida,2.9
+1,Noida,2.5
+1,Noida,2.8
+1,Noida,3.5
+1,Noida,3.8
+1,Noida,3.5
+1,Noida,1
+1,Noida,1
+1,Noida,1
+1,Noida,1
+1,Noida,1
+1,Noida,1
+1,Noida,1
+1,Noida,1
+1,Noida,1
+1,Noida,1
+1,Noida,1
+1,Noida,1
+1,Noida,1
+1,Noida,1
+1,Noida,2.9
+1,Noida,2.7
+1,Noida,3.1
+1,Noida,3
+1,Noida,1
+1,Noida,1
+1,Noida,2.6
+1,Noida,2.8
+1,Noida,3.2
+1,Noida,2.6
+1,Noida,3.4
+1,Noida,3.1
+1,Noida,2.7
+1,Noida,3.6
+1,Noida,3.5
+1,Noida,3.9
+1,Noida,3.6
+1,Noida,3.6
+1,Noida,1
+1,Noida,3.4
+1,Noida,3.2
+1,Noida,2.9
+1,Noida,3.5
+1,Noida,3.3
+1,Noida,1
+1,Noida,3.3
+1,Noida,3
+1,Noida,3.1
+1,Noida,3.4
+1,Noida,3.2
+1,Noida,2.9
+1,Noida,2.5
+1,Noida,3.2
+1,Noida,3
+1,Noida,2.6
+1,Noida,2.6
+1,Noida,2.8
+1,Noida,2.8
+1,Noida,3.5
+1,Noida,3.8
+1,Noida,3.5
+1,Noida,3.6
+1,Noida,1
+1,Noida,1
+1,Noida,1
+1,Noida,1
+1,Noida,1
+1,Noida,1
+1,Noida,1
+1,Noida,1
+1,Noida,1
+1,Noida,1
+1,Noida,1
+1,Noida,2.3
+1,Noida,2.3
+1,Noida,1
+1,Noida,1
+1,Noida,3.2
+1,Noida,3.3
+1,Noida,2.9
+1,Noida,2.7
+1,Noida,3.1
+1,Noida,3.2
+1,Noida,2.8
+1,Noida,3.5
+1,Noida,1
+1,Noida,1
+1,Noida,3.4
+1,Noida,3.2
+1,Noida,4.1
+1,Noida,3.5
+1,Noida,1
+1,Noida,1
+1,Noida,2.9
+1,Noida,2.9
+1,Noida,1
+1,Noida,1
+1,Noida,1
+1,Noida,1
+1,Noida,4
+1,Noida,2.7
+1,Noida,3.3
+1,Noida,2.6
+1,Noida,3.4
+1,Noida,3.7
+1,Noida,1
+1,Noida,1
+1,Noida,1
+1,Noida,3.2
+1,Noida,3.4
+1,Noida,3.1
+1,Noida,2.6
+1,Noida,2.5
+1,Noida,2.9
+1,Noida,2.9
+1,Noida,2.8
+1,Noida,2.6
+1,Noida,2.9
+1,Noida,3.3
+1,Noida,2.5
+1,Noida,2.6
+1,Noida,2.7
+1,Noida,2.6
+1,Noida,2.6
+1,Noida,3.2
+1,Noida,3.3
+1,Noida,2.7
+1,Noida,3.4
+1,Noida,3.1
+1,Noida,3.2
+1,Noida,3.5
+1,Noida,3.8
+1,Noida,3.7
+1,Noida,3.6
+1,Noida,3.6
+1,Noida,3.6
+1,Noida,3.6
+1,Noida,3.5
+1,Noida,1
+1,Noida,1
+1,Noida,1
+1,Noida,1
+1,Noida,1
+1,Noida,1
+1,Noida,1
+1,Noida,1
+1,Noida,1
+1,Noida,1
+1,Noida,1
+1,Noida,1
+1,Noida,1
+1,Noida,1
+1,Noida,1
+1,Noida,1
+1,Noida,1
+1,Noida,2.1
+1,Noida,2.4
+1,Noida,2.3
+1,Noida,2.4
+1,Noida,2.4
+1,Noida,4
+1,Noida,3
+1,Noida,3
+1,Noida,2.8
+1,Noida,3
+1,Noida,2.6
+1,Noida,3
+1,Noida,2.7
+1,Noida,3.1
+1,Noida,3.7
+1,Noida,1
+1,Noida,1
+1,Noida,1
+1,Noida,1
+1,Noida,1
+1,Noida,1
+1,Noida,1
+1,Noida,1
+1,Noida,1
+1,Noida,1
+1,Noida,1
+1,Noida,1
+1,Noida,2.3
+1,Noida,2.6
+1,Noida,3.4
+1,Noida,3.9
+1,Noida,3.9
+1,Noida,3.6
+1,Noida,1
+1,Noida,1
+1,Noida,1
+1,Noida,1
+1,Noida,3
+1,Noida,2.9
+1,Noida,3.1
+1,Noida,2.5
+1,Noida,2.9
+1,Noida,2.5
+1,Noida,3
+1,Noida,2.8
+1,Noida,2.8
+1,Noida,3.2
+1,Noida,2.8
+1,Noida,2.6
+1,Noida,2.9
+1,Noida,1
+1,Noida,1
+1,Noida,1
+1,Noida,1
+1,Noida,1
+1,Noida,1
+1,Noida,1
+1,Noida,1
+1,Noida,1
+1,Noida,1
+1,Noida,1
+1,Noida,1
+1,Noida,1
+1,Noida,1
+1,Noida,1
+1,Noida,1
+1,Noida,1
+1,Noida,1
+1,Noida,1
+1,Noida,1
+1,Noida,1
+1,Noida,1
+1,Noida,1
+1,Noida,1
+1,Noida,1
+1,Noida,1
+1,Noida,1
+1,Noida,1
+1,Noida,1
+1,Noida,4.2
+1,Noida,2.9
+1,Noida,2.8
+1,Noida,2.8
+1,Noida,2.9
+1,Noida,3.1
+1,Noida,2.9
+1,Noida,3.3
+1,Noida,3.4
+1,Noida,3
+1,Noida,3
+1,Noida,2.7
+1,Noida,3.2
+1,Noida,3.2
+1,Noida,3.5
+1,Noida,3.6
+1,Noida,1
+1,Noida,1
+1,Noida,1
+1,Noida,1
+1,Noida,1
+1,Noida,1
+1,Noida,1
+1,Noida,1
+1,Noida,1
+1,Noida,1
+1,Noida,1
+1,Noida,1
+1,Noida,1
+1,Noida,1
+1,Noida,2.9
+1,Noida,3
+1,Noida,3.3
+1,Noida,3.4
+1,Noida,3.5
+1,Noida,3.7
+1,Noida,1
+1,Noida,1
+1,Noida,1
+1,Noida,1
+1,Noida,4.3
+1,Noida,3.3
+1,Noida,2.5
+1,Noida,3.4
+1,Noida,3.1
+1,Noida,2.5
+1,Noida,2.5
+1,Noida,2.8
+1,Noida,2.6
+1,Noida,3.3
+1,Noida,3.3
+1,Noida,3.3
+1,Noida,2.7
+1,Noida,3.2
+1,Noida,2.5
+1,Noida,3.3
+1,Noida,3.4
+1,Noida,3
+1,Noida,2.6
+1,Noida,2.6
+1,Noida,3.2
+1,Noida,3.3
+1,Noida,3.4
+1,Noida,3.2
+1,Noida,3.2
+1,Noida,3.4
+1,Noida,3.2
+1,Noida,3
+1,Noida,3.4
+1,Noida,3.4
+1,Noida,3.9
+1,Noida,3.5
+1,Noida,3.6
+1,Noida,3.9
+1,Noida,3.6
+1,Noida,3.7
+1,Noida,3.8
+1,Noida,3.7
+1,Noida,3.6
+1,Noida,3.5
+1,Noida,3.8
+1,Noida,3.8
+1,Noida,3.5
+1,Noida,3.6
+1,Noida,3.8
+1,Noida,3.8
+1,Noida,3.8
+1,Noida,3.5
+1,Noida,3.5
+1,Noida,3.9
+1,Noida,3.6
+1,Noida,3.6
+1,Noida,3.7
+1,Noida,3.9
+1,Noida,3.8
+1,Noida,3.6
+1,Noida,3.9
+1,Noida,3.7
+1,Noida,3.9
+1,Noida,3.7
+1,Noida,3.5
+1,Noida,3.8
+1,Noida,3.6
+1,Noida,3.5
+1,Noida,3.5
+1,Noida,3.6
+1,Noida,3.5
+1,Noida,3.7
+1,Noida,3.5
+1,Noida,3.6
+1,Noida,2.2
+1,Noida,2.3
+1,Noida,2.1
+1,Noida,2.4
+1,Noida,4.2
+1,Noida,4
+1,Noida,2.8
+1,Noida,3.6
+1,Noida,1
+1,Noida,1
+1,Noida,2.9
+1,Noida,2.5
+1,Noida,3.6
+1,Noida,1
+1,Noida,1
+1,Noida,1
+1,Noida,1
+1,Noida,1
+1,Noida,1
+1,Noida,2.6
+1,Noida,3
+1,Noida,1
+1,Noida,3.3
+1,Noida,3
+1,Noida,1
+1,Noida,3
+1,Noida,3
+1,Noida,2.5
+1,Noida,1
+1,Noida,1
+1,Noida,1
+1,Noida,1
+1,Noida,1
+1,Noida,1
+1,Noida,3.4
+1,Noida,3.1
+1,Noida,2.6
+1,Noida,3
+1,Noida,1
+1,Noida,1
+1,Noida,2.5
+1,Noida,1
+1,Noida,4.1
+1,Noida,3.3
+1,Noida,3
+1,Noida,2.7
+1,Noida,3.4
+1,Noida,2.9
+1,Noida,3
+1,Noida,3.1
+1,Noida,3
+1,Noida,2.6
+1,Noida,3.1
+1,Noida,3.2
+1,Noida,2.8
+1,Noida,2.9
+1,Noida,2.9
+1,Noida,3.6
+1,Noida,3.5
+1,Noida,3.5
+1,Noida,1
+1,Noida,1
+1,Noida,1
+1,Noida,1
+1,Noida,1
+1,Noida,1
+1,Noida,1
+1,Noida,2.3
+1,Noida,2
+1,Noida,2.8
+1,Noida,3.2
+1,Noida,3.1
+1,Noida,2.9
+1,Noida,3.2
+1,Noida,3.5
+1,Noida,3.2
+1,Noida,3
+1,Noida,3.4
+1,Noida,3.5
+1,Noida,3.7
+1,Noida,1
+1,Noida,1
+1,Noida,2.8
+1,Noida,3
+1,Noida,3.9
+1,Noida,1
+1,Noida,1
+1,Noida,3.7
+1,Noida,3.7
+1,Noida,3
+1,Noida,2.7
+1,Noida,3.1
+1,Noida,2.6
+1,Noida,3.7
+1,Noida,1
+1,Noida,1
+1,Noida,1
+1,Noida,3
+1,Noida,3.2
+1,Noida,3.4
+1,Noida,1
+1,Noida,1
+1,Noida,2.8
+1,Noida,3.1
+1,Noida,2.6
+1,Noida,2.5
+1,Noida,2.9
+1,Noida,3
+1,Noida,3.6
+1,Noida,3.7
+1,Noida,1
+1,Noida,1
+1,Noida,1
+1,Noida,1
+1,Noida,1
+1,Noida,3
+1,Noida,2.8
+1,Noida,3.4
+1,Noida,2.9
+1,Noida,3.4
+1,Noida,2.9
+1,Noida,3.1
+1,Noida,3.7
+1,Noida,3.8
+1,Noida,3.6
+1,Noida,3.7
+1,Noida,3.7
+1,Noida,3.5
+1,Noida,3.6
+1,Noida,3.7
+1,Noida,3.8
+1,Noida,3.7
+1,Noida,3.9
+1,Noida,1
+1,Noida,1
+1,Noida,1
+1,Noida,1
+1,Noida,4.3
+1,Noida,4.3
+1,Noida,4.1
+1,Noida,2.8
+1,Noida,3
+1,Noida,3.2
+1,Noida,3.1
+1,Noida,3.7
+1,Noida,3.5
+1,Noida,1
+1,Noida,1
+1,Noida,1
+1,Noida,1
+1,Noida,1
+1,Noida,2.4
+1,Noida,4
+1,Noida,3.4
+1,Noida,3
+1,Noida,3
+1,Noida,3.3
+1,Noida,1
+1,Noida,3.4
+1,Noida,1
+1,Noida,3.2
+1,Noida,3.3
+1,Noida,3.1
+1,Noida,3.1
+1,Noida,2.9
+1,Noida,2.5
+1,Noida,3.4
+1,Noida,3.2
+1,Noida,3.1
+1,Noida,2.7
+1,Noida,2.9
+1,Noida,3.2
+1,Noida,2.9
+1,Noida,3.3
+1,Noida,3.3
+1,Noida,3.2
+1,Noida,3.3
+1,Noida,3.4
+1,Noida,2.5
+1,Noida,3
+1,Noida,3.4
+1,Noida,3
+1,Noida,2.8
+1,Noida,3.6
+1,Noida,3.5
+1,Noida,3.7
+1,Noida,3.6
+1,Noida,3.5
+1,Noida,3.5
+1,Noida,1
+1,Noida,1
+1,Noida,1
+1,Noida,1
+1,Noida,1
+1,Noida,1
+1,Noida,1
+1,Noida,1
+1,Noida,1
+1,Noida,1
+1,Noida,1
+1,Noida,1
+1,Noida,1
+1,Noida,2.4
+1,Noida,2.4
+1,Noida,4.1
+1,Noida,2.7
+1,Noida,3
+1,Noida,2.9
+1,Noida,3.2
+1,Noida,3.1
+1,Noida,2.5
+1,Noida,3.4
+1,Noida,2.9
+1,Noida,3
+1,Noida,2.8
+1,Noida,3.7
+1,Noida,3.7
+1,Noida,3.8
+1,Noida,1
+1,Noida,1
+1,Noida,1
+1,Noida,1
+1,Noida,1
+1,Noida,1
+1,Noida,1
+1,Noida,1
+1,Noida,1
+1,Noida,1
+1,Noida,3.3
+1,Noida,3.3
+1,Noida,3.1
+1,Noida,2.9
+1,Noida,1
+1,Noida,1
+1,Noida,1
+1,Noida,1
+1,Noida,1
+1,Noida,3
+1,Noida,3.4
+1,Noida,1
+1,Noida,1
+1,Noida,1
+1,Noida,1
+1,Noida,2.8
+1,Noida,2.9
+1,Noida,3
+1,Noida,3
+1,Noida,3.1
+1,Noida,3.4
+1,Noida,1
+1,Noida,1
+1,Noida,2.3
+1,Noida,2.4
+1,Noida,3
+1,Noida,3.2
+1,Noida,3.5
+1,Noida,1
+1,Noida,3.8
+1,Noida,3.5
+1,Noida,1
+1,Noida,2.7
+1,Noida,3.4
+1,Noida,2.7
+1,Noida,3.1
+1,Noida,3.3
+1,Noida,3.4
+1,Noida,2.5
+1,Noida,2.7
+1,Noida,3.4
+1,Noida,3
+1,Noida,3.4
+1,Noida,2.8
+1,Noida,2.5
+1,Noida,3.2
+1,Noida,2.6
+1,Noida,2.5
+1,Noida,3.6
+1,Noida,3.5
+1,Noida,1
+1,Noida,1
+1,Noida,1
+1,Noida,1
+1,Noida,1
+1,Noida,1
+1,Noida,2.3
+1,Noida,2.4
+1,Noida,2.3
+1,Noida,2.3
+1,Noida,2.3
+1,Noida,2.4
+1,Noida,2.4
+1,Noida,2.4
+1,Noida,4.1
+1,Noida,4.3
+1,Noida,4.1
+1,Noida,2.7
+1,Noida,3
+1,Noida,2.8
+1,Noida,2.7
+1,Noida,3.1
+1,Noida,3.6
+1,Noida,3.7
+1,Noida,3.6
+1,Noida,3.6
+1,Noida,3.5
+1,Noida,1
+1,Noida,1
+1,Noida,1
+1,Noida,1
+1,Noida,1
+1,Noida,1
+1,Noida,1
+1,Noida,1
+1,Noida,1
+1,Noida,1
+1,Noida,1
+1,Noida,1
+1,Noida,1
+1,Noida,1
+1,Noida,1
+1,Noida,1
+1,Noida,1
+1,Noida,2.3
+1,Noida,3.2
+1,Noida,2.9
+1,Noida,1
+1,Noida,1
+1,Noida,1
+1,Noida,2.9
+1,Noida,2.9
+1,Noida,3.1
+1,Noida,3.2
+1,Noida,2.6
+1,Noida,3.8
+1,Noida,3.5
+1,Noida,1
+1,Noida,1
+1,Noida,1
+1,Noida,1
+1,Noida,1
+1,Noida,1
+1,Noida,1
+1,Noida,1
+1,Noida,1
+1,Noida,1
+1,Noida,2.1
+1,Noida,2.3
+1,Noida,2.9
+1,Noida,1
+1,Noida,2.9
+1,Noida,3.1
+1,Noida,2.5
+1,Noida,1
+1,Noida,1
+1,Noida,1
+1,Noida,3
+1,Noida,2.9
+1,Noida,3.3
+1,Noida,3.1
+1,Noida,2.7
+1,Noida,1
+1,Noida,1
+1,Noida,1
+1,Noida,1
+1,Noida,1
+1,Noida,1
+1,Noida,1
+1,Noida,1
+1,Noida,2.7
+1,Noida,2.7
+1,Noida,2.9
+1,Noida,3.1
+1,Noida,1
+1,Noida,1
+1,Noida,1
+1,Noida,3.1
+1,Noida,1
+1,Noida,1
+1,Noida,1
+1,Noida,3.4
+1,Noida,3.1
+1,Noida,1
+1,Noida,1
+1,Noida,1
+1,Noida,3.2
+1,Noida,3.2
+1,Noida,3
+1,Noida,2.7
+1,Noida,3
+1,Noida,3
+1,Noida,3.2
+1,Noida,3.2
+1,Noida,3.1
+1,Noida,2.9
+1,Noida,2.7
+1,Noida,3.1
+1,Noida,3.2
+1,Noida,2.6
+1,Noida,2.8
+1,Noida,3.2
+1,Noida,2.5
+1,Noida,3.4
+1,Noida,3.1
+1,Noida,3.2
+1,Noida,2.9
+1,Noida,3.3
+1,Noida,2.9
+1,Noida,2.8
+1,Noida,2.7
+1,Noida,3
+1,Noida,3.1
+1,Noida,3.3
+1,Noida,3.1
+1,Noida,3
+1,Noida,3.1
+1,Noida,3.2
+1,Noida,3.1
+1,Noida,2.9
+1,Noida,2.8
+1,Noida,3.4
+1,Noida,2.5
+1,Noida,2.8
+1,Noida,2.9
+1,Noida,3
+1,Noida,3.4
+1,Noida,3.5
+1,Noida,3.5
+1,Noida,3.8
+1,Noida,3.5
+1,Noida,3.6
+1,Noida,1
+1,Noida,1
+1,Noida,1
+1,Noida,1
+1,Noida,1
+1,Noida,1
+1,Noida,1
+1,Noida,1
+1,Noida,1
+1,Noida,1
+1,Noida,1
+1,Noida,1
+1,Noida,1
+1,Noida,1
+1,Noida,1
+1,Noida,1
+1,Noida,1
+1,Noida,1
+1,Noida,1
+1,Noida,1
+1,Noida,1
+1,Noida,1
+1,Noida,1
+1,Noida,1
+1,Noida,1
+1,Noida,1
+1,Noida,1
+1,Noida,2.4
+1,Noida,2.4
+1,Noida,2.4
+1,Noida,2.6
+1,Noida,2.6
+1,Noida,1
+1,Noida,1
+1,Noida,1
+1,Noida,1
+1,Noida,1
+1,Noida,1
+1,Noida,1
+1,Noida,1
+1,Noida,1
+1,Noida,1
+1,Noida,2.8
+1,Noida,3.2
+1,Noida,1
+1,Noida,1
+1,Noida,1
+1,Noida,1
+1,Noida,2.7
+1,Noida,3.3
+1,Noida,1
+1,Noida,3.1
+1,Noida,2.9
+1,Noida,1
+1,Noida,1
+1,Noida,1
+1,Noida,1
+1,Noida,1
+1,Noida,2.9
+1,Noida,3.4
+1,Noida,3.3
+1,Noida,3.1
+1,Noida,3
+1,Noida,3
+1,Noida,2.7
+1,Noida,2.9
+1,Noida,3
+1,Noida,2.9
+1,Noida,2.9
+1,Noida,3.4
+1,Noida,3.2
+1,Noida,2.9
+1,Noida,3.1
+1,Noida,3.1
+1,Noida,3
+1,Noida,2.7
+1,Noida,3.1
+1,Noida,2.9
+1,Noida,3.1
+1,Noida,3.7
+1,Noida,3.5
+1,Noida,3.5
+1,Noida,1
+1,Noida,1
+1,Noida,1
+1,Noida,1
+1,Noida,1
+1,Noida,1
+1,Noida,1
+1,Noida,1
+1,Noida,1
+1,Noida,1
+1,Noida,1
+1,Noida,1
+1,Noida,1
+1,Noida,1
+1,Noida,1
+1,Noida,1
+1,Noida,1
+1,Noida,1
+1,Noida,1
+1,Noida,1
+1,Noida,1
+1,Noida,1
+1,Noida,1
+1,Noida,1
+1,Noida,1
+1,Noida,1
+1,Noida,1
+1,Noida,1
+1,Noida,1
+1,Noida,1
+1,Noida,1
+1,Noida,1
+1,Noida,1
+1,Noida,1
+1,Noida,1
+1,Noida,2.4
+1,Noida,2.1
+1,Noida,3.2
+1,Noida,1
+1,Noida,3.2
+1,Noida,3.2
+1,Noida,2.9
+1,Noida,3.4
+1,Noida,3.1
+1,Noida,3.1
+1,Noida,3
+1,Noida,3.1
+1,Noida,3.1
+1,Noida,3
+1,Noida,3.6
+1,Noida,3.6
+1,Noida,1
+1,Noida,1
+1,Noida,1
+1,Noida,1
+1,Noida,1
+1,Noida,1
+1,Noida,2.4
+1,Noida,3.1
+1,Noida,1
+1,Noida,3
+1,Noida,3.2
+1,Noida,3
+1,Noida,3.4
+1,Noida,2.6
+1,Noida,3.4
+1,Noida,3.6
+1,Noida,3.9
+1,Noida,1
+1,Noida,1
+1,Noida,1
+1,Noida,1
+1,Noida,1
+1,Noida,1
+1,Noida,2.2
+1,Noida,2.2
+1,Noida,3.2
+1,Noida,2.5
+1,Noida,3
+1,Noida,3.1
+1,Noida,2.5
+1,Noida,2.5
+1,Noida,3.1
+1,Noida,3.3
+1,Noida,2.6
+1,Noida,3
+1,Noida,2.6
+1,Noida,2.7
+1,Noida,3.2
+1,Noida,3.5
+1,Noida,1
+1,Noida,1
+1,Noida,2.4
+1,Noida,2.3
+1,Noida,2.3
+1,Noida,3.3
+1,Noida,3
+1,Noida,2.7
+1,Noida,2.7
+1,Noida,3.4
+1,Noida,2.8
+1,Noida,3
+1,Noida,3.2
+1,Noida,3.1
+1,Noida,3.2
+1,Noida,3.4
+1,Noida,3.3
+1,Noida,3.1
+1,Noida,2.6
+1,Noida,3.4
+1,Noida,2.6
+1,Noida,3.5
+1,Noida,3.5
+1,Noida,3.5
+1,Noida,3.6
+1,Noida,3.5
+1,Noida,3.7
+1,Noida,3.6
+1,Noida,3.7
+1,Noida,3.5
+1,Noida,3.5
+1,Noida,3.5
+1,Noida,1
+1,Noida,1
+1,Noida,1
+1,Noida,1
+1,Noida,1
+1,Noida,1
+1,Noida,2
+1,Noida,2
+1,Noida,2
+1,Noida,4
+1,Noida,2.6
+1,Noida,1
+1,Noida,1
+1,Noida,1
+1,Noida,1
+1,Panchkula,4.2
+1,Patna,3.5
+1,Patna,3.4
+1,Patna,3.5
+1,Patna,3.5
+1,Patna,3.5
+1,Patna,3.4
+1,Patna,3.3
+1,Patna,3.4
+1,Patna,3.6
+1,Patna,3.7
+1,Patna,3.4
+1,Patna,3.6
+1,Patna,3.3
+1,Patna,3.3
+1,Patna,3.6
+1,Patna,3.6
+1,Patna,3.5
+1,Patna,3.4
+1,Patna,3.1
+1,Patna,3.5
+1,Puducherry,3.8
+1,Puducherry,3.8
+1,Puducherry,3.7
+1,Puducherry,3.5
+1,Puducherry,3.8
+1,Puducherry,3.6
+1,Puducherry,3.6
+1,Puducherry,4.1
+1,Puducherry,4.2
+1,Puducherry,3.8
+1,Puducherry,3.8
+1,Puducherry,3.9
+1,Puducherry,3.1
+1,Puducherry,3.4
+1,Puducherry,3.7
+1,Puducherry,3.5
+1,Puducherry,3.8
+1,Puducherry,3.5
+1,Puducherry,3.8
+1,Puducherry,4.2
+1,Pune,4.5
+1,Pune,3.6
+1,Pune,4.3
+1,Pune,4.8
+1,Pune,4.3
+1,Pune,4.2
+1,Pune,4.1
+1,Pune,4.3
+1,Pune,4.4
+1,Pune,4.2
+1,Pune,4.1
+1,Pune,4
+1,Pune,4.5
+1,Pune,4.5
+1,Pune,4.2
+1,Pune,4.2
+1,Pune,4.1
+1,Pune,3.6
+1,Pune,4.1
+1,Pune,4.4
+1,Ranchi,3.3
+1,Ranchi,3.2
+1,Ranchi,3.7
+1,Ranchi,3.3
+1,Ranchi,3.4
+1,Ranchi,4
+1,Ranchi,3.7
+1,Ranchi,3.6
+1,Ranchi,3.1
+1,Ranchi,3.2
+1,Ranchi,3.5
+1,Ranchi,3.3
+1,Ranchi,3.4
+1,Ranchi,3.3
+1,Ranchi,3.4
+1,Ranchi,3.7
+1,Ranchi,3.6
+1,Ranchi,3.4
+1,Ranchi,3.5
+1,Ranchi,3.5
+1,Secunderabad,4.4
+1,Secunderabad,4.6
+1,Surat,3.8
+1,Surat,3.9
+1,Surat,4.1
+1,Surat,3.9
+1,Surat,4.2
+1,Surat,4
+1,Surat,4
+1,Surat,4.3
+1,Surat,4.1
+1,Surat,3.7
+1,Surat,4.2
+1,Surat,3.9
+1,Surat,3.9
+1,Surat,4.1
+1,Surat,4.1
+1,Surat,4.1
+1,Surat,3.4
+1,Surat,3.6
+1,Surat,3.6
+1,Surat,3.8
+1,Vadodara,4.5
+1,Vadodara,3.8
+1,Vadodara,3.8
+1,Vadodara,3.9
+1,Vadodara,4.3
+1,Vadodara,4.1
+1,Vadodara,4
+1,Vadodara,4.4
+1,Vadodara,3.8
+1,Vadodara,4
+1,Vadodara,3.8
+1,Vadodara,3.5
+1,Vadodara,4.6
+1,Vadodara,3.5
+1,Vadodara,3.9
+1,Vadodara,3.9
+1,Vadodara,4.3
+1,Vadodara,4.2
+1,Vadodara,4.1
+1,Vadodara,4.1
+1,Varanasi,3.4
+1,Varanasi,3.7
+1,Varanasi,3.2
+1,Varanasi,3.7
+1,Varanasi,3.6
+1,Varanasi,3.7
+1,Varanasi,3.8
+1,Varanasi,3.5
+1,Varanasi,4.1
+1,Varanasi,3.3
+1,Varanasi,3.4
+1,Varanasi,3.5
+1,Varanasi,3.4
+1,Varanasi,3.6
+1,Varanasi,3.3
+1,Varanasi,3.3
+1,Varanasi,3.5
+1,Varanasi,3.2
+1,Varanasi,3.5
+1,Varanasi,3.5
+1,Vizag,4.6
+1,Vizag,4.3
+1,Vizag,4.2
+1,Vizag,4.4
+1,Vizag,4.1
+1,Vizag,3.7
+1,Vizag,4.9
+1,Vizag,3.8
+1,Vizag,3.8
+1,Vizag,3.6
+1,Vizag,3.5
+1,Vizag,3.6
+1,Vizag,3.7
+1,Vizag,4.1
+1,Vizag,4
+1,Vizag,3.6
+1,Vizag,3.7
+1,Vizag,4.3
+1,Vizag,3.8
+1,Vizag,4.4
+94,Bandung,4.2
+94,Bogor,3.7
+94,Bogor,4
+94,Jakarta,4.9
+94,Jakarta,4.6
+94,Jakarta,3.9
+94,Jakarta,4.6
+94,Jakarta,4.1
+94,Jakarta,4.6
+94,Jakarta,4.2
+94,Jakarta,4.4
+94,Jakarta,4.9
+94,Jakarta,4.3
+94,Jakarta,4.2
+94,Jakarta,4.4
+94,Jakarta,4.9
+94,Jakarta,3.4
+94,Jakarta,4
+94,Jakarta,4.3
+94,Tangerang,3.7
+94,Tangerang,4.9
+148,Auckland,4.3
+148,Auckland,4.7
+148,Auckland,4.9
+148,Auckland,4.1
+148,Auckland,4.8
+148,Auckland,4.6
+148,Auckland,4.9
+148,Auckland,4.5
+148,Auckland,4.2
+148,Auckland,2.3
+148,Auckland,4.4
+148,Auckland,4.3
+148,Auckland,4
+148,Auckland,4.2
+148,Auckland,3.5
+148,Auckland,4
+148,Auckland,4.5
+148,Auckland,4
+148,Auckland,4.7
+148,Auckland,4.6
+148,Wellington City,4.3
+148,Wellington City,4.1
+148,Wellington City,4.5
+148,Wellington City,4.5
+148,Wellington City,4.6
+148,Wellington City,4.1
+148,Wellington City,4.1
+148,Wellington City,4.3
+148,Wellington City,4
+148,Wellington City,4.4
+148,Wellington City,4.3
+148,Wellington City,4.2
+148,Wellington City,4.4
+148,Wellington City,4.4
+148,Wellington City,4.2
+148,Wellington City,4.3
+148,Wellington City,4.2
+148,Wellington City,3.7
+148,Wellington City,4.3
+148,Wellington City,4.1
+215,Birmingham,2.8
+215,Birmingham,3.7
+215,Birmingham,4
+215,Birmingham,3.9
+215,Birmingham,3.7
+215,Birmingham,3.9
+215,Birmingham,4.6
+215,Birmingham,4.2
+215,Birmingham,4.5
+215,Birmingham,3.8
+215,Birmingham,4
+215,Birmingham,3.6
+215,Birmingham,4.2
+215,Birmingham,4.1
+215,Birmingham,1
+215,Birmingham,4
+215,Birmingham,3.1
+215,Birmingham,3.8
+215,Birmingham,3.7
+215,Birmingham,4
+215,Edinburgh,3.9
+215,Edinburgh,4.5
+215,Edinburgh,4.6
+215,Edinburgh,4.7
+215,Edinburgh,4.4
+215,Edinburgh,3.8
+215,Edinburgh,4.3
+215,Edinburgh,4
+215,Edinburgh,4
+215,Edinburgh,3.8
+215,Edinburgh,3.8
+215,Edinburgh,3.7
+215,Edinburgh,3.9
+215,Edinburgh,3.5
+215,Edinburgh,4.1
+215,Edinburgh,4.4
+215,Edinburgh,4.1
+215,Edinburgh,4.1
+215,Edinburgh,4
+215,Edinburgh,4.2
+215,London,4.7
+215,London,4.5
+215,London,4.9
+215,London,4.9
+215,London,4.5
+215,London,4.7
+215,London,4.6
+215,London,4.7
+215,London,4.5
+215,London,4.1
+215,London,4.5
+215,London,4.9
+215,London,3.8
+215,London,4.8
+215,London,4.4
+215,London,4.5
+215,London,4.1
+215,London,4.7
+215,London,4.3
+215,London,4.6
+215,Manchester,3.3
+215,Manchester,3.3
+215,Manchester,4
+215,Manchester,4.4
+215,Manchester,3.9
+215,Manchester,3.9
+215,Manchester,4.3
+215,Manchester,4.9
+215,Manchester,4
+215,Manchester,4.1
+215,Manchester,4.1
+215,Manchester,3.4
+215,Manchester,3.6
+215,Manchester,4.5
+215,Manchester,3.7
+215,Manchester,4.5
+215,Manchester,4.2
+215,Manchester,4.3
+215,Manchester,4.2
+215,Manchester,4.3
+166,Doha,3.4
+166,Doha,3.4
+166,Doha,4.6
+166,Doha,4
+166,Doha,4.2
+166,Doha,3.8
+166,Doha,3.8
+166,Doha,4.9
+166,Doha,3.6
+166,Doha,4.3
+166,Doha,4
+166,Doha,3.7
+166,Doha,4
+166,Doha,3.8
+166,Doha,4.7
+166,Doha,3.9
+166,Doha,4.4
+166,Doha,4.3
+166,Doha,4.5
+166,Doha,3.9
+189,Cape Town,3.7
+189,Cape Town,4.1
+189,Cape Town,3.7
+189,Cape Town,4.2
+189,Cape Town,4.4
+189,Cape Town,3.9
+189,Cape Town,4
+189,Cape Town,4.5
+189,Cape Town,4.4
+189,Cape Town,3.8
+189,Cape Town,3.8
+189,Cape Town,3.6
+189,Cape Town,4.5
+189,Cape Town,4
+189,Cape Town,4.8
+189,Cape Town,4.4
+189,Cape Town,3.8
+189,Cape Town,4.1
+189,Cape Town,4.1
+189,Cape Town,4.4
+189,Inner City,4.9
+189,Inner City,4.9
+189,Johannesburg,4.3
+189,Johannesburg,4.1
+189,Johannesburg,4
+189,Johannesburg,4.1
+189,Johannesburg,4.2
+189,Johannesburg,4.5
+189,Pretoria,4.7
+189,Pretoria,4.1
+189,Pretoria,4.4
+189,Pretoria,3.9
+189,Pretoria,4.2
+189,Pretoria,4.3
+189,Pretoria,3.8
+189,Pretoria,4.4
+189,Pretoria,4.3
+189,Pretoria,4.4
+189,Pretoria,3.9
+189,Pretoria,3.4
+189,Pretoria,4
+189,Pretoria,4.5
+189,Pretoria,4.1
+189,Pretoria,4
+189,Pretoria,4.5
+189,Pretoria,3.9
+189,Pretoria,4.1
+189,Pretoria,4.9
+189,Randburg,4.3
+189,Sandton,4.8
+189,Sandton,4
+189,Sandton,4.4
+189,Sandton,4.2
+189,Sandton,4.1
+189,Sandton,4.3
+189,Sandton,4.6
+189,Sandton,4.3
+189,Sandton,4.4
+189,Sandton,4.4
+189,Sandton,3.8
+191,Colombo,3.4
+191,Colombo,2.4
+191,Colombo,3.7
+191,Colombo,3.6
+191,Colombo,4
+191,Colombo,4
+191,Colombo,3.5
+191,Colombo,4
+191,Colombo,4.5
+191,Colombo,3.8
+191,Colombo,2.5
+191,Colombo,4.2
+191,Colombo,4.2
+191,Colombo,4.1
+191,Colombo,4.2
+191,Colombo,4
+191,Colombo,4.2
+191,Colombo,4.9
+191,Colombo,4.1
+191,Colombo,4.1
+208,Ankara,4.2
+208,Ankara,4.6
+208,Ankara,4.2
+208,Ankara,4.3
+208,Ankara,3.4
+208,Ankara,4.5
+208,Ankara,4.4
+208,Ankara,4.9
+208,Ankara,4.4
+208,Ankara,4.1
+208,Ankara,4.3
+208,Ankara,4.2
+208,Ankara,4.6
+208,Ankara,4.4
+208,Ankara,3.8
+208,Ankara,4.2
+208,Ankara,4.3
+208,Ankara,4.4
+208,Ankara,4.2
+208,Ankara,4.7
+208,Astanbul,4.7
+208,Astanbul,4.9
+208,Astanbul,4.2
+208,Astanbul,4.9
+208,Astanbul,4.2
+208,Astanbul,3.7
+208,Astanbul,4.5
+208,Astanbul,4.7
+208,Astanbul,4.3
+208,Astanbul,4.1
+208,Astanbul,4.2
+208,Astanbul,3.7
+208,Astanbul,4
+208,Astanbul,4
